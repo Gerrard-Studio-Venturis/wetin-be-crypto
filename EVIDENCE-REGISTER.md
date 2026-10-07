@@ -1,6 +1,6 @@
 # Wetin Be Crypto — Evidence Register
 
-Version: 0.5
+Version: 0.6
 Date: 7 October 2026
 Status: Desk research, bounded regional/WordPress source passes and internal written review; direct learner and application validation outstanding.
 
@@ -105,7 +105,7 @@ Other products examined in the initial research included Binance Academy, Coinba
 | E-22 | Core supports structured content and storage choices; cost/compatibility require a bounded model. | S-40/43–45 and dated vendor prices. | Build-plan records, illustrative USD479 hosting/editorial subtotal and explicit exclusions. | No selected versions/host, total budget or runtime performance; effort range and device targets are planning judgements. |
 | E-23 | Retrieval today does not make an official statement current; national guidance can materially affect examples. | S-47/49, dated official material and scoped interpretation. | Record age/applicability; hold unsupported Ghana wage/invoice instructions pending current review; PD-01/03, FS-02/07/08/11. | Source observations, not our legal determination or verified operational-country coverage. |
 | E-24 | A manual listing/front matter does not establish its full level/content/effectiveness. | S-48/50; only six PDF pages inspected. | Record advanced-level label and partial access; preserve original beginner foundation. | No full comparative curriculum/learning-outcome review. |
-| E-25 | Concrete release/evidence/capacity proposals make the remaining decisions reviewable. | Existing coverage, source categories and planning judgement. | 32-lesson + 6/6/24 manifest, criterion rules and staffing-hour assumptions; Launch Scope, Assessment Rules, Operating Plan; PD-01/02/03. | Counts/thresholds/hours are unapproved hypotheses; full banks, human reviews and available staff remain missing. |
+| E-25 | Concrete release/evidence/capacity proposals made baseline choices reviewable. | Existing coverage, source categories and planning judgement; explicit owner baseline response. | 32-lesson + 6/6/24 scope, criterion model and editorial target adopted under D-16–18. | Policy acceptance is not measured evidence. Specific banks/gates, human review, actual capacity and hours remain unverified. |
 | E-26 | Internal written walkthrough identifies guest authority and lifecycle contracts. | Functional Review against existing 10 flows/69 criteria. | Clarify guest/account own-record access; propose visit/checkpoint/import/race rules; PD-04/07. | Document analysis only; no observed learner behaviour or installed proof. |
 
 ## Assumptions and unresolved evidence

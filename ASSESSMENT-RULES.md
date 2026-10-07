@@ -1,8 +1,8 @@
 # Wetin Be Crypto — Proposed Assessment and Mission Rules
 
-Version: 0.1
+Version: 0.2
 Date: 7 October 2026
-Status: Concrete P-02 proposal for PD-02 review. No approved full bank, qualified subject/voice approval, learner validation, or application proof.
+Status: Criterion-based structured model adopted under D-17. Specific banks, criteria, gates and equivalence remain for qualified review; no approved full bank or application proof.
 
 Related: [Curriculum Coverage](CURRICULUM-COVERAGE.md), [Curriculum and Journeys](CURRICULUM-AND-JOURNEYS.md), [Feature Specification](FEATURE-SPECIFICATION.md), [Content Design Samples](CONTENT-DESIGN-SAMPLES.md), [WordPress Build Plan](WORDPRESS-BUILD-PLAN.md), [Evidence Register](EVIDENCE-REGISTER.md).
 
@@ -10,7 +10,7 @@ Related: [Curriculum Coverage](CURRICULUM-COVERAGE.md), [Curriculum and Journeys
 
 Use **criterion-based checks and fictional missions**: meet every published required decision and its core rationale; designated essential decisions cannot be offset by unrelated answers. Begin with selected responses and structured rationale choices for automatic assessment. Free-text explanations can support facilitated research or separately staffed human review, but no automatic free-text grader is proposed.
 
-This develops the existing eight-module/32-outcome inventory into reviewable rules. Counts, exact criteria, complete banks, prerequisite versions, and examples remain proposals. D-10 already authorises checks for selected practice and keeps reading open; it does not approve the gates below. D-11's 30-day guest memory is a storage policy, not a mastery-expiry rule or a learning-review interval. All new fixtures are jurisdiction-neutral: a fictional payment/receipt setting does not establish legal availability or suitability in Ghana, Nigeria, or another country. No application code or visual design is produced.
+The owner adopted the eight-module/32-lesson baseline and criterion-based structured assessment model under D-16/17. This is model approval, not qualified approval of exact criteria, complete banks, prerequisite versions, gates or examples. D-10 keeps public reading open. D-11's 30-day guest memory is a storage policy, not a mastery-expiry rule or learning-review interval. Fixtures are jurisdiction-neutral: a fictional payment/receipt setting does not establish legal availability or suitability in Ghana, Nigeria, or another country. No application code or visual design is produced.
 
 ### Evidence that each activity can provide
 

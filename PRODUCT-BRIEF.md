@@ -1,6 +1,6 @@
 # Crypto Learning Application — Product Brief
 
-Version: 0.8
+Version: 0.9
 Date: 7 October 2026
 Status: Consolidated approved product direction. Detailed feature behaviour remains a draft for review.
 Platform: WordPress
@@ -33,6 +33,11 @@ Success is demonstrated understanding and sound decisions. A learner can succeed
 | D-13 | This engagement covers research, planning, functional specifications, and a development-team handoff. Readiness or approval does not trigger application coding by the planning assistant. |
 | D-14 | GitHub holds the full planning package and a concise Markdown reviewer brief. Publish documentation updates at meaningful checkpoints during active work. |
 | D-15 | Visual design is removed from this engagement. Sitemap, functional page/state specifications, simple flow diagrams, content/workflow review, WordPress recommendations, and handoff remain. Later delivery owns styling and working UI validation. |
+| D-16 | Adopt the eight-module/32-lesson foundation and six-article/six-hub/24-glossary launch baseline in Launch Scope v0.1. |
+| D-17 | Use criterion-based structured checks; individual banks, rubrics, gates and equivalence still need content review. |
+| D-18 | Target one original evergreen article weekly and at most one qualifying sourced news summary per fortnight; actual staffing/funding remain open. |
+| D-19 | Adopt the preferred two-hour visit, meaningful learning-checkpoint and recoverable per-record import/cleanup product rules in Functional Review v0.1. |
+| D-20 | Prefer a WordPress-owned education layer for quotation; components, versions, host, budget and delivery appointment remain open. |
 
 ## Learners and readers
 
@@ -61,7 +66,7 @@ Coin and topic hubs connect these areas. A reader can move from a news story to 
 
 ## Foundation
 
-The foundation has eight proposed modules:
+The adopted foundation has eight modules:
 
 1. Understand the basics.
 2. Recognise scams and establish trust.
@@ -74,7 +79,7 @@ The foundation has eight proposed modules:
 
 Detailed outcomes and journeys are in [Curriculum and Journeys](CURRICULUM-AND-JOURNEYS.md).
 
-The [Curriculum Coverage](CURRICULUM-COVERAGE.md) proposes 32 lessons across these modules and a 43-topic living map of foundation, specialist, reference, and emerging coverage. Counts and launch coverage remain proposed. [Content Design Samples](CONTENT-DESIGN-SAMPLES.md) makes one lesson/check/mission and the article connections concrete for review.
+The [Curriculum Coverage](CURRICULUM-COVERAGE.md) defines the adopted 32-lesson inventory and a 43-topic living map of foundation, specialist, reference, and emerging coverage. Individual lesson copy, assessment criteria/gates and publication readiness still need content review. [Content Design Samples](CONTENT-DESIGN-SAMPLES.md) makes representative teaching and article connections concrete.
 
 ## Teaching and progress
 
@@ -90,7 +95,7 @@ Articles are public. News summaries identify and link to supporting sources. Exp
 
 Publication and material-update dates have different meanings. Material factual corrections are visible. Country guidance, practical instructions, asset guides, and lessons require sources, responsibility, verification dates, and update triggers.
 
-Publication cadence, staffing, initial country coverage, and the first asset-hub shortlist remain open.
+The adopted pilot target is one original evergreen article weekly and at most one qualifying sourced summary per fortnight. Nigeria/Ghana are example settings and BTC/ETH/USDC the first named asset hubs, as defined in [Launch Scope](LAUNCH-SCOPE.md). This establishes neither current country/provider availability nor investment recommendations. Actual staffing, funding and publication dates remain open.
 
 ## Voice
 

@@ -1,8 +1,8 @@
 # Wetin Be Crypto — Research and Functional Planning Process
 
-Version: 0.5
+Version: 0.6
 Date: 7 October 2026
-Status: Detailed process draft within the owner's approved planning-only research direction.
+Status: Planning-only process with adopted launch/assessment/editorial/guest/native-route baseline under D-16–20; human review and delivery conditions outstanding.
 Platform: WordPress.
 
 ## Purpose and boundary
@@ -28,7 +28,7 @@ Already prepared:
 - [WordPress Build Plan](WORDPRESS-BUILD-PLAN.md), three component/core source reports, cost/ownership/effort assumptions, and [future verification](IMPLEMENTATION-VERIFICATION-PLAN.md) across all 69 criteria.
 - Concrete [Launch Scope](LAUNCH-SCOPE.md), [Assessment Rules](ASSESSMENT-RULES.md), [Editorial Operating Plan](EDITORIAL-OPERATING-PLAN.md), internal [Functional Review](FUNCTIONAL-REVIEW.md), [regional source pass](REGIONAL-SCOPE-RESEARCH.md) and [Handoff Review Pack](HANDOFF-REVIEW-PACK.md).
 
-Still outstanding: direct learner evidence, qualified subject and language review, full assessment banks and approved rubrics/gates, reviewed first-release scope, functional IA/flow review and refinement, content/workflow validation, editorial capacity, technical route/budget/mechanism approval and itemised quotes, and final handoff approval. The remaining work groups into five parts: settle launch scope/learning rules; review functional structure; validate content/workflows; review the WordPress recommendation; approve the handoff.
+The owner explicitly adopted the launch scope, criterion-based structured model, low-volume editorial target, preferred guest product contracts and native route for quotation under D-16–20. Still outstanding: full draft content/banks and actual accuracy/voice review, specific rubrics/gates/equivalence, available learner evidence, functional refinement, actual editorial staffing/capacity, complete quotes/components/technical mechanisms, device targets and named handoff owners. Product baseline acceptance does not invent human review or application proof.
 
 ## Progress at this checkpoint
 

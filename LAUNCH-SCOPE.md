@@ -1,14 +1,14 @@
-# Wetin Be Crypto — Proposed First-Release Scope
+# Wetin Be Crypto — Adopted First-Release Scope
 
-Version: 0.1
+Version: 0.2
 Date: 7 October 2026
-Status: Concrete scope proposal for PD-01/02/03/04; owner review outstanding.
+Status: First-release baseline adopted under D-16. Actual publishing inputs, specific assessment gates and human reviews remain outstanding.
 
 ## Product promise and scope boundary
 
 Help a learner understand crypto, judge when it is appropriate, practise everyday decisions in fictional situations, and keep a clear learning journey. Help a reader understand news, coins and wider crypto stories without first taking a course. A wider African audience with a West African focus, English with occasional varied Nigerian Pidgin, WordPress, free core reading, optional accounts, 30-day opt-in guest memory and account article bookmarks are approved direction.
 
-This document proposes the first content/feature boundary; continuation is not approval of every item or count. [Decision Log](DECISION-LOG.md) preserves D-01–15. [Regional research](REGIONAL-SCOPE-RESEARCH.md) distinguishes examples from current country/provider applicability. [Assessment Rules](ASSESSMENT-RULES.md) and [Editorial Operating Plan](EDITORIAL-OPERATING-PLAN.md) specify the associated work, not completed production.
+The owner adopted this first-release baseline from v0.1 under D-16. [Decision Log](DECISION-LOG.md) records that explicit response and its limits. Counts/settings/assets are settled product scope; individual publishable copy, assessment keys/gates and country/provider claims still need review. [Regional research](REGIONAL-SCOPE-RESEARCH.md) distinguishes examples from current operational applicability. [Assessment Rules](ASSESSMENT-RULES.md) and [Editorial Operating Plan](EDITORIAL-OPERATING-PLAN.md) specify the associated work, not completed production.
 
 This is documentation-only. No code, component installation/configuration, purchase, deployment or visual design is commissioned. Later delivery owns styling and working UI/accessibility checks. Approving scope does not cause the planning assistant to implement it.
 
@@ -79,4 +79,4 @@ Keep advanced DeFi, trading/derivatives, technical building, deep consensus/cryp
 
 The recommended public launch remains the reviewed eight-module foundation plus the bounded articles/reference seed set. A smaller reviewed initial path is a viable owner-approved scope alternative if capacity cannot support this; name exactly which modules/outcomes are available and adjust totals honestly. An internal content pilot is not automatically a reduced public launch. No date or staffing is promised by this sequence.
 
-Before owner approval, review lesson/assessment counts and essential gates, seed subjects/hub identities, region/asset choices and publication capacity. The handoff must identify unavailable human evidence and critical technical conditions. [Handoff Review Pack](HANDOFF-REVIEW-PACK.md) collates those decisions and responsibilities; it does not record sign-off or trigger coding.
+The baseline counts, example settings/assets and article/reference subjects are adopted. Review the actual teaching, essential criteria/gates, source-dependent content and staffed capacity before public launch. The handoff must identify unavailable human evidence and critical technical conditions. [Handoff Review Pack](HANDOFF-REVIEW-PACK.md) collates responsibilities and remaining approval conditions; baseline adoption does not trigger coding.

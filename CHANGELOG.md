@@ -2,6 +2,12 @@
 
 Dates use the owner's current date context. Versions describe planning documents; they are not application releases.
 
+## 7 October 2026 — Explicit baseline adoption
+
+- Owner selected “Adopt the recommended baseline” after a question that named the full eight-module/32-lesson release, criterion-based structured checks, low-volume editorial pilot, preferred guest rules and native WordPress education route for quotation. Added D-16–20; preserved D-01–15 unchanged.
+- Scope/assessment-model/editorial-target/guest-product-rule/quotation-route choices are settled. Individual content/keys/gates/equivalence, actual staff, costs/purchases/components, human review, device targets and named delivery owners remain separate conditions.
+- Began full documentation content drafting in response to the request to finish decisions and content before building. No application code, installation, purchase, outreach, visual design or runtime test occurred. The reviewer/build-team question remains open.
+
 ## 7 October 2026 — Launch, assessment and operating-review checkpoint
 
 - Added Launch Scope v0.1: full eight-module/32-lesson foundation and 6 article/6 hub/24 glossary seed proposal, initial named assets/settings, later scope and production sequence. All counts/choices remain unapproved.

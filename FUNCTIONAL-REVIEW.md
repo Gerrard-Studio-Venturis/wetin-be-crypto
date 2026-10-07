@@ -1,10 +1,10 @@
 # Wetin Be Crypto — Internal Functional Review
 
-Version: 0.1
+Version: 0.2
 
 Date: 7 October 2026
 
-Status: Internal written requirement walkthrough completed; findings and detailed rules proposed for owner review. No learner, independent subject/voice or application validation claimed.
+Status: Internal written walkthrough completed; preferred PD-07-V/C/I product rules adopted under D-19. Mechanisms and other findings remain for delivery/review. No human or application validation claimed.
 
 ## Reviewed scope and method
 
@@ -49,7 +49,9 @@ These are written-contract findings, not reports of application defects. “Clar
 | FR-07 — Bookmark edge contract | FL-09; FS-10; build-plan bookmark ownership. Withdrawal during auth differs from withdrawal of an existing bookmark; private pending titles and late responses must not contaminate the saved state. | An existing withdrawn bookmark uses its last approved public identity/title and unavailable status. Do not claim a new successful save when the article becomes unavailable during auth. Bind writes to the authenticated account and display confirmed current state; specify stale/conflicting Save/Unsave handling. No bookmark action renews learning memory or silently imports learning. PD-06 delivery contract. |
 | FR-08 — Editorial boundary/capacity | FL-08/10; FS-11/12; build-plan editorial section. Body review alone cannot cover revised taxonomies/asset identities/questions or indexed snippets. Two review responsibilities do not establish two available people or an enforceable workflow. | Define revision scope and required approvals for fields/dependencies, scheduled publication and allowed editing surfaces; name emergency editor authority/audit/subsequent review. Set whether people can hold both responsibilities and actual capacity under PD-03. Verify current public indexing and private-key exclusion later; naturalness/comprehension/subject review remain external work. |
 
-## Concrete PD-07 choices — all proposed, not approved
+## Concrete PD-07 choices — preferred product rules adopted
+
+The owner explicitly adopted the documented preferred guest-memory/import rules from v0.1 under D-19. The two-hour idle visit, meaningful changed-state checkpoints, rolling 30-day memory, per-record durable confirmation and confirmed-only cleanup are now product rules. Alternatives below remain historical comparison. Implementation authority, storage/fallback support and recovery mechanisms are unproven delivery responsibilities. Content-specific correction/equivalence rules still require PD-02 review. References below to owner approval describe the original proposal process, not an unresolved selection between these preferred options.
 
 The following preferred package makes the open contracts reviewable. Numerical duration and checkpoint choices are planning hypotheses, not measured audience preferences. They preserve the approved 30 days after the last qualifying learning activity; they do not replace it with a fixed 30 days after first arrival or consent.
 

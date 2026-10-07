@@ -1,25 +1,25 @@
 # Wetin Be Crypto — Handoff Review Pack
 
-Version: 0.1
+Version: 0.2
 Date: 7 October 2026
 Status: Planning package prepared for owner/reviewer decisions; settled development handoff NOT approved.
 
 ## Review outcome sought
 
-Review the concrete first-release scope, evidence rules, operating capacity, functional exceptions and WordPress recommendation. Record accepted versions, changes or conditions against actual reviewer names. The owner's continuation authorises preparation/publication, not automatic sign-off of these proposals. The planning assistant remains responsible for documentation support; code, installation/configuration, deployment and visual-design production stay outside this engagement.
+The owner explicitly adopted the full launch baseline, criterion-based structured assessment model, low-volume editorial pilot target, preferred guest product contracts and native WordPress route for quotation. D-16–20 in [Decision Log](DECISION-LOG.md) record the exact question/response and proposal snapshot. Remaining review concerns actual content/keys/gates, staff/capacity, technical quotes/mechanisms, device targets and named owners. The planning assistant remains responsible for documentation support; code, installation/configuration, deployment and visual-design production stay outside this engagement.
 
-Start with [Reviewer Brief](REVIEW-BRIEF.md). Detailed review proceeds through [Launch Scope](LAUNCH-SCOPE.md), [Assessment Rules](ASSESSMENT-RULES.md), [Editorial Operating Plan](EDITORIAL-OPERATING-PLAN.md), [Functional Review](FUNCTIONAL-REVIEW.md), and [WordPress Build Plan](WORDPRESS-BUILD-PLAN.md). [Decision Log](DECISION-LOG.md) preserves approved D-01–15 and pending PD IDs.
+Start with [Reviewer Brief](REVIEW-BRIEF.md). Detailed review proceeds through [Launch Scope](LAUNCH-SCOPE.md), [Assessment Rules](ASSESSMENT-RULES.md), [Editorial Operating Plan](EDITORIAL-OPERATING-PLAN.md), [Functional Review](FUNCTIONAL-REVIEW.md), and [WordPress Build Plan](WORDPRESS-BUILD-PLAN.md). [Decision Log](DECISION-LOG.md) preserves D-01–15, adds adopted D-16–20 and retains PD IDs for remaining conditions.
 
 ## Artifact readiness and limits
 
 | Area | Prepared evidence/artifact | Remaining condition |
 | --- | --- | --- |
-| Scope and broader coverage | Eight-module/32-lesson proposal, 43-topic living map, bounded articles/hubs/glossary manifest, region/asset proposal | PD-01 scope/coverage approval and actual source-reviewed publishable content. |
-| Teaching/assessment | Lesson/check/mission samples, proposed 32-outcome evidence mapping and eight mission gates/rubrics | PD-02 format/criteria decisions, full banks/task versions, qualified subject/voice review. Samples do not award whole-module evidence. |
-| Editorial operation | Seed backlog, 580–1,055 preparation person-hours, 14–24 weekly pilot hours, review roles, correction and capacity rules | PD-03 staffed cadence, named reviewers/backup and funding. No staff or publication date is confirmed. |
+| Scope and broader coverage | Eight-module/32-lesson proposal, 43-topic living map, bounded articles/hubs/glossary manifest, region/asset proposal | D-16 baseline adopted; actual source-reviewed publishable content remains. |
+| Teaching/assessment | Lesson/check/mission samples, proposed 32-outcome evidence mapping and eight mission gates/rubrics | D-17 model adopted; specific criteria/gates, full banks and qualified subject/voice review remain. Samples do not award whole-module evidence. |
+| Editorial operation | Seed backlog, 580–1,055 preparation person-hours, 14–24 weekly pilot hours, review roles, correction and capacity rules | D-18 pilot target adopted; actual staffing, named reviewers/backup and funding remain. No staff or publication date is confirmed. |
 | Functional structure | Eighteen page families, ten flows, internal written walkthrough against all 69 criteria | PD-04/07 review and final edge-case contracts. No actual learner or application validation. |
 | Regional evidence | Dated Nigeria/Ghana source records with historical/partial-access/applicability limits | Initial examples remain proposed; no current operational country/provider/legal coverage verified. |
-| Technical route | Native and LMS-adapter alternatives, records/authority, candidate components, costs/effort/maintenance | PD-06 itemised complete quote, credible interfaces/compatible supported versions, licences and source ownership. No installation or hook proof. |
+| Technical route | Native and LMS-adapter alternatives, records/authority, candidate components, costs/effort/maintenance | D-20 preferred route adopted for quotation; itemised quote, credible interfaces/compatible versions, licences and source ownership remain. No installation or hook proof. |
 | Device/working validation | Proposed lightweight targets and criterion/integration verification matrix | PD-08 target approval; later delivery owns measured performance, actual UI, WCAG 2.2 AA and reliability tests. |
 | Human evidence and handoff ownership | Learner-review protocol, reviewer/decision templates and responsibility map | PD-09 actual reviewer/owner designation and sessions/access or explicit condition acknowledging the gap. No invented sign-off. |
 
@@ -32,7 +32,7 @@ This is a reviewable planning package. Calling it a settled development brief re
 | PD-01 | Eight-module foundation; 32 lessons; six seed articles, six hubs, 24 glossary concepts; Nigeria/Ghana example anchors; BTC/ETH/USDC initial named asset hubs | Launch Scope; Coverage; Regional Scope Research. A smaller public path needs explicit owner scope approval. |
 | PD-02 | Criterion-based outcome evidence, designated essential decisions, reviewed structured rationales, explicit selected mission gates and version-specific applicability | Assessment Rules; original and added bounded samples. Confirm every published rubric and available bank; no universal percentage or real-world-readiness claim. |
 | PD-03 | Start with a staffed pilot cadence and bounded seed backlog; quality/corrections take priority when capacity falls | Editorial Operating Plan; estimates are person-hours, not writing-only time or scheduled delivery. |
-| PD-04/07 | Preserve public reading and written flows; specify current visit, qualifying learning checkpoints, confirmed-only import cleanup and expiry/correction races | Functional Review; own-record access for both guests/accounts; bookmark authentication never imports learning. Details remain unapproved. |
+| PD-04/07 | Preserve public reading and written flows; specify current visit, qualifying learning checkpoints, confirmed-only import cleanup and expiry/correction races | Functional Review; own-record access for both guests/accounts; bookmark authentication never imports learning. Preferred PD-07 product rules are adopted; storage/authority/fallback implementation remains unverified. |
 | PD-06/08 | Quote native education layer and LMS alternative; keep one authoritative record; confirm recurring costs, compatible interfaces and test targets | WordPress Build Plan plus three source reports. Components/versions/host/budget remain unselected. |
 | PD-09 | Name product, subject/voice/editorial, participant-research, technical, UI/accessibility/QA and operations owners | Owner designates real people/organisations and approval scope; planning agents are not substitutes. |
 
@@ -42,7 +42,7 @@ PD-05 remains retired under D-15. PD-10 future funding/specialist/French scope r
 
 | Priority | Remaining work | Required input / result |
 | --- | --- | --- |
-| First | Owner/reviewer chooses scope and assessment/operating policy from the prepared proposals | Named-version decisions and any requested changes; do not infer choices from another generic continuation. |
+| First | Owner has adopted baseline; resolve actual content and capacity conditions | D-16–20 record the explicit response; complete remaining content/ownership/quote decisions. |
 | First | Qualified source and voice review of the three representative assessment themes and seed editorial examples | Actual review records; fix material teaching/rubric errors before full-bank expansion. |
 | Next | Available learner reviews of lesson/rationale/article/date/progress/memory/import explanations | Owner-arranged access and agreed research operations; publish redacted findings, or explicitly record no direct evidence. |
 | Next | Expand approved patterns into the remaining lesson copy/banks/mission variants and source dependencies | Staffed content plan and reviewed publishing inputs. This work is distinct from engineering effort. |

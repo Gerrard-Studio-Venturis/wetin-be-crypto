@@ -1,8 +1,8 @@
 # Wetin Be Crypto — Editorial Operating Plan
 
-Version: 0.1
+Version: 0.2
 Date: 7 October 2026
-Status: Proposed P-02/P-05 operating model for PD-01/02/03/09 review. No cadence, staff, participants, expenditure, or human approval is confirmed.
+Status: Seed scope and low-volume pilot target adopted under D-16/18. Actual staff, participants, expenditure and human content approval remain unconfirmed.
 
 ## Authority and evidence
 
@@ -10,7 +10,7 @@ Preserve the approved direction in the [Decision Log](DECISION-LOG.md): WordPres
 
 The [32-lesson inventory](CURRICULUM-COVERAGE.md), [representative samples](CONTENT-DESIGN-SAMPLES.md), [Voice and Editorial Guide](VOICE-AND-EDITORIAL-GUIDE.md), [Learner Research Guide](LEARNER-RESEARCH-GUIDE.md), and [existing evidence](EVIDENCE-REGISTER.md) are the baseline. No new external sources were fetched for this plan. Existing desk research informs subject priorities and source requirements; it supplies no measured authoring speed, staffing availability, editorial throughput, or audience demand for a particular cadence.
 
-The article/reference counts, hours, review schedules, recruitment aims, and operating choices below are **planning judgements for owner review**, with low confidence until actual preparation/review time is recorded. The guided-foundation direction is approved; all 32 lesson titles, full banks, detailed gates, seed items, and operating choices remain proposals. Agent/document review is not qualified human subject or voice approval. No learner sessions or application tests have been conducted.
+The owner adopted the 32-lesson and six-article/six-hub/24-glossary baseline under D-16, and the preferred low-volume pilot as a planning target under D-18. Hours, staffing, review schedules and actual capacity remain unmeasured judgements; title wording, full banks, specific gates and publishable seed copy still need content review. Agent/document review is not qualified human subject or voice approval. No learner sessions or application tests have been conducted.
 
 ## Proposed seed manifest
 

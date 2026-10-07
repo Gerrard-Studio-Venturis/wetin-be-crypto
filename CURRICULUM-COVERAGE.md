@@ -1,8 +1,8 @@
 # Wetin Be Crypto — Curriculum Inventory and Living Coverage Map
 
-Version: 0.2
+Version: 0.3
 Date: 7 October 2026
-Status: Draft content design for P-01/P-02 review. Proposed lesson counts, outcomes, assessment mappings, and scope boundaries need review.
+Status: Eight-module/32-lesson baseline adopted under D-16. Teaching wording, detailed assessment mappings/gates and publishing readiness still need review.
 Related documents: [Curriculum and Journeys](CURRICULUM-AND-JOURNEYS.md), [Product Brief](PRODUCT-BRIEF.md), [Feature Specification](FEATURE-SPECIFICATION.md), [Evidence Register](EVIDENCE-REGISTER.md), [Decision Log](DECISION-LOG.md), [Research and Planning Process](RESEARCH-AND-DESIGN-PLAN.md).
 
 ## Purpose, authority, and limits

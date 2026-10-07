@@ -1,8 +1,8 @@
 # Wetin Be Crypto — Proposed WordPress Build Plan
 
-Version: 0.2
+Version: 0.3
 Date: 7 October 2026
-Status: P-06 recommendation for owner and technical review; components, budget and mechanisms unapproved.
+Status: Native education route adopted as preferred for quotation under D-20; guest product contracts adopted under D-19. Components, budget and implementation mechanisms remain unapproved/unverified.
 
 ## Recommendation and boundary
 
@@ -10,7 +10,7 @@ Recommend **WordPress core publishing plus a project-owned education plugin** as
 
 This is an architectural inference from inspected documentation, not a proven installation or a claim that custom development is cheaper. Obtain an itemised quote for this route and a LearnDash-based alternative before settling PD-06. Both need custom work. The first release should have one authoritative learning record, with any LMS dashboard treated as a projection of that record rather than an independent conflicting source of truth.
 
-The owner has approved WordPress, free public reading, guest practice, optional accounts, 30-day opt-in memory and account bookmarks. Those policies remain constraints. Detailed mechanisms below are proposals under PD-06/07/08. No software has been selected, installed, configured, purchased or tested. The planning assistant produces documentation and handoff; approval does not trigger coding. Visual design remains excluded by D-15. Later delivery owns implementation, styling and working UI/accessibility validation.
+The owner has approved WordPress, free public reading, guest practice, optional accounts, 30-day opt-in memory and account bookmarks. Those policies remain constraints. Preferred guest product contracts are adopted under D-19; their implementation mechanisms and PD-06/08 delivery choices remain proposals. No software has been selected, installed, configured, purchased or tested. The planning assistant produces documentation and handoff; approval does not trigger coding. Visual design remains excluded by D-15. Later delivery owns implementation, styling and working UI/accessibility validation.
 
 Evidence: [LMS comparison S-25–32](WORDPRESS-COMPONENT-RESEARCH.md), [supporting components S-33–39](WORDPRESS-SUPPORTING-COMPONENTS.md), [core/hosting S-40–46](WORDPRESS-CORE-RESEARCH.md). Requirements: [12 features / 69 criteria](FEATURE-SPECIFICATION.md), [18 page families](INFORMATION-ARCHITECTURE.md), [10 flows](FUNCTIONAL-FLOWS.md). Verification: [future scenario plan](IMPLEMENTATION-VERIFICATION-PLAN.md).
 

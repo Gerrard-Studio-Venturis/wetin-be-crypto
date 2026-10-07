@@ -14,7 +14,7 @@ This repository contains research, planning, and functional specifications for a
 | --- | --- | --- |
 | [Reviewer Brief](REVIEW-BRIEF.md) | Concise independent-review entry point. | Draft for review. |
 | [Research and Planning Process](RESEARCH-AND-DESIGN-PLAN.md) | Research questions, methods, phase outputs, review points, publication rhythm, and handoff. | Draft process detail within the approved research direction. |
-| [Product Brief](PRODUCT-BRIEF.md) | Product promise, audience, approved decisions, and proposed first-release scope. | Approved direction; detailed scope proposed. |
+| [Product Brief](PRODUCT-BRIEF.md) | Product promise, audience and adopted launch baseline. | D-01–20 recorded; individual content and delivery conditions open. |
 | [Curriculum and Journeys](CURRICULUM-AND-JOURNEYS.md) | Foundation outcomes, learning rules, wider topic map, and learner/reader journeys. | Draft architecture. |
 | [Curriculum Coverage](CURRICULUM-COVERAGE.md) | 32 proposed lessons/outcomes and a 43-topic living coverage map. | Draft inventory and assessment mappings. |
 | [Content Design Samples](CONTENT-DESIGN-SAMPLES.md) | Actual lesson, check, bounded mission, glossary, explainer, archive news summary, and hub introductions. | Representative copy/rubrics for review. |
@@ -24,13 +24,13 @@ This repository contains research, planning, and functional specifications for a
 | [Feature Specification](FEATURE-SPECIFICATION.md) | Twelve feature areas with 69 acceptance criteria. | Draft requirements; application tests not executed. |
 | [Information Architecture](INFORMATION-ARCHITECTURE.md) | Sitemap, navigation, eighteen page families, and content relationships. | P-03 functional draft; detailed behaviour pending review. |
 | [Functional Flows](FUNCTIONAL-FLOWS.md) | Ten learning/reading/saving/editorial flows with states, exceptions, and requirement mappings. | P-03 functional draft; no application/human validation claimed. |
-| [Launch Scope](LAUNCH-SCOPE.md) | Proposed release boundary, seed manifest, example assets/regions and later scope. | Concrete PD-01 proposal; counts unapproved. |
+| [Launch Scope](LAUNCH-SCOPE.md) | Adopted release boundary, seed manifest, example assets/regions and later scope. | Baseline adopted under D-16; publishing inputs need review. |
 | [Assessment Rules](ASSESSMENT-RULES.md) | 32-outcome evidence design, eight mission gates/rubrics, grading/version rules and additional samples. | PD-02 proposal; full banks and qualified review outstanding. |
-| [Editorial Operating Plan](EDITORIAL-OPERATING-PLAN.md) | Seed backlog, preparation/recurring hours, roles, corrections and research access. | PD-03 capacity proposal; no confirmed staff or cadence. |
-| [Functional Review](FUNCTIONAL-REVIEW.md) | Internal written walkthrough and guest/checkpoint/import contracts. | Document review; detailed rules and human/application validation pending. |
+| [Editorial Operating Plan](EDITORIAL-OPERATING-PLAN.md) | Seed backlog, preparation/recurring hours, roles, corrections and research access. | Pilot target adopted; actual staff/capacity unconfirmed. |
+| [Functional Review](FUNCTIONAL-REVIEW.md) | Internal written walkthrough and guest/checkpoint/import contracts. | Preferred guest product rules adopted; mechanisms/human/application validation pending. |
 | [Regional Scope Research](REGIONAL-SCOPE-RESEARCH.md) | Dated Nigeria/Ghana source findings, historical/partial access and country-applicability limits. | Actual bounded source pass; no current legal/provider coverage established. |
 | [Handoff Review Pack](HANDOFF-REVIEW-PACK.md) | Named-version decisions, conditions, owners and remaining handoff work. | Prepared for owner review; settled handoff unapproved. |
-| [WordPress Build Plan](WORDPRESS-BUILD-PLAN.md) | Proposed routes, full requirement coverage, records/guest/import rules, costs, effort and maintenance. | Preferred route for quotation; decisions unapproved. |
+| [WordPress Build Plan](WORDPRESS-BUILD-PLAN.md) | Routes, full requirement coverage, records/guest/import rules, costs, effort and maintenance. | Native route preferred for quotation; components/budget/delivery decisions open. |
 | [LMS Component Research](WORDPRESS-COMPONENT-RESEARCH.md) | LearnDash, LifterLMS and Tutor capabilities, gaps and licence observations. | Dated official-source research; no installations. |
 | [Supporting Component Research](WORDPRESS-SUPPORTING-COMPONENTS.md) | Search, editorial and bookmark responsibilities. | Candidates and integrations unverified. |
 | [Core and Hosting Research](WORDPRESS-CORE-RESEARCH.md) | WordPress content/authority/storage mechanisms and hosting benchmark. | Dated source observations and limits. |
@@ -41,7 +41,7 @@ This repository contains research, planning, and functional specifications for a
 
 ## Current stage
 
-The product direction, selected access policies, and removal of visual design are approved. Research/content examples, a sitemap, eighteen page families, and ten functional flows are prepared. WordPress recommendations and future verification are drafted. Concrete launch-scope, assessment/evidence, editorial-capacity and guest-lifecycle proposals plus an internal written functional review are now prepared in the Handoff Review Pack. Remaining work covers named-version choices; complete reviewed content/banks; actual subject/voice/learner review; complete quotes/technical contracts; named responsibilities; and handoff approval. The package is **not ready for development handoff**. Learner interviews, usability sessions, qualified subject/voice approval, and WordPress application tests have not been conducted.
+The owner adopted the full launch baseline, criterion-based assessment model, low-volume editorial target, preferred guest visit/checkpoint/import rules and native WordPress quotation route under D-16–20. A sitemap, eighteen page families, ten flows and all 69 future criteria are prepared. Full content drafting is underway. Remaining work covers actual content/keys/gates and human review, staffed capacity, complete quotes/technical contracts, device targets and named responsibilities. The package is **not approved as a settled development handoff**. Learner sessions, qualified subject/voice approval and WordPress application tests have not been conducted.
 
 An approval means approval of the named document version and stated scope. It does not silently approve every open decision or authorise implementation.
 

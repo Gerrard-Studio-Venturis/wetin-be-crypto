@@ -1,6 +1,6 @@
 # Wetin Be Crypto — Research and Design Plan
 
-Version: 0.1
+Version: 0.2
 Date: 7 October 2026
 Status: Detailed process draft within the owner's approved planning-only research direction.
 Platform: WordPress.
@@ -23,8 +23,24 @@ Already prepared:
 - Public-source desk research across comparables, teaching methods, regional context, official crypto guidance, and WordPress/LMS documentation.
 - Draft foundation outcomes and learner/reader journeys.
 - Draft feature behaviours and 69 future acceptance criteria.
+- A focused current-source pass, a 32-lesson inventory and 43-topic living map, representative lesson/check/mission/article content, a voice/editorial guide, and a learner-review protocol.
 
-Still outstanding: direct learner evidence, representative content and actual assessment rubrics, reviewed first-release scope, information architecture and screen designs, visual selection, design validation, detailed component/cost evaluation, and final handoff approval.
+Still outstanding: direct learner evidence, qualified subject and language review, full assessment banks and approved rubrics/gates, reviewed first-release scope, information architecture and screen designs, visual selection, design validation, editorial capacity, detailed component/cost evaluation, and final handoff approval.
+
+## Progress at this checkpoint
+
+This table records prepared artifacts and remaining work; it is not a phase approval record. The package is not ready for development handoff.
+
+| Phase | Prepared | Remaining |
+| --- | --- | --- |
+| P-00 | Shared GitHub baseline and reviewer entry point. | Independent review and named-version sign-off. |
+| P-01 | [Focused findings](RESEARCH-FINDINGS.md), dated sources, and [coverage map](CURRICULUM-COVERAGE.md). | Direct learner evidence, broader country/comparative gaps, and approved initial coverage. |
+| P-02 | [Representative content/rubrics](CONTENT-DESIGN-SAMPLES.md), 32 proposed lessons, and [voice/editorial guide](VOICE-AND-EDITORIAL-GUIDE.md). | Full assessment banks, qualified subject/voice review, learner comprehension, approved criteria/gates, and workload estimates. |
+| P-03 | Journey and feature baseline. | Page relationships, annotated screen states, and noncode task flows. |
+| P-04 | Planned three-direction visual process. | Inspected visual references, concept generation, selection, and refinements. |
+| P-05 | [Learner research guide](LEARNER-RESEARCH-GUIDE.md) with nine task reviews. | Owner-arranged access, actual sessions, design checks, findings, and revisions. |
+| P-06 | Documentation-level WordPress capability/gap baseline. | Current candidate comparison, recommendations, costs, ownership, and future verification matrix. |
+| P-07 | Handoff criteria defined. | Reconciled and reviewed package, named owners, and approval/conditions. |
 
 ## Research questions and evidence plan
 

@@ -2,6 +2,30 @@
 
 Dates use the owner's current date context. Versions describe planning documents; they are not application releases.
 
+## 7 October 2026 — Focused research and content-design checkpoint
+
+### Added
+
+- Research Findings v0.1 with dated source inspections, five findings, priority-situation hypotheses, and source/freshness limits.
+- Curriculum Coverage v0.1 with 32 proposed lessons/outcomes, candidate assessment mappings, and 43 topic entries across foundation, specialist, reference, and emerging coverage.
+- Content Design Samples v0.1: L-04.2, G-NETWORK, an O-04.2-only KC-04 check and bounded PM-04 mission, an original stablecoin explainer, a sourced January Ghana archive summary, and topic/USDC hub introductions.
+- Voice and Editorial Guide v0.1 covering contextual varied Pidgin, essential English, human review, source/date distinctions, corrections, and editorial responsibilities.
+- Learner Research Guide v0.1 with neutral interview prompts, nine task reviews, session materials, recording templates, and proposed owner-arranged access.
+
+### Changed
+
+- Reviewer Brief v0.2 and Research and Design Plan v0.2 record prepared artifacts and remaining phase work; the package is not ready for development handoff.
+- Product Brief v0.5, Curriculum and Journeys v0.5, and Feature Specification v0.3 link the inventory, examples, and review guide. The twelve feature groups and 69 acceptance criteria are unchanged.
+- Evidence Register v0.2 adds S-20 to S-24, records fresh S-02/S-08 inspection, and marks S-07 verification pending. Current sample teaching rationale uses the inspected IES guide.
+- Decision Log v0.2 records the continuation, proposed inventory/sample scope, and outstanding reviews without changing D-01 to D-14.
+- README indexes the new review artifacts. The same draft documentation PR remains the review surface.
+
+### Validation and approval state
+
+- Internal document/source-scope consistency review is not external qualified subject review or independent approval.
+- No learner recruitment, interviews, usability sessions, fluent human Pidgin review, application/plugin tests, or product implementation has occurred.
+- Full assessment banks, approved gates/criteria, country/asset scope, editorial workload, screen/visual design, WordPress recommendations, and final handoff remain open.
+
 ## 7 October 2026 — Repository planning package
 
 ### Added

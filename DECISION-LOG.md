@@ -1,6 +1,6 @@
 # Wetin Be Crypto — Decision Log
 
-Version: 0.1
+Version: 0.2
 Date: 7 October 2026
 Status: Consolidated owner choices and pending review decisions.
 
@@ -37,8 +37,8 @@ PD identifiers denote pending decisions; P identifiers in the process plan denot
 
 | ID | Decision needed | Recommendation work | Decision owner / status |
 | --- | --- | --- | --- |
-| PD-01 | Detailed first-release scope and initial country/asset coverage. | Targeted research, content inventory, scope tradeoffs. | Owner; open. |
-| PD-02 | Actual rubrics, essential decisions, ordinary scoring, rationale format, review timing. | Representative lesson/check/mission and subject review. | Owner with curriculum/source reviewer input; open. |
+| PD-01 | Detailed first-release scope and initial country/asset coverage. | 32-lesson/43-topic inventory and focused findings prepared; scope/coverage review outstanding. | Owner; open. |
+| PD-02 | Actual rubrics, essential decisions, ordinary scoring, rationale format, review timing. | Bounded O-04.2 lesson/check/mission and criteria prepared; full banks/gates and qualified subject/learner review outstanding. | Owner with curriculum/source reviewer input; open. |
 | PD-03 | Publication cadence, backlog, review staffing, and operational capacity. | Workload and update-frequency proposal. | Owner; open. |
 | PD-04 | Page/relationship map, screen flows, and exceptions. | Wireframes and task walkthroughs against FS/J IDs. | Owner with learner/design input; open. |
 | PD-05 | Visual direction and refinements. | Three noncode directions, selection, mobile/desktop/component designs. | Owner; not yet generated. |
@@ -48,7 +48,13 @@ PD identifiers denote pending decisions; P identifiers in the process plan denot
 | PD-09 | Independent reviewer identity, scope of approval, and handoff conditions. | Reviewer Brief and named-version review records. | Owner designates reviewer; open. |
 | PD-10 | Sustainable funding, future specialist/tool scope, and French rollout. | Later product/operating options; French identity prepared now. | Owner; later decision. |
 
-Feature Specification v0.2 is a draft, not an independent approval record. The approved product direction does not automatically sign off every detail in it.
+Feature Specification v0.3 is a draft, not an independent approval record. The approved product direction does not automatically sign off every detail in it.
+
+## Current continuation record
+
+The owner's latest instruction permits continuing the plan while planning remains unfinished. This checkpoint advances P-01/P-02 with focused research, a curriculum inventory, content examples, a voice/editorial guide, and a learner-review protocol. It records no implementation readiness, independent approval, or change to D-13. Main screen states, visual selection, learner/subject review, WordPress recommendations, and final handoff remain outstanding.
+
+The representative KC-04/PM-04 samples demonstrate O-04.2 only. The full inventory's proposed PM-04 gate includes additional outcomes; no sample pass silently satisfies them. Counts, scope placement, criteria/gates, source-dependent examples, and guide operations remain proposals for their named reviewers.
 
 ## Review record template
 

@@ -1,6 +1,6 @@
 # Wetin Be Crypto — Reviewer Brief
 
-Version: 0.1
+Version: 0.2
 Date: 7 October 2026
 Status: Planning proposal for independent review. Product direction is approved by the owner; detailed requirements and this process breakdown remain drafts.
 
@@ -20,6 +20,10 @@ Teaching uses clear English, worked examples, explanatory feedback, and occasion
 - Source review, visible material corrections, content-version rules, accessible interaction design, and a lightweight reading experience.
 
 Specialist tracks, more educational tools, and French publication follow later scope decisions. Full first-release scope is proposed rather than fully signed off.
+
+## Current checkpoint
+
+Prepared: [32 proposed lessons and a wider topic map](CURRICULUM-COVERAGE.md), [representative lesson/check/mission and article samples](CONTENT-DESIGN-SAMPLES.md), a [voice/editorial guide](VOICE-AND-EDITORIAL-GUIDE.md), and a [learner-review protocol](LEARNER-RESEARCH-GUIDE.md). [Focused findings](RESEARCH-FINDINGS.md) records current sources and limits. The samples demonstrate a bounded skill, not complete-module mastery. Qualified subject, language, and learner review remains outstanding. **The package is not ready for development handoff.**
 
 ## How we will research and design it
 

@@ -1,6 +1,6 @@
 # Crypto Learning Application — Feature Specification
 
-Version: 0.2
+Version: 0.3
 Date: 7 October 2026
 Status: Draft for review.
 Platform: WordPress.
@@ -15,6 +15,8 @@ This document translates the approved product direction into observable behaviou
 Product decisions D-01 to D-14 in the brief are approved. Detailed requirements here are draft recommendations. Acceptance criteria describe future validation; they do not claim that an application or plugin has been tested.
 
 The first release supports the foundation and public publication. Existing LMS and WordPress features are candidates to fulfil these requirements. Guest continuity, versioned assessment evidence, account reconciliation, combined hubs/search, and editorial controls require further integration evaluation.
+
+The [Curriculum Coverage](CURRICULUM-COVERAGE.md) and [Content Design Samples](CONTENT-DESIGN-SAMPLES.md) illustrate FS-02/03/04/07/08/11/12. The current KC-04/PM-04 samples assess O-04.2 only; they do not supply full M-04 credit or satisfy the full proposed PM-04 gate. [Learner Research Guide](LEARNER-RESEARCH-GUIDE.md) prepares design-level review. This revision adds traceability; the twelve feature groups and 69 acceptance criteria are unchanged and remain unexecuted.
 
 ## Actors
 

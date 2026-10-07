@@ -1,6 +1,6 @@
 # Crypto Learning Application — Curriculum and Journeys
 
-Version: 0.4
+Version: 0.5
 Date: 7 October 2026
 Status: Draft learning architecture based on approved product decisions.
 Related documents: [Product Brief](PRODUCT-BRIEF.md), [Feature Specification](FEATURE-SPECIFICATION.md).
@@ -27,6 +27,10 @@ The guided order is a recommendation. Core lessons remain publicly readable. Sel
 | M-08: Understand permissions and combine skills | Distinguish connecting, signing, approving spending, and transferring; identify unnecessary permissions and apply earlier checks. | Relevant M-02 to M-07 outcomes. | Complete an everyday-use challenge that introduces an unnecessary connection or excessive spending permission. |
 
 Module dependencies become required gates only for selected missions. The feature specification requires each gated mission to declare its exact prerequisite outcomes.
+
+The [Curriculum Coverage](CURRICULUM-COVERAGE.md) expands these modules into 32 proposed lessons/outcomes, candidate check/mission mappings, and a 43-topic living coverage map. These are draft content boundaries, not an approved launch inventory.
+
+[Content Design Samples](CONTENT-DESIGN-SAMPLES.md) demonstrates L-04.2, a KC-04 check, and a bounded PM-04 mission for O-04.2 only. The sample does not establish the full M-04 outcomes or satisfy the full proposed PM-04 gate. It also supplies a glossary entry, evergreen explainer, archive news summary, and topic/asset introductions.
 
 ## Lesson pattern
 
@@ -155,3 +159,5 @@ Articles can also remain standalone reading. Optional reflection prompts do not 
 ## Validation still needed
 
 West African learners should test the examples, terminology, Pidgin, navigation, assessment difficulty, and value of the proposed journeys. No learner interviews or usability tests have yet been conducted.
+
+The [Learner Research Guide](LEARNER-RESEARCH-GUIDE.md) defines neutral tasks and recording templates. [Research Findings](RESEARCH-FINDINGS.md) and the [Voice and Editorial Guide](VOICE-AND-EDITORIAL-GUIDE.md) distinguish current source support from pending learner, subject, and language review.

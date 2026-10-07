@@ -1,6 +1,6 @@
 # Crypto Learning Application — Product Brief
 
-Version: 0.4
+Version: 0.5
 Date: 7 October 2026
 Status: Consolidated approved product direction. Detailed feature behaviour remains a draft for review.
 Platform: WordPress
@@ -71,6 +71,8 @@ The foundation has eight proposed modules:
 
 Detailed outcomes and journeys are in [Curriculum and Journeys](CURRICULUM-AND-JOURNEYS.md).
 
+The [Curriculum Coverage](CURRICULUM-COVERAGE.md) proposes 32 lessons across these modules and a 43-topic living map of foundation, specialist, reference, and emerging coverage. Counts and launch coverage remain proposed. [Content Design Samples](CONTENT-DESIGN-SAMPLES.md) makes one lesson/check/mission and the article connections concrete for review.
+
 ## Teaching and progress
 
 Each lesson has a clear outcome, a concise explanation, a worked example, independent practice where appropriate, and explanatory feedback. Retrieval checks and later review support learning.
@@ -100,6 +102,8 @@ Examples illustrate range rather than a mandatory script:
 - Introducing a revealing consequence: “Na here the story get interesting.”
 
 Use restrained, direct language for losses, serious allegations, security instructions, and correction notices. A fluent Nigerian reviewer should check naturalness; readers outside Nigeria should help test comprehension. Future French writing should preserve the warmth naturally rather than translate Pidgin word for word.
+
+The [Voice and Editorial Guide](VOICE-AND-EDITORIAL-GUIDE.md) defines batch review, source/date treatment, and editorial responsibilities. Its phrases are illustrative, not a rotation or required quota.
 
 ## Proposed first-release scope
 
@@ -132,12 +136,14 @@ Relevant sources include:
 - [Bitcoin beginner guidance](https://bitcoin.org/en/you-need-to-know)
 - [Ethereum wallets](https://ethereum.org/wallets/)
 - [Ethereum security](https://ethereum.org/security/)
-- [Retrieval practice and spaced learning review](https://www.nature.com/articles/s44159-022-00089-1)
+- [Earlier educational-review reference — verification pending](https://www.nature.com/articles/s44159-022-00089-1); not used as the current sample's research basis.
 - [IES organising learning and study practice guide](https://ies.ed.gov/ncee/wwc/PracticeGuide/1)
 - [W3C clear and understandable content](https://www.w3.org/WAI/WCAG2/supplemental/objectives/o3-clear-content/)
 - [CoinDesk ethics policy](https://www.coindesk.com/ethics)
 
 This is public-source desk research. Logged-in competitor experiences, learner interviews, LMS installations, and application behaviour have not been tested. Adoption data does not establish demand for this application. Francophone learner evidence remains limited.
+
+The current [Research Findings](RESEARCH-FINDINGS.md) records actual source inspections and qualifications. The [Learner Research Guide](LEARNER-RESEARCH-GUIDE.md) prepares content and later design reviews; no sessions have occurred.
 
 ## Remaining decisions
 

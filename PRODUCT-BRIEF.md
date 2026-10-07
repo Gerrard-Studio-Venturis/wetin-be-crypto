@@ -1,10 +1,10 @@
 # Crypto Learning Application — Product Brief
 
-Version: 0.5
+Version: 0.6
 Date: 7 October 2026
 Status: Consolidated approved product direction. Detailed feature behaviour remains a draft for review.
 Platform: WordPress
-Stage: Research, planning, noncode design, and development-team handoff. The planning assistant will not implement the application when the plan is ready.
+Stage: Research, planning, functional specifications, and development-team handoff. Visual design is excluded under D-15. The planning assistant will not implement the application when the plan is ready.
 
 ## Product promise
 
@@ -30,8 +30,9 @@ Success is demonstrated understanding and sound decisions. A learner can succeed
 | D-10 | Study order is recommended. Prerequisite checks apply to selected practice challenges; public lesson reading remains open. |
 | D-11 | Guests may opt into device-specific progress memory for 30 days after their last learning activity. This is an approved product policy, not an empirical learning-science finding. |
 | D-12 | The first release includes simple account-only article bookmarks: Save, Unsave, and one saved-articles list. |
-| D-13 | This engagement covers research, planning, noncode design, and a development-team handoff. Readiness or approval does not trigger application coding by the planning assistant. |
+| D-13 | This engagement covers research, planning, functional specifications, and a development-team handoff. Readiness or approval does not trigger application coding by the planning assistant. |
 | D-14 | GitHub holds the full planning package and a concise Markdown reviewer brief. Publish documentation updates at meaningful checkpoints during active work. |
+| D-15 | Visual design is removed from this engagement. Sitemap, functional page/state specifications, simple flow diagrams, content/workflow review, WordPress recommendations, and handoff remain. Later delivery owns styling and working UI validation. |
 
 ## Learners and readers
 
@@ -55,6 +56,8 @@ Working navigation:
 - My Journey: saved learning, review recommendations, resume actions, and saved articles.
 
 Coin and topic hubs connect these areas. A reader can move from a news story to an explainer, lesson, or mission, or remain a reader.
+
+[Information Architecture](INFORMATION-ARCHITECTURE.md) proposes the navigation, eighteen page families, and content relationships. [Functional Flows](FUNCTIONAL-FLOWS.md) specifies ten main flows and their exceptional states. These are functional drafts for PD-04 review; proceeding with the work does not approve every detailed behaviour.
 
 ## Foundation
 
@@ -122,7 +125,7 @@ Full specialist-track coverage, additional tools, and the French rollout require
 
 Detailed behaviours are in [Feature Specification](FEATURE-SPECIFICATION.md).
 
-The process for researching, designing, validating, and preparing the handoff is in [Research and Design Plan](RESEARCH-AND-DESIGN-PLAN.md). Reviewers can start with [Reviewer Brief](REVIEW-BRIEF.md).
+The process for researching, designing, validating, and preparing the handoff is in [Research and Planning Process](RESEARCH-AND-DESIGN-PLAN.md). Reviewers can start with [Reviewer Brief](REVIEW-BRIEF.md).
 
 ## Research basis and limits
 

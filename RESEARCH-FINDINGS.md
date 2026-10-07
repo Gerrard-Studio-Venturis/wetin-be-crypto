@@ -1,6 +1,6 @@
 # Wetin Be Crypto — Focused Research Findings
 
-Version: 0.1
+Version: 0.2
 Date: 7 October 2026
 Status: P-01 desk-research checkpoint and P-02 content-design recommendations. No direct learner findings or application tests.
 
@@ -11,6 +11,8 @@ Which explanations and decisions should the first representative content demonst
 This pass addresses RQ-02 to RQ-06 with official crypto/provider documentation, issuer terms, Ghana's literacy-launch speech, and an educational practice guide. It develops the approved practical/safe-use direction. It does not measure learner demand, choose supported countries/providers, establish a publication cadence, or validate a WordPress application.
 
 The [Curriculum Coverage](CURRICULUM-COVERAGE.md) and [Content Design Samples](CONTENT-DESIGN-SAMPLES.md) are design proposals built from this evidence. The [Learner Research Guide](LEARNER-RESEARCH-GUIDE.md) prepares the next direct review; it is not a report of sessions.
+
+Scope update: approved D-15 excludes visual design. The new [Information Architecture](INFORMATION-ARCHITECTURE.md) and [Functional Flows](FUNCTIONAL-FLOWS.md) use the recorded evidence and requirements to specify functional relationships/states. This revision adds scope/traceability context without a new external-source inspection or observed learner finding.
 
 ## Source inspection record
 
@@ -98,4 +100,4 @@ Do not rank these as the audience's most frequent problems without direct eviden
 
 Prepared: a 32-lesson draft inventory, a 43-entry living topic map, actual representative content/criteria, a voice/editorial guide, and a reusable learner-review protocol. The work makes P-01/P-02 concrete without settling every launch lesson, practice gate, or editorial workload.
 
-Outstanding: independent subject review, fluent Nigerian review, learner sessions, approved final rubric/gates, initial country/asset coverage, editorial capacity, screen designs, WordPress component selection, and application verification. P-03 can use these drafts for noncode screen exploration; any material behaviour/scope change still requires owner review.
+Outstanding: independent subject review, fluent Nigerian review, learner sessions, approved final rubric/gates, initial country/asset coverage, editorial capacity, functional-specification review, WordPress component selection, and future application verification. P-03 now has a draft sitemap/page map and ten written flows. Visual design is excluded; material behaviour/scope changes still require owner review.

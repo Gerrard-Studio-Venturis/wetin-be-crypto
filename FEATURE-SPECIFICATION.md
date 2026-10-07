@@ -1,10 +1,10 @@
 # Crypto Learning Application — Feature Specification
 
-Version: 0.3
+Version: 0.4
 Date: 7 October 2026
 Status: Draft for review.
 Platform: WordPress.
-Stage: Research, planning, and noncode design. Application coding is outside the planning assistant's engagement, including after handoff readiness.
+Stage: Research, planning, and functional specifications. Visual design is excluded under D-15. Application coding is outside the planning assistant's engagement, including after handoff readiness.
 
 Related documents: [Product Brief](PRODUCT-BRIEF.md), [Curriculum and Journeys](CURRICULUM-AND-JOURNEYS.md).
 
@@ -12,11 +12,13 @@ Related documents: [Product Brief](PRODUCT-BRIEF.md), [Curriculum and Journeys](
 
 This document translates the approved product direction into observable behaviour, important exceptions, and acceptance criteria.
 
-Product decisions D-01 to D-14 in the brief are approved. Detailed requirements here are draft recommendations. Acceptance criteria describe future validation; they do not claim that an application or plugin has been tested.
+Product decisions D-01 to D-15 in the brief are approved. Detailed requirements here are draft recommendations. Acceptance criteria describe future validation; they do not claim that an application or plugin has been tested.
 
 The first release supports the foundation and public publication. Existing LMS and WordPress features are candidates to fulfil these requirements. Guest continuity, versioned assessment evidence, account reconciliation, combined hubs/search, and editorial controls require further integration evaluation.
 
-The [Curriculum Coverage](CURRICULUM-COVERAGE.md) and [Content Design Samples](CONTENT-DESIGN-SAMPLES.md) illustrate FS-02/03/04/07/08/11/12. The current KC-04/PM-04 samples assess O-04.2 only; they do not supply full M-04 credit or satisfy the full proposed PM-04 gate. [Learner Research Guide](LEARNER-RESEARCH-GUIDE.md) prepares design-level review. This revision adds traceability; the twelve feature groups and 69 acceptance criteria are unchanged and remain unexecuted.
+The [Curriculum Coverage](CURRICULUM-COVERAGE.md) and [Content Design Samples](CONTENT-DESIGN-SAMPLES.md) illustrate FS-02/03/04/07/08/11/12. The current KC-04/PM-04 samples assess O-04.2 only; they do not supply full M-04 credit or satisfy the full proposed PM-04 gate. [Learner Research Guide](LEARNER-RESEARCH-GUIDE.md) prepares content/workflow review. Application criteria remain unexecuted.
+
+[Information Architecture](INFORMATION-ARCHITECTURE.md) and [Functional Flows](FUNCTIONAL-FLOWS.md) map pages, actions, exceptional states, and records to these requirements. This revision records D-15 and adds functional traceability; the same twelve feature groups and 69 acceptance criteria remain. Accessibility, voice, and lightweight-use requirements still apply to later delivery despite removal of visual-design production.
 
 ## Actors
 
@@ -379,7 +381,7 @@ Relevant evaluation references:
 - [W3C clear and understandable content](https://www.w3.org/WAI/WCAG2/supplemental/objectives/o3-clear-content/)
 - [CoinDesk editorial policy](https://www.coindesk.com/ethics)
 
-## Open decisions for design and technical planning
+## Open decisions for functional and technical planning
 
 1. Assessment question sets, ordinary score thresholds, acceptable rationale formats, and review timing.
 2. Initial published assets, country examples, article backlog, and editorial cadence.
@@ -387,13 +389,14 @@ Relevant evaluation references:
 4. Guest record validation, visit definition, storage/expiry, and save/import recovery.
 5. Theme/LMS and supporting components, compatibility, costs, maintenance, and portability.
 6. Device/connectivity baselines and measurable performance targets.
-7. Visual directions and the selected design target.
-8. Future French rollout and translation-review capacity.
+7. Future French rollout and translation-review capacity.
+
+Visual design is outside this engagement. The handoff assigns later styling and working UI/accessibility checks to a delivery owner; it does not require visual direction selection or polished screen artifacts.
 
 ## Planning handoff
 
-Next: review the proposed scope, refine content and assessment examples, design information architecture and screen states, explore visual directions, validate the designs, and produce the WordPress technical plan. The [Research and Design Plan](RESEARCH-AND-DESIGN-PLAN.md) specifies the order, evidence, deliverables, and review checkpoints.
+Next: settle launch scope/learning rules, review/refine the functional map/flows, validate content and written workflows, produce the WordPress plan, and reconcile the handoff. The [Research and Planning Process](RESEARCH-AND-DESIGN-PLAN.md) specifies the order, evidence, deliverables, and review checkpoints.
 
-Handoff includes reviewed requirements, noncode designs, representative content/rubrics, evidence and decision records, component recommendations, and a future application-verification plan. Reviewers can start with [Reviewer Brief](REVIEW-BRIEF.md).
+Handoff includes reviewed requirements, sitemap/page/flow/state specifications, representative content/rubrics, evidence/decisions, component recommendations, and a future application-verification plan with later styling/UI-validation ownership. Reviewers can start with [Reviewer Brief](REVIEW-BRIEF.md).
 
 Implementation, application installations/configuration, deployment, and coded prototypes remain outside this engagement. Approval of a plan or design does not authorise the planning assistant to start coding.

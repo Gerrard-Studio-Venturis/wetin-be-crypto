@@ -1,17 +1,17 @@
-# Wetin Be Crypto — Research and Design Plan
+# Wetin Be Crypto — Research and Functional Planning Process
 
-Version: 0.2
+Version: 0.3
 Date: 7 October 2026
 Status: Detailed process draft within the owner's approved planning-only research direction.
 Platform: WordPress.
 
 ## Purpose and boundary
 
-Define how we investigate the idea, turn evidence into product decisions, design the experience, and prepare a reviewable development-team handoff.
+Define how we investigate the idea, turn evidence into product decisions, specify functional behaviour, and prepare a reviewable development-team handoff.
 
-This engagement produces research, specifications, content examples, noncode designs, and technical recommendations. The planning assistant will not write product code, install/configure the application, produce a coded prototype, or deploy it when the plan becomes ready. Git/file tools may be used to manage and check the documentation.
+This engagement produces research, functional specifications/maps/flows, content examples, and technical recommendations. Approved D-15 excludes visual concepts, polished wireframes, mobile/desktop mockups, typography/colour systems, and a visual component library. Simple relationship/flow diagrams and written page/state requirements remain. The planning assistant will not write product code, install/configure the application, produce a coded prototype, or deploy it when the plan becomes ready. Git/file tools may manage and check documentation.
 
-Executing this plan means conducting its research and design activities. Product implementation is a separate development-team engagement. Approval of a document, visual direction, technical recommendation, or handoff does not trigger coding by the planning assistant.
+Executing this plan means conducting research and functional planning. Product implementation and visual styling belong to later delivery. Approval of a document, technical recommendation, or handoff does not trigger coding by the planning assistant. The handoff assigns later styling and working UI/accessibility validation to a delivery owner; it does not require this engagement to produce visual artifacts.
 
 The [Reviewer Brief](REVIEW-BRIEF.md) provides the independent-review entry point. The [Product Brief](PRODUCT-BRIEF.md) records approved product choices; the [Decision Log](DECISION-LOG.md) records authority and pending decisions.
 
@@ -24,8 +24,9 @@ Already prepared:
 - Draft foundation outcomes and learner/reader journeys.
 - Draft feature behaviours and 69 future acceptance criteria.
 - A focused current-source pass, a 32-lesson inventory and 43-topic living map, representative lesson/check/mission/article content, a voice/editorial guide, and a learner-review protocol.
+- A draft sitemap, eighteen functional page families, content relationships, and ten written flows with exceptional states.
 
-Still outstanding: direct learner evidence, qualified subject and language review, full assessment banks and approved rubrics/gates, reviewed first-release scope, information architecture and screen designs, visual selection, design validation, editorial capacity, detailed component/cost evaluation, and final handoff approval.
+Still outstanding: direct learner evidence, qualified subject and language review, full assessment banks and approved rubrics/gates, reviewed first-release scope, functional IA/flow review and refinement, content/workflow validation, editorial capacity, detailed component/cost evaluation, and final handoff approval. The remaining work groups into five parts: settle launch scope/learning rules; review functional structure; validate content/workflows; complete the WordPress plan; approve the handoff.
 
 ## Progress at this checkpoint
 
@@ -36,9 +37,9 @@ This table records prepared artifacts and remaining work; it is not a phase appr
 | P-00 | Shared GitHub baseline and reviewer entry point. | Independent review and named-version sign-off. |
 | P-01 | [Focused findings](RESEARCH-FINDINGS.md), dated sources, and [coverage map](CURRICULUM-COVERAGE.md). | Direct learner evidence, broader country/comparative gaps, and approved initial coverage. |
 | P-02 | [Representative content/rubrics](CONTENT-DESIGN-SAMPLES.md), 32 proposed lessons, and [voice/editorial guide](VOICE-AND-EDITORIAL-GUIDE.md). | Full assessment banks, qualified subject/voice review, learner comprehension, approved criteria/gates, and workload estimates. |
-| P-03 | Journey and feature baseline. | Page relationships, annotated screen states, and noncode task flows. |
-| P-04 | Planned three-direction visual process. | Inspected visual references, concept generation, selection, and refinements. |
-| P-05 | [Learner research guide](LEARNER-RESEARCH-GUIDE.md) with nine task reviews. | Owner-arranged access, actual sessions, design checks, findings, and revisions. |
+| P-03 | [Information Architecture](INFORMATION-ARCHITECTURE.md) and [Functional Flows](FUNCTIONAL-FLOWS.md): eighteen page families and ten flows. | PD-04 review, requirement reconciliation, content/state walkthroughs, and refinements. |
+| P-04 | Retired by approved D-15. | No visual deliverable or selection gate in this engagement. |
+| P-05 | [Learner research guide](LEARNER-RESEARCH-GUIDE.md) with nine content/workflow task reviews. | Owner-arranged access, actual sessions, specification-level checks, findings, and revisions. |
 | P-06 | Documentation-level WordPress capability/gap baseline. | Current candidate comparison, recommendations, costs, ownership, and future verification matrix. |
 | P-07 | Handoff criteria defined. | Reconciled and reviewed package, named owners, and approval/conditions. |
 
@@ -62,7 +63,7 @@ The initial country/sample choices remain proposals. Nigeria and Ghana are sensi
 
 1. Start each workstream with a question, the decision at stake, current evidence, and the specific gap.
 2. Use the most direct sources available. Official protocol and regulator material establish mechanics or jurisdictional context; educational research informs teaching; actual product capture establishes observed UX; learner sessions establish observed comprehension.
-3. Use Firecrawl for relevant public search/extraction. For visual comparison, inspect actual pages/screenshots through available browser tools. A text scrape cannot establish visual or logged-in behaviour.
+3. Use Firecrawl for relevant public search/extraction. Record exact inspected surfaces for functional comparisons. A text scrape cannot establish logged-in behaviour, discoverability, or a working interaction. Visual-concept/reference production is excluded under D-15.
 4. Record source URL, publisher, publication/update date where available, inspection date when actually checked, applicable country/product version, relevant finding, and limitations. Mark inaccessible sources and use documented alternatives.
 5. Separate a sourced observation, our inference, an approved owner policy, a proposed requirement, and an unknown. Competitor patterns and adoption statistics do not establish demand for this application.
 6. Prefer corroborated signals. A complaint or forum anecdote can suggest a research question; it does not establish how common the problem is. Do not infer frequencies without suitable evidence.
@@ -74,7 +75,7 @@ The [Evidence Register](EVIDENCE-REGISTER.md) holds the baseline and gaps. Add d
 
 ## Learner research and access
 
-Prepare an interview guide and a task-based design-review guide before sessions. A proposed first qualitative round is six to eight learners spanning beginners, practical users, and existing users; adjust recruitment to the approved scope and available access. Include non-Nigerian readers when reviewing Pidgin comprehension. This small round finds design problems and does not measure population prevalence.
+Prepare an interview guide and a task-based content/workflow guide before sessions. A proposed first qualitative round is six to eight learners spanning beginners, practical users, and existing users; adjust recruitment to the approved scope and available access. Include non-Nigerian readers when reviewing Pidgin comprehension. This small round finds comprehension/workflow problems and does not measure population prevalence.
 
 Ask about actual recent situations, words the learner found confusing, decision-making, devices/connectivity, and expectations about saving. Test examples and tasks rather than ask only whether the idea sounds attractive.
 
@@ -114,7 +115,7 @@ Write English/Pidgin voice guidance using actual content batches. Check naturaln
 
 ### P-03 — Design information architecture and interactions
 
-**Work:** translate journeys and FS-01 to FS-12 into a content-relationship map, navigation, page inventory, wireframes, and annotated screen states. Use consistent canonical asset/topic identities and distinguish country applicability from incidental mentions.
+**Work:** translate journeys and FS-01 to FS-12 into a content-relationship map, sitemap/navigation, page inventory, written state specifications, and simple flow diagrams. Use consistent canonical asset/topic identities and distinguish country applicability from incidental mentions. Specify information, actions, conditions, records, and exceptions without prescribing appearance.
 
 Cover at least:
 
@@ -124,29 +125,23 @@ Cover at least:
 - Article browsing/detail, hubs, search/empty results, bookmarking, and withdrawn articles.
 - Editorial drafting, review, approval, substantive updates, corrections, and affected-content review.
 
-**Outputs:** page/content map, main-flow wireframes, and state specifications linked to journey and feature IDs. No HTML, CSS, JavaScript, PHP, database migrations, or application scaffold is produced.
+**Outputs:** [Information Architecture](INFORMATION-ARCHITECTURE.md), [Functional Flows](FUNCTIONAL-FLOWS.md), and refinements linked to journey/feature/criterion IDs. No visual mockups, HTML, CSS, JavaScript, PHP, database migrations, or application scaffold is produced.
 
 **Review point:** check whether learners/readers can understand the proposed paths and whether important exceptions have clear outcomes. Approve material changes to feature behaviour.
 
-### P-04 — Explore and refine visual design
+### P-04 — Retired: visual design excluded
 
-**Work:** confirm the primary screen/flow and intended outcome, inspect relevant visual references, then use Product Design and ImageGen to explore three independently generated screen concepts. Vary hierarchy and layout within the approved product direction; ground concepts in inspected references and representative copy. Present them for owner selection before refinement. A selected visual direction authorises further design work.
+Approved D-15 removes this phase's concepts, mockups, visual system, and selection/refinement gate. Retain the phase identifier for history rather than renumber linked phases. Functional information and state requirements continue in P-03. Technical evaluation can assess theme compatibility, accessibility support, and performance without designing the site's appearance. Later delivery owns visual styling and working UI validation.
 
-Refine the chosen direction into mobile and desktop layouts, type/spacing/colour rules, reusable components, state examples, and real representative copy. Design the reading experience, practice feedback, progress, and articles consistently. Use static screen designs or a design-tool clickthrough if useful and accessible.
+### P-05 — Review and revise content and workflows
 
-**Outputs:** concept images, selection record, refined screen designs, component/state guide, annotated responsive behaviour, and assets prepared for handoff.
+**Work:** run available task-based learner reviews and editorial walkthroughs using content, sitemap descriptions, written state cards, and functional flows. Ask learners to interpret starting routes, feedback, transfer incompatibility, progress categories, saving/import choices, and optional article-to-learning links. Record predicted choices separately from actual document-link actions; neither proves website navigation discoverability.
 
-**Review point:** select and approve the visual direction and subsequent refinements. Do not route selection into a coded prototype or implementation workflow.
+Record task outcome, misunderstanding, context, severity, observation versus inference, and proposed revision. A critical misunderstanding of an essential decision prompts content/functional-specification revision and another review where possible. Specify keyboard/focus, labels, colour-independent meaning, media alternatives, and text clarity as requirements for later delivery; visual design and working checks are outside this review.
 
-### P-05 — Validate and revise the designs
+**Outputs:** actual content/workflow findings when sessions occur, revised specifications/copy, traceable changes, unresolved limitations, and future UI/accessibility/performance tests with delivery ownership.
 
-**Work:** run available task-based learner reviews and editorial walkthroughs using noncode artifacts. Ask learners to locate a suitable starting lesson, interpret feedback, identify a transfer incompatibility, understand progress categories, choose saving/import behaviour, and move from an article to useful learning.
-
-Record task outcome, misunderstanding, context, severity, observation versus inference, and proposed revision. A critical misunderstanding of an essential decision prompts content/interaction revision and another review where possible. Assess keyboard/focus plans, reading order, labels, colour-independent states, media alternatives, and text clarity at design level.
-
-**Outputs:** validation findings, revised designs/copy, traceable changes, unresolved limitations, and the future accessibility/performance test plan.
-
-**Review point:** agree that observed material problems have been addressed or explicitly identify the remaining condition and owner. Static/design-tool reviews do not establish working keyboard behaviour, save reliability, load performance, or WCAG conformance in an application.
+**Review point:** agree that observed material problems have been addressed or identify the remaining condition and owner. Text/state walkthroughs do not establish visual discoverability, working keyboard behaviour, save reliability, load performance, or WCAG conformance. Record unavailable learner access as a limitation, not a completed session.
 
 ### P-06 — Prepare the WordPress technical recommendation
 
@@ -171,13 +166,13 @@ Compare viable approaches and document tradeoffs, cost ranges, assumptions, sequ
 
 ### P-07 — Assemble and review the handoff
 
-**Work:** reconcile the package, resolve contradictions, record conditions, and map evidence → approved decisions → curriculum/journeys → features → design states → proposed components → future verification.
+**Work:** reconcile the package, resolve contradictions, record conditions, and map evidence → approved decisions → curriculum/journeys → features → functional states → proposed components → future verification.
 
-**Outputs:** versioned handoff index, current Reviewer Brief, reviewed scope, content/rubric examples, selected noncode designs/assets, technical recommendations and estimates, prioritised development backlog, future validation plan, and final decision/open-issue records.
+**Outputs:** versioned handoff index, current Reviewer Brief, reviewed scope, content/rubric examples, sitemap/page/flow/state specifications, technical recommendations and estimates, prioritised development backlog, future validation plan, later styling/UI-validation ownership, and final decision/open-issue records. Visual artifacts are not required.
 
 **Review point:** independent reviewer and owner approve named versions or record requested changes/conditions. Each material unknown has an owner, effect on the plan, and proposed resolution. A package with unresolved critical choices is a conditional planning handoff rather than a fully settled development brief.
 
-When accepted, the planning assistant explains the package and answers review questions. The owner decides whether and when to commission a development team. The assistant continues documentation/design support when requested and does not begin coding automatically.
+When accepted, the planning assistant explains the package and answers review questions. The owner decides whether and when to commission later delivery. The assistant continues documentation/functional-planning support when requested and does not begin coding automatically.
 
 ## Approval and change control
 
@@ -192,7 +187,7 @@ Use focused agents for independent learner, curriculum, or WordPress reviews whe
 Repository: [Gerrard-Studio-Venturis/wetin-be-crypto](https://github.com/Gerrard-Studio-Venturis/wetin-be-crypto).
 
 1. Inspect the current branch, repository instructions, and changed files. Preserve others' work.
-2. Make a coherent documentation update: a research synthesis, specification revision, design/validation result, or handoff change.
+2. Make a coherent documentation update: a research synthesis, functional specification, content/workflow-review result, scope revision, or handoff change.
 3. Update affected cross-references, Reviewer Brief, Evidence Register, Decision Log, document versions/statuses, and Changelog as needed.
 4. Check Markdown links, identifiers, consistency, source/approval claims, and the planning-only scope. Application tests remain not executed.
 5. Commit and publish the checkpoint to GitHub. Report the branch/commit or review link after a successful write; if publication fails, state the actual blocker and retain the local documents.
@@ -206,9 +201,10 @@ The empty repository's initial scope commit establishes `main`; the full package
 - First-release and later scope are explicit; essential unknowns have an owner and resolution path.
 - Evidence, assumptions, learner-validation status, and source freshness are visible.
 - Curriculum, representative content, essential-decision rubrics, and editorial capacity are reviewable.
-- Main journeys, exceptions, mobile/desktop designs, and reusable component states are defined.
+- Main journeys, page responsibilities, functional states, exceptions, records, and return paths are defined.
+- Later visual styling and implemented UI/accessibility validation have a delivery owner; no visual artifact or selection is required from this engagement.
 - WordPress recommendations explain requirement coverage, data ownership, dependencies, costs, portability, and maintenance.
 - Future application/accessibility/performance verification is specified and clearly not executed.
 - Traceability links and the reviewer summary agree with the detailed package.
 - GitHub contains the current reviewed package and change history.
-- The development-team handoff preserves the assistant's research/design-only engagement boundary.
+- The development-team handoff preserves the assistant's research/functional-planning engagement boundary.

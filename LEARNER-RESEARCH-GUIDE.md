@@ -1,17 +1,17 @@
 # Wetin Be Crypto — Learner Research Guide
 
-Version: 0.1
+Version: 0.2
 Date: 7 October 2026
 Status: Proposed session protocol and reusable note templates. No participants have been recruited, interviewed, or tested through this guide.
-Work phases: P-01/P-02 now; repeat relevant tasks against noncode designs in P-03/P-05.
+Work phases: P-01/P-02 content review and P-03/P-05 written functional-flow review. Visual design is excluded under approved D-15.
 
 ## Purpose and authority
 
 Investigate actual learner situations, review representative teaching, and check whether people understand the proposed reading, practice, progress, and saving experience. This guide prepares sessions; it does not supply learner findings or authorise outreach.
 
-Read [Research and Design Plan](RESEARCH-AND-DESIGN-PLAN.md), [Decision Log](DECISION-LOG.md), [Product Brief](PRODUCT-BRIEF.md), [Curriculum and Journeys](CURRICULUM-AND-JOURNEYS.md), and [Feature Specification](FEATURE-SPECIFICATION.md) alongside this guide. Record recommendations in the [Evidence Register](EVIDENCE-REGISTER.md) after actual reviews occur.
+Read [Research and Planning Process](RESEARCH-AND-DESIGN-PLAN.md), [Decision Log](DECISION-LOG.md), [Product Brief](PRODUCT-BRIEF.md), [Curriculum and Journeys](CURRICULUM-AND-JOURNEYS.md), and [Feature Specification](FEATURE-SPECIFICATION.md) alongside this guide. Record recommendations in the [Evidence Register](EVIDENCE-REGISTER.md) after actual reviews occur.
 
-Preserve approved decisions D-01 to D-14. In particular:
+Preserve approved decisions D-01 to D-15. In particular:
 
 - The audience is wider Africa with a West African focus; country coverage remains proposed.
 - Practical understanding and safe everyday use lead the foundation. Reading is open; only selected practice has declared prerequisite checks.
@@ -149,7 +149,7 @@ Give the scenario, ask the person to work as they normally would, and invite the
 
 **Meaningful outcome:** the learner can explain O-04.2 in their own words using the approved sample criteria. After the first explanation, offer a different fictional example and ask what information they need. Recognise an appropriate decision to stop because information is missing.
 
-**Boundary:** this establishes sample comprehension, not real-world transfer competence. A Markdown link tests document access only; absent page designs cannot prove navigation discoverability.
+**Boundary:** this establishes sample comprehension, not real-world transfer competence. A Markdown link tests document access only; written flows cannot prove website navigation discoverability.
 
 ### T-02 — Check understanding and use feedback
 
@@ -322,7 +322,7 @@ Proposed issue priorities:
 
 Do not infer that every wrong answer is a content defect. Check prior knowledge, language, reading exposure, rubric ambiguity, moderator assistance, and whether the task itself supplied sufficient information. Independent crypto/source review is necessary when factual teaching is in question; learner preference cannot establish technical truth.
 
-No recommendation overrides D-01 to D-14 without owner approval. Record detailed outcome/threshold, country, interaction, or performance proposals against PD-01/02/04/07/08 rather than claiming the session approved them.
+No recommendation overrides D-01 to D-15 without owner approval. Record detailed outcome/threshold, country, interaction, or performance proposals against PD-01/02/04/07/08 rather than claiming the session approved them.
 
 ## What each review stage can establish
 
@@ -330,15 +330,15 @@ No recommendation overrides D-01 to D-14 without owner approval. Record detailed
 | --- | --- | --- |
 | Markdown/content pack | Comprehension of that copy, source/date interpretation, manual rubric responses, actual document-link use, initial voice feedback. | Website discoverability, live grading, persistence, authentication, full accessibility, performance. |
 | Written proposed-state cards | Interpretation of saving/progress/import explanations and the person's predicted decision. | Working state transitions, expiry, merging, error recovery, ownership enforcement. |
-| Later noncode wireframes/screens | Visible information hierarchy, intended routes, state/copy interpretation; simulated paths where explicitly conducted. | Real interactions, responsive implementation, keyboard/screen-reader conformance, network/save behaviour. |
+| Sitemap and written functional flows | Interpretation of described page relationships, route/state copy, and predicted choices; actual document-link actions if observed. | Visual discoverability, actual website navigation, responsive implementation, keyboard/screen-reader conformance, network/save behaviour. |
 | Future commissioned working application | Implemented journeys and relevant acceptance criteria when actually exercised under stated conditions. | Broader population demand or durable learning without further suitable study. |
 
-After source/content changes, repeat focused comprehension/rationale tasks where the affected outcome warrants it. Revisit navigation and continuity tasks against actual designs in P-05. A later delayed retrieval or varied scenario can investigate retention/transfer if access permits; timing and assessment criteria must be agreed rather than invented from this first round.
+After source/content changes, repeat focused comprehension/rationale tasks where the affected outcome warrants it. Revisit continuity/route explanations using [Information Architecture](INFORMATION-ARCHITECTURE.md) and [Functional Flows](FUNCTIONAL-FLOWS.md) in P-05; actual UI navigation validation belongs to later delivery. A delayed retrieval or varied scenario can investigate retention/transfer if access permits; timing and criteria must be agreed rather than invented from this first round.
 
 ## Owner/access decisions before sessions
 
 1. **Participant access and coverage:** who arranges the six-to-eight-person round, which country/language contexts are realistically available, adult eligibility, any incentive, and whether interpreter/accessibility support is available. These choices set research coverage, not product-supported countries.
 2. **Research operations:** named facilitator/note-taker, scheduling, privacy/withdrawal notice, private storage and retention, optional recording policy, and permission for anonymised public synthesis.
-3. **Review readiness:** actual sample versions and approved assessment criteria/source review; access to a fluent Nigerian reviewer and non-Nigerian readers. Written state descriptions may be reviewed now; genuine navigation validation waits for the relevant designs.
+3. **Review readiness:** actual sample versions and approved assessment criteria/source review; access to a fluent Nigerian reviewer and non-Nigerian readers. Written state/flow descriptions may be reviewed now; genuine UI navigation validation belongs to the later implemented application.
 
 If participant access is unavailable, keep this guide ready, perform only explicitly labelled expert content/state walkthroughs, and report learner interviews/usability validation as **not conducted**. Do not fill the evidence gaps with invented sessions or treat the guide itself as proof of product effectiveness.

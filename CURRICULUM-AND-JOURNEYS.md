@@ -1,11 +1,13 @@
 # Crypto Learning Application — Curriculum and Journeys
 
-Version: 0.5
+Version: 0.6
 Date: 7 October 2026
 Status: Draft learning architecture based on approved product decisions.
 Related documents: [Product Brief](PRODUCT-BRIEF.md), [Feature Specification](FEATURE-SPECIFICATION.md).
 
-This document contributes to the research/design handoff. It does not authorise application implementation by the planning assistant. The [Research and Design Plan](RESEARCH-AND-DESIGN-PLAN.md) defines the remaining content-design and learner-validation work.
+This document contributes to the research/design handoff. It does not authorise application implementation by the planning assistant. The [Research and Planning Process](RESEARCH-AND-DESIGN-PLAN.md) defines the remaining content-design and learner-validation work.
+
+Approved D-15 excludes visual design. [Information Architecture](INFORMATION-ARCHITECTURE.md) and [Functional Flows](FUNCTIONAL-FLOWS.md) elaborate these eight journeys as written page/state/record requirements; no new learning credit or approved gate is inferred from their drafting.
 
 ## Learning promise
 

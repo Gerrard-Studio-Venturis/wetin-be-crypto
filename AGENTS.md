@@ -2,9 +2,11 @@
 
 ## Engagement
 
-This is the research, planning, and noncode design repository for a WordPress crypto education application. Read README.md, REVIEW-BRIEF.md, RESEARCH-AND-DESIGN-PLAN.md, and DECISION-LOG.md before continuing the work.
+This is the research, planning, and functional-specification repository for a WordPress crypto education application. Read README.md, REVIEW-BRIEF.md, RESEARCH-AND-DESIGN-PLAN.md, and DECISION-LOG.md before continuing the work.
 
-The owner explicitly does not want the planning assistant to write application code when the plan becomes ready. Produce evidence, specifications, content examples, noncode designs, and a development-team handoff. Approval of documents, design selection, or handoff readiness does not trigger implementation.
+The owner explicitly does not want the planning assistant to write application code when the plan becomes ready. Produce evidence, specifications, content examples, functional maps/flows, technical recommendations, and a development-team handoff. Approval of documents or handoff readiness does not trigger implementation.
+
+Approved D-15 removes visual design from this engagement. Do not generate visual concepts, polished wireframes, mobile/desktop mockups, typography/colour systems, or a visual component library. Written page/state specifications, simple relationship/flow diagrams, accessibility requirements, and content/workflow review remain in scope. Retain P-04/PD-05 as retired identifiers for history. The handoff identifies responsibility for later visual styling and implemented UI/accessibility checks rather than requiring those artifacts from the planning assistant.
 
 Do not write product code, scaffold a coded prototype, install/configure the application, or deploy it. Shell/Git/file tools may manage and check documentation. If the owner later changes the engagement, record the new explicit scope before acting on it.
 

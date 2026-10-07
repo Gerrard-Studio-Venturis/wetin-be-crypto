@@ -2,6 +2,27 @@
 
 Dates use the owner's current date context. Versions describe planning documents; they are not application releases.
 
+## 7 October 2026 — Reduced scope and functional-structure checkpoint
+
+### Approved scope change
+
+- D-15 records the owner's “proceed” after the reduced-scope option: remove visual design while retaining sitemap, functional page/state/flow specifications, content/workflow review, WordPress recommendations, and handoff.
+- P-04 and PD-05 are retired and retained for history. Visual concepts, polished wireframes/mockups, typography/colour systems, and a visual component library are no longer this engagement's deliverables or readiness gates.
+- Later delivery owns styling and working UI/accessibility validation. Existing accessibility, English/Pidgin voice, and lightweight-use requirements remain. The planning assistant's no-application-code boundary is unchanged.
+
+### Added
+
+- Information Architecture v0.1: navigation, a simple sitemap diagram, eighteen page families, functional information/actions/states, content relationships, and feature/flow mappings.
+- Functional Flows v0.1: ten learning, practice, progress, guest-memory/account/import, article/search/bookmark, and editorial flows, with exceptions, record/credit boundaries, proposed wording, and open mechanisms. Mappings reference all 69 existing acceptance criteria.
+
+### Aligned
+
+- Reviewer Brief, process plan, Decision Log, and Evidence Register move to v0.3; Product Brief and Curriculum/Journeys to v0.6; Feature Specification to v0.4; Learner Research Guide and Research Findings to v0.2.
+- README/repository instructions reflect the functional-planning engagement. The process-plan filename stays stable for existing links/history.
+- Remaining work groups into launch scope/learning rules; functional-specification review/refinement; content/workflow validation; WordPress recommendations; and reviewed handoff. The package is not ready for development handoff.
+- No new external-source inspections, learner sessions, qualified external approval, visual artifacts, installations, application tests, or code are claimed. Functional details remain proposals; the same twelve feature groups and 69 criteria remain unexecuted.
+- Internal consistency review clarified that unpublished editorial material is excluded from public/unauthorised access while remaining available to authorised editorial reviewers. This is document review, not proof of implemented access control.
+
 ## 7 October 2026 — Focused research and content-design checkpoint
 
 ### Added

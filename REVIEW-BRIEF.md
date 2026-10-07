@@ -1,6 +1,6 @@
 # Wetin Be Crypto — Reviewer Brief
 
-Version: 0.2
+Version: 0.3
 Date: 7 October 2026
 Status: Planning proposal for independent review. Product direction is approved by the owner; detailed requirements and this process breakdown remain drafts.
 
@@ -23,16 +23,17 @@ Specialist tracks, more educational tools, and French publication follow later s
 
 ## Current checkpoint
 
-Prepared: [32 proposed lessons and a wider topic map](CURRICULUM-COVERAGE.md), [representative lesson/check/mission and article samples](CONTENT-DESIGN-SAMPLES.md), a [voice/editorial guide](VOICE-AND-EDITORIAL-GUIDE.md), and a [learner-review protocol](LEARNER-RESEARCH-GUIDE.md). [Focused findings](RESEARCH-FINDINGS.md) records current sources and limits. The samples demonstrate a bounded skill, not complete-module mastery. Qualified subject, language, and learner review remains outstanding. **The package is not ready for development handoff.**
+Prepared: [32 proposed lessons and a wider topic map](CURRICULUM-COVERAGE.md), [content/assessment samples](CONTENT-DESIGN-SAMPLES.md), voice/editorial guidance, a learner-review protocol, and [focused source findings](RESEARCH-FINDINGS.md). [Information Architecture](INFORMATION-ARCHITECTURE.md) now defines eighteen page families; [Functional Flows](FUNCTIONAL-FLOWS.md) defines ten flows and exceptions. These remain reviewable drafts. Qualified subject, language, and learner review is outstanding. **The package is not ready for development handoff.**
 
-## How we will research and design it
+## Remaining planning work
 
-1. Research priority learner situations, regional constraints, comparable products, crypto concepts, and teaching methods. Record sources, assumptions, gaps, and recommendations separately.
-2. Refine curriculum, actual lesson/assessment examples, article formats, voice, and editorial capacity with learner and subject review where available.
-3. Define navigation, page relationships, and screen states for learning, practice, reading, saving, expiry, and corrections.
-4. Explore three distinct noncode visual directions, let the owner choose, and refine mobile/desktop designs and reusable components.
-5. Review realistic tasks with learners, record observations and revisions, and perform design-level accessibility checks.
-6. Compare WordPress/LMS and supporting components using current documentation; specify data ownership, integration needs, costs, maintenance, and future verification scenarios.
+1. Settle launch scope, country/asset coverage, lesson/assessment criteria, mission prerequisites, and editorial capacity using evidence and actual content.
+2. Review/refine the sitemap, page responsibilities, functional states, records, and return paths against the requirements.
+3. Review crypto accuracy, actual English/Pidgin wording, learner comprehension, and written workflows; record observed findings separately from hypotheses and unperformed tests.
+4. Compare WordPress/LMS and supporting components; recommend data ownership, integration needs, costs, maintenance, device budgets, and future verification.
+5. Reconcile and approve named versions of the handoff, priorities, estimates, acceptance criteria, unresolved conditions, and delivery responsibilities.
+
+The owner has removed visual design (D-15). Concepts, polished mockups, typography/colour systems, and a visual component library are excluded. Written specifications and simple flow diagrams remain. Later delivery owns styling and working UI/accessibility validation.
 
 Each material change to product direction returns to the owner for review. Research and design work is versioned and published to GitHub at meaningful checkpoints during active work.
 
@@ -40,14 +41,14 @@ Each material change to product direction returns to the owner for review. Resea
 
 WordPress is fixed. LMS, editorial, search, bookmark, and multilingual components are unselected. Guest prerequisites, progress import, versioned assessments, combined search, and approval of published updates may require integration or custom development by the eventual development team.
 
-Current evidence is public-source desk research. Learner interviews, usability testing, and application/plugin tests have not been performed. Proposed designs and vendor documentation cannot prove working behaviour. Critical unknowns need an owner and a verification plan before the package can be called ready for development handoff.
+Current evidence is public-source desk research and internal document review. Learner interviews, usability testing, and application/plugin tests have not been performed. Written specifications and vendor documentation cannot prove working behaviour or visual discoverability. Critical unknowns need an owner and a verification plan before the package can be called ready for development handoff.
 
 ## What approval means
 
 Review the product direction, proposed scope, research/design process, and the resources needed for content and editorial work. Record approval, requested changes, or conditions against this version in the [Decision Log](DECISION-LOG.md).
 
-At handoff, the owner receives reviewed requirements, noncode designs, representative content/rubrics, technical recommendations, estimates, and a future application-validation plan. The owner can commission a development team separately. **The planning assistant will not begin product coding when the plan is ready or approved.**
+At handoff, the owner receives reviewed requirements, sitemap/page/flow/state specifications, representative content/rubrics, technical recommendations, estimates, and future application-validation responsibilities. The owner can commission later delivery separately. **The planning assistant will not begin product coding when the plan is ready or approved.**
 
 ## Details
 
-Start with [Research and Design Plan](RESEARCH-AND-DESIGN-PLAN.md), then consult [Product Brief](PRODUCT-BRIEF.md), [Curriculum and Journeys](CURRICULUM-AND-JOURNEYS.md), [Feature Specification](FEATURE-SPECIFICATION.md), and [Evidence Register](EVIDENCE-REGISTER.md).
+Start with [Research and Planning Process](RESEARCH-AND-DESIGN-PLAN.md), then consult [Product Brief](PRODUCT-BRIEF.md), [Curriculum and Journeys](CURRICULUM-AND-JOURNEYS.md), [Feature Specification](FEATURE-SPECIFICATION.md), and [Evidence Register](EVIDENCE-REGISTER.md).

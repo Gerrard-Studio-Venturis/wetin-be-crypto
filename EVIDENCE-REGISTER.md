@@ -1,6 +1,6 @@
 # Wetin Be Crypto — Evidence Register
 
-Version: 0.2
+Version: 0.3
 Date: 7 October 2026
 Status: Desk-research baseline plus a dated focused-source pass; direct learner and application validation outstanding.
 
@@ -17,6 +17,8 @@ Distinguish:
 - **Unverified behaviour:** a proposed application outcome that has not been implemented/tested.
 
 Public documentation can support a capability claim within its stated scope. It does not prove the proposed end-to-end application. Initial competitor research did not test logged-in journeys.
+
+This checkpoint records approved D-15 and functional specifications derived from existing requirements. It conducts no new external-source inspection, learner session, or application test. Removing visual-design production changes deliverables, not the existing accessibility/voice requirements or source findings.
 
 ## Source map
 
@@ -69,6 +71,7 @@ Other products examined in the initial research included Binance Academy, Coinba
 | E-14 | Matching asset names/address appearance does not establish a supported receiving route. | S-20/21/23/24, with provider/issuer limits. | Compare exact representation, selected network, and current receiving support; L-04.2/O-04.2, FS-02/03/04/08, RF-01. | Source-supported distinction; fictional sample and rubric still require qualified subject/learner review. |
 | E-15 | Stablecoin target, market quote, eligible redemption, and local payout are different concepts. | S-22/24 and scoped synthesis. | Qualified standalone explainer and M-05 outcomes; FS-02/07, RF-02. | Issuer-specific terms are not universal stablecoin rules or independent assurance. |
 | E-16 | An old announcement can be useful archived coverage with clear dates. | S-02; editorial synthesis. | Label A-NEWS-01 as January archive; separate event/source/publication/verification dates; FS-07/11, RF-03. | Source announcement verified in this pass; current programme outcomes and reader comprehension unverified. |
+| E-17 | Visual design is excluded; functional structure/flows remain. | Explicit owner approval D-15, following the reduced-scope explanation. | P-04/PD-05 retired; written IA/flows, content/workflow review, WordPress planning, and handoff retained. | Approved scope policy, not a finding that visual styling or working UI validation is unnecessary in later delivery. |
 
 ## Assumptions and unresolved evidence
 
@@ -76,14 +79,14 @@ Other products examined in the initial research included Binance Academy, Coinba
 | --- | --- | --- | --- |
 | A-01 | Learners value the proposed foundation, missions, and progress distinctions. | Interview/task-review actual examples; record observed benefit/confusion. | P-01/02/05. |
 | A-02 | English-first writing with light Nigerian Pidgin works across the intended audience. | Fluent review and non-Nigerian comprehension checks. | P-02/05. |
-| A-03 | Readers can move naturally between news, hubs, and optional learning. | Test article-discovery and learning-link tasks on designs. | P-03/05. |
+| A-03 | Readers can move naturally between news, hubs, and optional learning. | Review copy and described routes now; test actual UI discoverability in later delivery. | P-03/05 and future application validation. |
 | A-04 | Guest saving/import explanations are understandable on shared devices. | Review opt-in, expiry, new-account saving, and existing-account choice. | P-03/05. |
 | G-01 | No direct learner interviews or usability sessions have been conducted. | Prepare guides and obtain owner-arranged participant access; record absence if unavailable. | P-01/05. |
 | G-02 | No WordPress/LMS application behaviour has been tested. | Compare documentation; specify future development-team tests. | P-06/handoff. |
 | G-03 | Representative O-04.2 questions/rubric are drafted; full banks, approved gates/criteria, ordinary thresholds, and review timing remain open. | Qualified subject/learner review of [samples](CONTENT-DESIGN-SAMPLES.md); expand banks after review. | P-02. |
 | G-04 | Initial country/asset coverage, Francophone evidence, and publication capacity remain open. | Propose coverage/backlog with sources and workload assumptions. | P-01/02. |
 | G-05 | Devices, connectivity, measurable budgets, and recurring costs are unspecified. | Recommend baselines and dated cost assumptions for review. | P-06. |
-| G-06 | Design direction and interaction states are not yet produced or validated. | Wireframes, visual selection, and task reviews. | P-03/04/05. |
+| G-06 | Eighteen page families/ten flows are drafted; functional review and actual learner validation remain outstanding. | Review [IA](INFORMATION-ARCHITECTURE.md)/[flows](FUNCTIONAL-FLOWS.md), content/state cards, and open mechanisms. Visual artifacts are excluded; later delivery owns working UI checks. | P-03/05/06/07. |
 
 ## Record format for the next research passes
 

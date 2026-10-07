@@ -1,6 +1,6 @@
 # Crypto Learning Application — Curriculum and Journeys
 
-Version: 0.6
+Version: 0.7
 Date: 7 October 2026
 Status: Draft learning architecture based on approved product decisions.
 Related documents: [Product Brief](PRODUCT-BRIEF.md), [Feature Specification](FEATURE-SPECIFICATION.md).
@@ -163,3 +163,7 @@ Articles can also remain standalone reading. Optional reflection prompts do not 
 West African learners should test the examples, terminology, Pidgin, navigation, assessment difficulty, and value of the proposed journeys. No learner interviews or usability tests have yet been conducted.
 
 The [Learner Research Guide](LEARNER-RESEARCH-GUIDE.md) defines neutral tasks and recording templates. [Research Findings](RESEARCH-FINDINGS.md) and the [Voice and Editorial Guide](VOICE-AND-EDITORIAL-GUIDE.md) distinguish current source support from pending learner, subject, and language review.
+
+## Detailed planning proposals
+
+[Launch Scope](LAUNCH-SCOPE.md), [Assessment Rules](ASSESSMENT-RULES.md) and [Functional Review](FUNCTIONAL-REVIEW.md) develop these journeys into concrete scope, evidence and guest-lifecycle choices. They remain proposals; completion/pass/practice distinctions, public reading and approved memory/bookmark policies are preserved. [Handoff Review Pack](HANDOFF-REVIEW-PACK.md) identifies outstanding content, learner, technical and ownership conditions.

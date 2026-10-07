@@ -1,8 +1,8 @@
 # Wetin Be Crypto — Evidence Register
 
-Version: 0.4
+Version: 0.5
 Date: 7 October 2026
-Status: Desk-research baseline plus focused content and WordPress source passes; direct learner and application validation outstanding.
+Status: Desk research, bounded regional/WordPress source passes and internal written review; direct learner and application validation outstanding.
 
 ## How to read this register
 
@@ -18,7 +18,7 @@ Distinguish:
 
 Public documentation can support a capability claim within its stated scope. It does not prove the proposed end-to-end application. Initial competitor research did not test logged-in journeys.
 
-This checkpoint adds actual 7 October 2026 inspections S-25–46. Detailed extraction methods, available source dates and limits are in the LMS, supporting-component and core reports below. Some URLs repeat baseline sources with a new explicit inspection record. No learner session or application test occurred. D-15 still excludes visual-design production while retaining accessibility and voice requirements.
+The preceding checkpoint recorded actual 7 October 2026 inspections S-25–46. This checkpoint adds S-47–50 in [Regional Scope Research](REGIONAL-SCOPE-RESEARCH.md), with historical and partial-PDF limits. Detailed methods/dates/limits remain in the linked source reports. Some URLs repeat baseline sources with a new explicit inspection record. No learner session or application test occurred. D-15 still excludes visual-design production while retaining accessibility and voice requirements.
 
 ## Source map
 
@@ -70,6 +70,10 @@ This checkpoint adds actual 7 October 2026 inspections S-25–46. Detailed extra
 | S-44 | [Requirements](https://wordpress.org/about/requirements/) | Inspected 7 October 2026; exact method, observation, source dates and limitations in [WORDPRESS-CORE-RESEARCH](WORDPRESS-CORE-RESEARCH.md). No installation proof. |
 | S-45 | [WordPress hosting pricing](https://kinsta.com/pricing/) | Inspected 7 October 2026; exact method, observation, source dates and limitations in [WORDPRESS-CORE-RESEARCH](WORDPRESS-CORE-RESEARCH.md). No installation proof. |
 | S-46 | [REST API Authentication](https://developer.wordpress.org/rest-api/using-the-rest-api/authentication/) | Inspected 7 October 2026; exact method, observation, source dates and limitations in [WORDPRESS-CORE-RESEARCH](WORDPRESS-CORE-RESEARCH.md). No installation proof. |
+| S-47 | [Nigeria SEC digital-asset statement](https://sec.gov.ng/keep-track-of-fintech-news/statement-on-digital-assets-and-their-classification-and-treatment/) | Full page inspected 7 October 2026; September 2020 historical statement, not current country law/provider approval. Regional report records later banner and outdated universal-claim limits. |
+| S-48 | [BoG Education Manual 1 listing](https://www.bog.gov.gh/virtual-assets-posts/national-virtual-assets-education-manual-1/) | Full listing inspected 7 October 2026; dated 16 April 2026, PDF link established. No complete manual content/effectiveness inferred. |
+| S-49 | [BoG VASP Act FAQs](https://www.bog.gov.gh/wp-content/uploads/2026/03/VASP-Act-FAQs.pdf) | Five-page PDF inspected 7 October 2026; dated February 2026. Consumer-risk/regulation distinctions and Q14 wage/invoice restriction inform content hold; current legal/transition/authorisation status unverified. |
+| S-50 | [BoG Education Manual 1 PDF](https://www.bog.gov.gh/wp-content/uploads/2026/04/National-Virtual-Assets-Education-Manual-1.pdf) | First six of 159 pages inspected 7 October 2026; Advanced Professional front matter, first edition March 2026. No body-curriculum/method/assessment/effectiveness review claimed. |
 
 Other products examined in the initial research included Binance Academy, Coinbase Learn, Khan Academy, Yellow Card Academy, and Decrypt. Treat that comparative coverage as exploratory; the next comparative pass should record exact inspected surfaces and findings rather than infer undocumented account behaviour.
 
@@ -99,21 +103,25 @@ Other products examined in the initial research included Binance Academy, Coinba
 | E-20 | Synonyms/indexing are partial discovery tools; canonical phrase aliases and private exclusion need explicit rules. | S-33–36. | Retrieval candidate plus canonical resolver, labels and public-index boundaries; FS-08/09. | SearchWP phrase limitation and Relevanssi logging inconsistency require version-specific review. |
 | E-21 | WordPress nonces do not supply guest identity, ownership permissions or idempotency. | S-42/46. | Server-authoritative guest evidence with separate identity/expiry/action checks; FS-03–06/10. | Source distinction established; complete mechanism and visit policy proposed, untested. |
 | E-22 | Core supports structured content and storage choices; cost/compatibility require a bounded model. | S-40/43–45 and dated vendor prices. | Build-plan records, illustrative USD479 hosting/editorial subtotal and explicit exclusions. | No selected versions/host, total budget or runtime performance; effort range and device targets are planning judgements. |
+| E-23 | Retrieval today does not make an official statement current; national guidance can materially affect examples. | S-47/49, dated official material and scoped interpretation. | Record age/applicability; hold unsupported Ghana wage/invoice instructions pending current review; PD-01/03, FS-02/07/08/11. | Source observations, not our legal determination or verified operational-country coverage. |
+| E-24 | A manual listing/front matter does not establish its full level/content/effectiveness. | S-48/50; only six PDF pages inspected. | Record advanced-level label and partial access; preserve original beginner foundation. | No full comparative curriculum/learning-outcome review. |
+| E-25 | Concrete release/evidence/capacity proposals make the remaining decisions reviewable. | Existing coverage, source categories and planning judgement. | 32-lesson + 6/6/24 manifest, criterion rules and staffing-hour assumptions; Launch Scope, Assessment Rules, Operating Plan; PD-01/02/03. | Counts/thresholds/hours are unapproved hypotheses; full banks, human reviews and available staff remain missing. |
+| E-26 | Internal written walkthrough identifies guest authority and lifecycle contracts. | Functional Review against existing 10 flows/69 criteria. | Clarify guest/account own-record access; propose visit/checkpoint/import/race rules; PD-04/07. | Document analysis only; no observed learner behaviour or installed proof. |
 
 ## Assumptions and unresolved evidence
 
 | ID | Hypothesis or gap | Next action | Phase |
 | --- | --- | --- | --- |
-| A-01 | Learners value the proposed foundation, missions, and progress distinctions. | Interview/task-review actual examples; record observed benefit/confusion. | P-01/02/05. |
+| A-01 | Learners value the proposed foundation, missions, and progress distinctions. | Concrete samples/rules prepared; interview/task-review actual examples and record observed benefit/confusion. | P-01/02/05. |
 | A-02 | English-first writing with light Nigerian Pidgin works across the intended audience. | Fluent review and non-Nigerian comprehension checks. | P-02/05. |
 | A-03 | Readers can move naturally between news, hubs, and optional learning. | Review copy and described routes now; test actual UI discoverability in later delivery. | P-03/05 and future application validation. |
 | A-04 | Guest saving/import explanations are understandable on shared devices. | Review opt-in, expiry, new-account saving, and existing-account choice. | P-03/05. |
 | G-01 | No direct learner interviews or usability sessions have been conducted. | Prepare guides and obtain owner-arranged participant access; record absence if unavailable. | P-01/05. |
 | G-02 | No WordPress/LMS application behaviour has been tested. | Source comparison and future scenario plan prepared; later delivery must establish compatible interfaces and complete behaviour. | P-06/handoff. |
-| G-03 | Representative O-04.2 questions/rubric are drafted; full banks, approved gates/criteria, ordinary thresholds, and review timing remain open. | Qualified subject/learner review of [samples](CONTENT-DESIGN-SAMPLES.md); expand banks after review. | P-02. |
-| G-04 | Initial country/asset coverage, Francophone evidence, and publication capacity remain open. | Propose coverage/backlog with sources and workload assumptions. | P-01/02. |
+| G-03 | Representative O-04.2 questions/rubric are drafted; full banks, approved gates/criteria, ordinary thresholds, and review timing remain open. | Qualified review of [samples](CONTENT-DESIGN-SAMPLES.md)/[rules and added samples](ASSESSMENT-RULES.md); expand full/retry banks after approval. | P-02. |
+| G-04 | Initial country/asset coverage, Francophone evidence, and publication capacity remain open. | [Scope](LAUNCH-SCOPE.md) and [operating proposal](EDITORIAL-OPERATING-PLAN.md) prepared; owner coverage/capacity choices and current-applicability evidence outstanding. | P-01/02. |
 | G-05 | Proposed device/network budgets, dated component costs and low-confidence effort range are prepared; actual audience baseline and complete quote remain missing. | Review PD-06/08 and obtain full delivery/operating quotations; targets and costs are unapproved. | P-06. |
-| G-06 | Eighteen page families/ten flows are drafted; functional review and actual learner validation remain outstanding. | Review [IA](INFORMATION-ARCHITECTURE.md)/[flows](FUNCTIONAL-FLOWS.md), content/state cards, and open mechanisms. Visual artifacts are excluded; later delivery owns working UI checks. | P-03/05/06/07. |
+| G-06 | Eighteen page families/ten flows are drafted; functional review and actual learner validation remain outstanding. | [Internal walkthrough](FUNCTIONAL-REVIEW.md) prepared; owner/learner review of IA/flows, state cards and proposed mechanisms remains. Visual artifacts are excluded; later delivery owns working UI checks. | P-03/05/06/07. |
 
 ## Record format for the next research passes
 

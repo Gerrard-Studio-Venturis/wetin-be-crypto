@@ -1,6 +1,6 @@
 # Wetin Be Crypto — Proposed WordPress Build Plan
 
-Version: 0.1
+Version: 0.2
 Date: 7 October 2026
 Status: P-06 recommendation for owner and technical review; components, budget and mechanisms unapproved.
 
@@ -64,6 +64,8 @@ The project owner controls the repository, hosting account, content, licence acc
 
 ## Guest memory, authority and expiry — PD-07 proposal
 
+The subsequent [Functional Review](FUNCTIONAL-REVIEW.md) provides concrete candidate visit/checkpoint/import-cleanup and race-handling contracts. Those choices remain open; this plan does not override approved 30-day memory or automatically adopt a candidate inactivity cap.
+
 Create a first-party opaque guest key only when learning work needs continuity; public article reading should stay cacheable. Associate it with private server records and server-graded activity submissions. Do not trust browser-supplied pass flags, claimed user IDs, scores or prerequisite lists. Validate identity, request protection, permitted action and current eligibility independently. WordPress nonces do not provide guest identity, record permission or idempotency (S-42/46).
 
 Without memory opt-in, preserve available work during the current visit, with no future-visit saving promise. With opt-in, persist the browser key and expire server eligibility **30 days after the last qualifying learning activity**, preserving D-11. The server clock and session record determine expiry; client clock changes and a delayed cleanup job cannot extend it. Returning to an expired guest session offers relevant checks or sign-in to saved account history.
@@ -117,6 +119,10 @@ Proposed PD-08 test baseline, **not measured audience conditions**: a midrange A
 Delivery must verify WCAG 2.2 AA across theme, assessments, search, saving and feedback. Theme/vendor claims do not prove whole-site conformance. Specify labels, keyboard/focus recovery, text alternatives and colour-independent states now; validate working behaviour later. Visual design removal does not remove these responsibilities.
 
 Propose a named maintenance owner for stable-version updates, staged regression, dependency advisories, exports/backups and restore exercises. High-risk corrections can interrupt the usual update cycle. Account/guest data retention, transactional-email reliability, monitoring and incident access require named owners and written procedures before launch. Vendor support covers its product, not the complete custom workflow.
+
+## Separate content and operating work
+
+[Launch Scope](LAUNCH-SCOPE.md) specifies the proposed production manifest; [Assessment Rules](ASSESSMENT-RULES.md) distinguishes actual samples from complete banks. [Editorial Operating Plan](EDITORIAL-OPERATING-PLAN.md) separately estimates content/source/human-review preparation and ongoing article/maintenance hours. Those tasks are excluded from the developer estimate below; no content staffing or cadence is confirmed.
 
 ## Cost model and effort
 

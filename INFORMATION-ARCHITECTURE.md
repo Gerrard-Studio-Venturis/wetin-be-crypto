@@ -1,6 +1,6 @@
 # Wetin Be Crypto — Sitemap and Functional Page Specification
 
-Version: 0.1
+Version: 0.2
 Date: 7 October 2026
 Status: P-03 draft for review under approved D-15. Page families, navigation, URLs, and detailed behaviour remain proposals.
 
@@ -62,7 +62,7 @@ An arrow indicates a possible relationship, not permission or automatic transiti
 
 ## Page families and required information
 
-Candidate URLs below illustrate relationships. PD-06 determines WordPress routing and permalinks; slugs are not approved canonical identifiers. Every published page needs a useful unavailable state if its referenced content is withdrawn. Public routes and unauthorised requests must not expose private learner records or unpublished editorial material. Private learner access requires the relevant account; editorial draft/review access requires the appropriate capabilities.
+Candidate URLs below illustrate relationships. PD-06 determines WordPress routing and permalinks; slugs are not approved canonical identifiers. Every published page needs a useful unavailable state if its referenced content is withdrawn. Publicly shared responses and unauthorised requests must not expose guest/account learner records or unpublished editorial material. Own account results require account authentication and ownership checks; own guest-session results require valid guest authority under the proposed technical mechanism. Editorial draft/review access requires the appropriate capabilities. Public lesson/article access never establishes permission to retrieve private records.
 
 | ID / family | Candidate route | Information and actions | Key states / traceability |
 | --- | --- | --- | --- |

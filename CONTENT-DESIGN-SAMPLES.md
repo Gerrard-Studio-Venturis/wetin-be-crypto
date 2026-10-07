@@ -1,6 +1,6 @@
 # Wetin Be Crypto — Representative Content and Assessment Samples
 
-Version: 0.1
+Version: 0.2
 Date: 7 October 2026
 Status: Draft P-02 review materials. Source-informed; independent subject/voice review and learner validation outstanding.
 
@@ -11,6 +11,10 @@ This is original proposed teaching and editorial copy. It is not a live course, 
 [Curriculum Coverage](CURRICULUM-COVERAGE.md) defines lesson/outcome IDs. [Research Findings](RESEARCH-FINDINGS.md) records source observations and limits. [Learner Research Guide](LEARNER-RESEARCH-GUIDE.md) describes how to review the samples.
 
 The pack contains both learner copy and facilitator answers. **Before an independent session, prepare separate learner-facing extracts without answer keys or feedback.** Record prior exposure, show criteria before starting, and show explanatory feedback after the first response. Markdown answers here award no application credit.
+
+## Additional assessment review materials
+
+[Assessment Rules](ASSESSMENT-RULES.md) adds bounded M-02 scams/trust and M-07 transaction-record check/mission samples with separate facilitator keys. Across both documents there are twelve draft check prompts and nine draft mission cases; no full approved banks or reviewed retry forms. The original KC-04/PM-04 sample remains O-04.2 only. These public planning examples are review materials; future scored banks/keys need separate delivery and exposure handling.
 
 ## Sample manifest
 

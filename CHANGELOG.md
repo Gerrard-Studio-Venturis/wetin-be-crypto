@@ -2,6 +2,18 @@
 
 Dates use the owner's current date context. Versions describe planning documents; they are not application releases.
 
+## 7 October 2026 — Launch, assessment and operating-review checkpoint
+
+- Added Launch Scope v0.1: full eight-module/32-lesson foundation and 6 article/6 hub/24 glossary seed proposal, initial named assets/settings, later scope and production sequence. All counts/choices remain unapproved.
+- Added Assessment Rules v0.1: 32-outcome evidence design, eight preserved gate/rubric proposals, criterion/structured-rationale rules, versions/retries and bounded M-02/M-07 samples. Across both sample packs: twelve check prompts and nine mission cases; no full approved bank or reviewed retry forms. Positive provider-credit recognition and balanced options reduce obvious answer cues.
+- Added Editorial Operating Plan v0.1: aligned seed identities/terms, source/revision/correction/backup responsibilities, owner-arranged learner/voice review, 580–1,055 preparation person-hour estimate including judgement reserve and 14–24 weekly editorial pilot hours. These are unmeasured workload assumptions, not staffing, quotes or a schedule.
+- Added Regional Scope Research v0.1 with actual S-47–50 inspections: historical Nigeria SEC statement, BoG manual listing, full five-page February FAQ and first six of 159 manual pages. Country setting differs from operational applicability; current rules/provider routes remain unverified.
+- Added Functional Review v0.1 and Handoff Review Pack v0.1: internal written traceability, guest/lifecycle candidate contracts, remaining decisions/conditions and owners. IA v0.2 clarifies own guest versus authenticated account access; no implemented access-control proof.
+- Aligned Reviewer Brief/process/Decision/Evidence to v0.5; Product Brief v0.8; Features v0.6; Curriculum/Journeys v0.7; Coverage, samples, flows, voice guide and WordPress plan v0.2; learner guide v0.3. Existing 69 acceptance-criterion texts and approved D-01–15 are preserved.
+- The package is prepared for named-version review; full publishable content/banks, qualified subject/voice and learner evidence, actual capacity/quotes/technical contracts and named ownership remain outstanding. No new approval, outreach, purchase, application install/configuration/test, code or visual design is claimed.
+
+- Internal read-only audits reconciled seed IDs/terms and archive-versus-current news, reduced answer cues, and checked scope/evidence/cost boundaries. Documentation verification passes for 28 Markdown files, 265 local links/anchors, 50 source records, all 32 outcome-design rows/eight missions and ten flows mapped to 69 unchanged criteria. Approved D-01–15 texts remain unchanged; application checks remain not executed.
+
 ## 7 October 2026 — WordPress recommendation checkpoint
 
 - Added WordPress Build Plan v0.1: preferred native education route for quotation, LMS alternatives, full 12-feature/69-criterion responsibility map, conceptual records, guest authority/expiry/import, versioned assessments, editorial/search/bookmark integration, ownership, maintenance, costs and low-confidence effort assumptions.

@@ -1,12 +1,12 @@
 # Crypto Learning Application — Feature Specification
 
-Version: 0.5
+Version: 0.6
 Date: 7 October 2026
 Status: Draft for review.
 Platform: WordPress.
 Stage: Research, planning, and functional specifications. Visual design is excluded under D-15. Application coding is outside the planning assistant's engagement, including after handoff readiness.
 
-Related documents: [Product Brief](PRODUCT-BRIEF.md), [Curriculum and Journeys](CURRICULUM-AND-JOURNEYS.md).
+Related documents: [Product Brief](PRODUCT-BRIEF.md), [Curriculum and Journeys](CURRICULUM-AND-JOURNEYS.md), [Launch Scope](LAUNCH-SCOPE.md), [Assessment Rules](ASSESSMENT-RULES.md), [Functional Review](FUNCTIONAL-REVIEW.md).
 
 ## Purpose and authority
 

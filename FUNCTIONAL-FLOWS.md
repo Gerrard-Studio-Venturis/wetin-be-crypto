@@ -1,6 +1,6 @@
 # Wetin Be Crypto — Functional Flows
 
-Version: 0.1
+Version: 0.2
 Date: 7 October 2026
 Status: Proposed written interaction/workflow specifications for review. Application acceptance tests are not executed; no human learner validation is claimed.
 
@@ -163,6 +163,10 @@ All flows retain FS-12/AC-12.1–AC-12.6: readable core text, optional non-autop
 **Proposed wording:** “Source review required”; “Approval applies to this revision”; “Correction: what changed…”; “This practice is temporarily unavailable while its instructions are corrected.”
 
 **Open:** role separation/staffing, revision-specific approval enforcement, emergency authority, dependency tracking, and public correction display. WordPress roles/revisions alone do not prove these controls. Batch Pidgin/serious-tone checks are required editorial work; human review remains outstanding. Receiving an issue does not automatically edit content; a public reporting feature is outside the settled initial scope.
+
+## Internal written review and proposed contracts
+
+[Functional Review](FUNCTIONAL-REVIEW.md) walks all ten flows against the 69 existing criteria and proposes visit, checkpoint, import-cleanup and expiry/correction contracts. This is internal document analysis, not owner approval, actual learner evidence or working verification. [Assessment Rules](ASSESSMENT-RULES.md) details outcome/gate/version proposals while preserving the O-04.2-only sample boundary.
 
 ## Traceability and remaining technical authority
 

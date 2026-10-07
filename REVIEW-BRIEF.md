@@ -1,56 +1,45 @@
 # Wetin Be Crypto — Reviewer Brief
 
-Version: 0.4
+Version: 0.5
 Date: 7 October 2026
-Status: Planning proposal for independent review. Product direction is approved by the owner; detailed requirements and this process breakdown remain drafts.
+Status: Concrete planning package for owner/independent review. Product direction is approved; detailed proposals and settled handoff remain unapproved.
 
 ## What we intend to build
 
-A WordPress application that helps people understand crypto at different levels, practise useful decisions, follow their learning journey, and read understandable crypto coverage. It serves a wider African audience with a West African focus. The starting goal is practical understanding and safe everyday use.
+A WordPress application that helps people understand crypto at different levels, practise useful decisions, follow their journey and read understandable coverage. It serves a wider African audience with a West African focus, starting with practical understanding and safe everyday use.
 
-Teaching uses clear English, worked examples, explanatory feedback, and occasional contemporary Nigerian Pidgin. Pidgin should feel natural and varied. It carries familiarity and humour while essential meaning remains clear in English. The structure prepares for French later.
+Teaching uses clear English, worked examples and explanatory feedback. Occasional contemporary Nigerian Pidgin adds familiarity and humour, with varied wording, purpose and placement. Essential meaning remains in English; removing an aside must remove no required instruction. Prepare identities for French later.
 
 ## Proposed first release
 
-- A guided foundation of eight modules: basics; scams and trust; custody and recovery; assets/networks/recipients; stablecoins and conversion; transfer checks; transaction verification; permissions and combined practice.
-- Fictional practical missions, knowledge checks, and challenges for experienced learners. Reading is open; selected practice requires demonstrated prerequisite outcomes.
-- My Journey separates reading completion, passed checks, demonstrated practice, and recommended review.
-- Free public lessons and articles. Optional accounts save learning across devices. Guests can opt into 30-day progress memory on their current device after their last learning activity.
-- News, original explainers and stories, sourced news summaries, coin/topic hubs, glossary access, unified discovery, and simple account-only article bookmarks.
-- Source review, visible material corrections, content-version rules, accessible interaction design, and a lightweight reading experience.
+- Eight foundation modules and 32 text-first lessons: basics; scams/trust; custody/recovery; assets/networks/recipients; stablecoins/conversion; transfer review; transaction verification; permissions/combined practice.
+- Eight knowledge-check and eight fictional mission designs, with equivalent experienced-entry routes. Reading stays open; selected practice requires declared outcome evidence. Essential mistakes cannot be offset by unrelated answers.
+- My Journey distinguishes explicit reading completion, passed checks, demonstrated practice and review/current applicability. Optional accounts save across devices. Guests can opt into 30-day browser memory after their last learning activity.
+- Public News, Explainers and Stories, source-linked original summaries, glossary, coin/topic hubs, unified discovery and simple account-only bookmarks. Article reading/saving earns no learning credit and never silently imports guest learning.
+- A proposed seed set of six articles, six hubs and 24 glossary concepts. BTC/ETH/USDC and Nigeria/Ghana are initial named examples/settings, not investment recommendations or verified operational coverage. Wider editorial coverage remains possible.
 
-Specialist tracks, more educational tools, and French publication follow later scope decisions. Full first-release scope is proposed rather than fully signed off.
+Counts and detailed gates remain proposals. Specialist courses, additional tools, community/reward systems, monetisation and French publication are later decisions. Fictional inputs do not establish real country/provider availability or rules.
 
-## Current checkpoint
+## Prepared for review
 
-Prepared: [32 proposed lessons and a wider topic map](CURRICULUM-COVERAGE.md), [content/assessment samples](CONTENT-DESIGN-SAMPLES.md), voice/editorial guidance, a learner-review protocol, and [focused source findings](RESEARCH-FINDINGS.md). [Information Architecture](INFORMATION-ARCHITECTURE.md) now defines eighteen page families; [Functional Flows](FUNCTIONAL-FLOWS.md) defines ten flows and exceptions. The [WordPress Build Plan](WORDPRESS-BUILD-PLAN.md) adds route/cost/ownership recommendations and [future checks for all 69 criteria](IMPLEMENTATION-VERIFICATION-PLAN.md). These remain reviewable drafts. Qualified subject, language, and learner review is outstanding. **The package is not ready for development handoff.**
+[Launch Scope](LAUNCH-SCOPE.md) defines the boundary and seed subjects. [Assessment Rules](ASSESSMENT-RULES.md) maps all 32 outcomes and eight mission policies, with added bounded scam/status samples. [Editorial Operating Plan](EDITORIAL-OPERATING-PLAN.md) sizes writing, review, upkeep and staffing. [Functional Review](FUNCTIONAL-REVIEW.md) walks the ten flows against 69 criteria; eighteen page families remain in the sitemap. [Handoff Review Pack](HANDOFF-REVIEW-PACK.md) collates decisions, conditions and owners.
 
-## Remaining planning work
+The WordPress recommendation is core publishing plus a project-owned education plugin, with search/editorial candidates and an LMS-adapter alternative for quotation. Guest authority, versions/imports, canonical discovery and specific-revision approvals need explicit custom/integration work. Components, compatible versions and budget are unselected.
 
-1. Settle launch scope, country/asset coverage, lesson/assessment criteria, mission prerequisites, and editorial capacity using evidence and actual content.
-2. Review/refine the sitemap, page responsibilities, functional states, records, and return paths against the requirements.
-3. Review crypto accuracy, actual English/Pidgin wording, learner comprehension, and written workflows; record observed findings separately from hypotheses and unperformed tests.
-4. Review the prepared WordPress route/component recommendations, data authority, guest/import mechanisms, costs, maintenance and proposed device budgets; obtain a complete delivery quote.
-5. Reconcile and approve named versions of the handoff, priorities, estimates, acceptance criteria, unresolved conditions, and delivery responsibilities.
+## Resources and evidence limits
 
-The owner has removed visual design (D-15). Concepts, polished mockups, typography/colour systems, and a visual component library are excluded. Written specifications and simple flow diagrams remain. Later delivery owns styling and working UI/accessibility validation.
+The dated illustrative hosting/editorial subtotal is USD479/year before development, content, domain/email, tax/FX and other operation. Engineering is a low-confidence 42–70 developer person-day estimate assuming reviewed inputs. Content/review preparation is separately estimated at 580–1,055 person-hours including a judgement reserve. The proposed later editorial pilot uses 14–24 team person-hours weekly. None is a quote, confirmed staffing or elapsed schedule.
 
-Each material change to product direction returns to the owner for review. Research and design work is versioned and published to GitHub at meaningful checkpoints during active work.
+Evidence includes public-source research and internal written review. No learner sessions, qualified subject/voice sign-off, installed component tests, measured performance or WCAG conformance are claimed. Full reviewed question banks and lesson copy remain outstanding. Regional sources have explicit age/partial-access limits; current country/legal/provider guidance is unverified.
 
-## Feasibility and evidence limits
+## Decisions and handoff
 
-WordPress is fixed. The preferred route for quotation is core publishing plus a project-owned education plugin, with Relevanssi Free and PublishPress Revisions Pro as candidates. Compare an LMS-based quote before selection. Guest prerequisites, progress import, versioned assessments, canonical search and editorial approvals need explicit integration rules. Components and budget remain unapproved.
+Review scope/asset-region choices, criterion-based assessment rules and exact gates, editorial capacity, guest visit/checkpoint/import rules, technical route/quotes, device targets and actual owners. Record approval, changes or conditions against named versions in the [Decision Log](DECISION-LOG.md). Arrange actual content/voice and available learner review; expand approved patterns into full publishable content/banks.
 
-The dated illustrative hosting/editorial subtotal is USD479/year before development, content, domain/email, tax/FX and other operating costs. The low-confidence engineering estimate is 42–70 developer person-days, with assumptions/exclusions in the build plan; it is not a quote or elapsed schedule.
+The package is prepared for review and **not approved as a settled development handoff**. Visual design is excluded under D-15: no polished mockups, typography/colour system or visual component library. Written maps/flows remain. Later delivery owns styling and working UI/accessibility validation.
 
-Current evidence is public-source desk research and internal document review. Learner interviews, usability testing, and application/plugin tests have not been performed. Written specifications and vendor documentation cannot prove working behaviour or visual discoverability. Critical unknowns need an owner and a verification plan before the package can be called ready for development handoff.
+At accepted handoff, the owner receives reviewed specifications, content/rubrics, evidence/decisions, functional states, technical recommendations, estimates, unresolved conditions and future validation responsibilities. The owner can commission later delivery separately. **The planning assistant will not start product coding when the plan is ready or approved.**
 
-## What approval means
+## Full process
 
-Review the product direction, proposed scope, research/design process, and the resources needed for content and editorial work. Record approval, requested changes, or conditions against this version in the [Decision Log](DECISION-LOG.md).
-
-At handoff, the owner receives reviewed requirements, sitemap/page/flow/state specifications, representative content/rubrics, technical recommendations, estimates, and future application-validation responsibilities. The owner can commission later delivery separately. **The planning assistant will not begin product coding when the plan is ready or approved.**
-
-## Details
-
-Start with [Research and Planning Process](RESEARCH-AND-DESIGN-PLAN.md), then consult [Product Brief](PRODUCT-BRIEF.md), [Curriculum and Journeys](CURRICULUM-AND-JOURNEYS.md), [Feature Specification](FEATURE-SPECIFICATION.md), and [Evidence Register](EVIDENCE-REGISTER.md).
+[Research and Planning Process](RESEARCH-AND-DESIGN-PLAN.md) explains methods and review gates; [Evidence Register](EVIDENCE-REGISTER.md) links observations, hypotheses and remaining gaps.

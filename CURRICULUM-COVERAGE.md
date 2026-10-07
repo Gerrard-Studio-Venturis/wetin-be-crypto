@@ -1,6 +1,6 @@
 # Wetin Be Crypto — Curriculum Inventory and Living Coverage Map
 
-Version: 0.1
+Version: 0.2
 Date: 7 October 2026
 Status: Draft content design for P-01/P-02 review. Proposed lesson counts, outcomes, assessment mappings, and scope boundaries need review.
 Related documents: [Curriculum and Journeys](CURRICULUM-AND-JOURNEYS.md), [Product Brief](PRODUCT-BRIEF.md), [Feature Specification](FEATURE-SPECIFICATION.md), [Evidence Register](EVIDENCE-REGISTER.md), [Decision Log](DECISION-LOG.md), [Research and Planning Process](RESEARCH-AND-DESIGN-PLAN.md).
@@ -247,6 +247,10 @@ Public News, Explainers, and Stories remain independently useful. They can point
 Each publishable lesson/assessment needs a source/dependency record: identity/version, supported claim, network/account/provider/country applicability, source URL/date and actual inspection date, reviewer, affected outcomes/checks/missions, update trigger, and unresolved limits. This draft identifies categories and dependencies; it does not fabricate completed review records.
 
 Review frequency follows the volatility and consequence of the claim: conceptual vocabulary, current provider interfaces, issuer terms, country rules, news, and prices do not share one universal schedule. Material changes preserve historical achievements while clearly identifying current applicability or a focused refresh. Design-level walkthroughs cannot prove implemented saving, gating, keyboard behaviour, or application performance.
+
+## Detailed assessment and launch proposals
+
+[Assessment Rules](ASSESSMENT-RULES.md) develops all 32 outcomes into proposed evidence, eight mission rubrics/gates, rationale/version/retry rules and added bounded M-02/M-07 samples. The original O-04.2 sample boundary and every existing candidate gate remain. Full approved banks are not produced by these tables. [Launch Scope](LAUNCH-SCOPE.md) and [Editorial Operating Plan](EDITORIAL-OPERATING-PLAN.md) define the proposed seed boundary and separate content/review effort.
 
 ## Scope recommendations and remaining choices
 

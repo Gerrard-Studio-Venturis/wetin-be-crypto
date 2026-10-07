@@ -1,6 +1,6 @@
 # Crypto Learning Application — Product Brief
 
-Version: 0.7
+Version: 0.8
 Date: 7 October 2026
 Status: Consolidated approved product direction. Detailed feature behaviour remains a draft for review.
 Platform: WordPress
@@ -147,6 +147,12 @@ Relevant sources include:
 This is public-source desk research. Logged-in competitor experiences, learner interviews, LMS installations, and application behaviour have not been tested. Adoption data does not establish demand for this application. Francophone learner evidence remains limited.
 
 The current [Research Findings](RESEARCH-FINDINGS.md) records actual source inspections and qualifications. The [Learner Research Guide](LEARNER-RESEARCH-GUIDE.md) prepares content/written-workflow reviews and later working UI checks; no sessions have occurred.
+
+## Concrete launch and operating proposal
+
+[Launch Scope](LAUNCH-SCOPE.md) proposes the full eight-module/32-lesson foundation plus six seed articles, six hubs and 24 glossary concepts, with Nigeria/Ghana example anchors and BTC/ETH/USDC initial asset hubs. [Assessment Rules](ASSESSMENT-RULES.md) specifies evidence/gate/rubric proposals and bounded samples; [Editorial Operating Plan](EDITORIAL-OPERATING-PLAN.md) exposes preparation and recurring workload. [Regional research](REGIONAL-SCOPE-RESEARCH.md) records freshness/applicability limits. These detailed proposals remain open under PD-01/02/03.
+
+The [Handoff Review Pack](HANDOFF-REVIEW-PACK.md) states the actual preparation/approval gaps and responsibilities. No broad continuation silently selects every scope count, rubric, staffing policy or mechanism.
 
 ## Proposed WordPress route
 

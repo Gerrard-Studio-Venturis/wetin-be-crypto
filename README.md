@@ -24,6 +24,12 @@ This repository contains research, planning, and functional specifications for a
 | [Feature Specification](FEATURE-SPECIFICATION.md) | Twelve feature areas with 69 acceptance criteria. | Draft requirements; application tests not executed. |
 | [Information Architecture](INFORMATION-ARCHITECTURE.md) | Sitemap, navigation, eighteen page families, and content relationships. | P-03 functional draft; detailed behaviour pending review. |
 | [Functional Flows](FUNCTIONAL-FLOWS.md) | Ten learning/reading/saving/editorial flows with states, exceptions, and requirement mappings. | P-03 functional draft; no application/human validation claimed. |
+| [Launch Scope](LAUNCH-SCOPE.md) | Proposed release boundary, seed manifest, example assets/regions and later scope. | Concrete PD-01 proposal; counts unapproved. |
+| [Assessment Rules](ASSESSMENT-RULES.md) | 32-outcome evidence design, eight mission gates/rubrics, grading/version rules and additional samples. | PD-02 proposal; full banks and qualified review outstanding. |
+| [Editorial Operating Plan](EDITORIAL-OPERATING-PLAN.md) | Seed backlog, preparation/recurring hours, roles, corrections and research access. | PD-03 capacity proposal; no confirmed staff or cadence. |
+| [Functional Review](FUNCTIONAL-REVIEW.md) | Internal written walkthrough and guest/checkpoint/import contracts. | Document review; detailed rules and human/application validation pending. |
+| [Regional Scope Research](REGIONAL-SCOPE-RESEARCH.md) | Dated Nigeria/Ghana source findings, historical/partial access and country-applicability limits. | Actual bounded source pass; no current legal/provider coverage established. |
+| [Handoff Review Pack](HANDOFF-REVIEW-PACK.md) | Named-version decisions, conditions, owners and remaining handoff work. | Prepared for owner review; settled handoff unapproved. |
 | [WordPress Build Plan](WORDPRESS-BUILD-PLAN.md) | Proposed routes, full requirement coverage, records/guest/import rules, costs, effort and maintenance. | Preferred route for quotation; decisions unapproved. |
 | [LMS Component Research](WORDPRESS-COMPONENT-RESEARCH.md) | LearnDash, LifterLMS and Tutor capabilities, gaps and licence observations. | Dated official-source research; no installations. |
 | [Supporting Component Research](WORDPRESS-SUPPORTING-COMPONENTS.md) | Search, editorial and bookmark responsibilities. | Candidates and integrations unverified. |
@@ -35,7 +41,7 @@ This repository contains research, planning, and functional specifications for a
 
 ## Current stage
 
-The product direction, selected access policies, and removal of visual design are approved. Research/content examples, a sitemap, eighteen page families, and ten functional flows are prepared. WordPress route recommendations, cost/ownership assumptions and future verification are now drafted. Remaining work covers launch scope/learning rules; functional-specification review/refinement; content/workflow validation; technical recommendation/budget/mechanism review; and reviewed handoff. The package is **not ready for development handoff**. Learner interviews, usability sessions, qualified subject/voice approval, and WordPress application tests have not been conducted.
+The product direction, selected access policies, and removal of visual design are approved. Research/content examples, a sitemap, eighteen page families, and ten functional flows are prepared. WordPress recommendations and future verification are drafted. Concrete launch-scope, assessment/evidence, editorial-capacity and guest-lifecycle proposals plus an internal written functional review are now prepared in the Handoff Review Pack. Remaining work covers named-version choices; complete reviewed content/banks; actual subject/voice/learner review; complete quotes/technical contracts; named responsibilities; and handoff approval. The package is **not ready for development handoff**. Learner interviews, usability sessions, qualified subject/voice approval, and WordPress application tests have not been conducted.
 
 An approval means approval of the named document version and stated scope. It does not silently approve every open decision or authorise implementation.
 

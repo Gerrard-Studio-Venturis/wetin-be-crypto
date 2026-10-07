@@ -1,6 +1,6 @@
 # Wetin Be Crypto — Decision Log
 
-Version: 0.4
+Version: 0.5
 Date: 7 October 2026
 Status: Consolidated owner choices and pending review decisions.
 
@@ -38,24 +38,24 @@ PD identifiers denote pending decisions; P identifiers in the process plan denot
 
 | ID | Decision needed | Recommendation work | Decision owner / status |
 | --- | --- | --- | --- |
-| PD-01 | Detailed first-release scope and initial country/asset coverage. | 32-lesson/43-topic inventory and focused findings prepared; scope/coverage review outstanding. | Owner; open. |
-| PD-02 | Actual rubrics, essential decisions, ordinary scoring, rationale format, review timing. | Bounded O-04.2 lesson/check/mission and criteria prepared; full banks/gates and qualified subject/learner review outstanding. | Owner with curriculum/source reviewer input; open. |
-| PD-03 | Publication cadence, backlog, review staffing, and operational capacity. | Workload and update-frequency proposal. | Owner; open. |
-| PD-04 | Page/relationship map, functional flows, and exceptions. | Eighteen page families and ten written flows prepared; content/state walkthroughs against FS/J IDs remain. | Owner with learner/functional-review input; open. |
+| PD-01 | Detailed first-release scope and initial country/asset coverage. | [Launch Scope](LAUNCH-SCOPE.md) proposes 32 lessons plus 6/6/24 seed set, BTC/ETH/USDC and Nigeria/Ghana anchors; scope/coverage review outstanding. | Owner; open. |
+| PD-02 | Actual rubrics, essential decisions, ordinary scoring, rationale format, review timing. | [Assessment Rules](ASSESSMENT-RULES.md): 32-outcome evidence and eight gate/rubric proposals, bounded M-02/04/07 samples; full banks and qualified subject/learner review outstanding. | Owner with curriculum/source reviewer input; open. |
+| PD-03 | Publication cadence, backlog, review staffing, and operational capacity. | [Operating Plan](EDITORIAL-OPERATING-PLAN.md): 580–1,055 preparation person-hours, 14–24 weekly editorial pilot hours, staffing/review/correction policies; all unconfirmed. | Owner; open. |
+| PD-04 | Page/relationship map, functional flows, and exceptions. | Eighteen page families/ten flows and [internal written walkthrough](FUNCTIONAL-REVIEW.md) prepared; owner/learner review and exceptions remain. | Owner with learner/functional-review input; open. |
 | PD-05 | Visual direction and refinements. | Removed from this engagement by D-15; retain this identifier for history. | Closed as out of scope; later delivery responsibility is recorded at handoff. |
 | PD-06 | WordPress/LMS/supporting components, integration route, costs, and maintenance. | [Build Plan](WORDPRESS-BUILD-PLAN.md) and source comparisons prepared; native route vs LMS quote, licences, ownership, effort and maintenance need review. | Owner with technical reviewer input; open. |
-| PD-07 | Guest storage/validation, qualifying learning actions, visit boundary, and import recovery. | Server-authoritative guest/expiry/import proposal prepared; visit/checkpoint/import-cleanup definitions and retention/restore handling remain open. | Owner with technical/curriculum input; open. |
+| PD-07 | Guest storage/validation, qualifying learning actions, visit boundary, and import recovery. | [Functional Review](FUNCTIONAL-REVIEW.md) prepares concrete visit/checkpoint/confirmed-only cleanup and race contracts; named choices/retention remain open. | Owner with technical/curriculum input; open. |
 | PD-08 | Device/connectivity baselines and measurable performance targets. | Proposed 1Mbps/150ms profile, mobile/assistive checks and text-reading budgets prepared; audience baselines/targets unapproved and unmeasured. | Owner with design/technical input; open. |
 | PD-09 | Independent reviewer identity, approval scope, and handoff conditions/owners. | Reviewer Brief and named-version records; assign later styling and working UI/accessibility validation. | Owner designates reviewers/delivery owners; open. |
 | PD-10 | Sustainable funding, future specialist/tool scope, and French rollout. | Later product/operating options; French identity prepared now. | Owner; later decision. |
 
-Feature Specification v0.5 is a draft, not an independent approval record. The approved product direction does not automatically sign off every detail in it.
+Feature Specification v0.6 is a draft, not an independent approval record. The approved product direction does not automatically sign off every detail in it.
 
 ## Current continuation record
 
-D-15 was approved in the preceding reduced-scope checkpoint. The owner's subsequent “proceed” authorises continuation of documentation research and publication. This checkpoint prepares P-06 WordPress recommendations, component/core research, cost/effort/ownership assumptions and future verification. It does not approve a route, budget, detailed guest mechanism, component purchase or application implementation.
+D-15 was approved before the WordPress checkpoint. The owner's subsequent “proceed” continues authorised documentation research and publication. This checkpoint adds concrete launch/assessment/operating proposals, dated regional-source findings, internal written functional review and a handoff review pack. No new policy, detailed scope count, rubric, cadence, guest mechanism, component or budget approval is inferred.
 
-Remaining work covers scope/learning-rule review, functional review/refinement, qualified content/voice and learner review, technical recommendation/budget decisions, named responsibilities and reviewed handoff. No independent approval or implementation readiness is recorded. Styling and working UI/accessibility testing belong to later delivery; visual artifacts remain excluded.
+The package is prepared for named-version review. Settled handoff still requires choices, actual subject/voice/available learner review, complete content/banks, quotes/technical contracts and named owners. Source/agent/document checks do not supply those approvals. Styling and working UI/accessibility validation remain later delivery; visual artifacts are excluded.
 
 The representative KC-04/PM-04 samples demonstrate O-04.2 only. The full inventory's proposed PM-04 gate includes additional outcomes; no sample pass silently satisfies them. Counts, scope placement, criteria/gates, source-dependent examples, and guide operations remain proposals for their named reviewers.
 

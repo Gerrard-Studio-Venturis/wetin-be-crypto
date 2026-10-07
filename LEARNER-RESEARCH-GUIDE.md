@@ -1,6 +1,6 @@
 # Wetin Be Crypto — Learner Research Guide
 
-Version: 0.2
+Version: 0.3
 Date: 7 October 2026
 Status: Proposed session protocol and reusable note templates. No participants have been recruited, interviewed, or tested through this guide.
 Work phases: P-01/P-02 content review and P-03/P-05 written functional-flow review. Visual design is excluded under approved D-15.
@@ -334,6 +334,12 @@ No recommendation overrides D-01 to D-15 without owner approval. Record detailed
 | Future commissioned working application | Implemented journeys and relevant acceptance criteria when actually exercised under stated conditions. | Broader population demand or durable learning without further suitable study. |
 
 After source/content changes, repeat focused comprehension/rationale tasks where the affected outcome warrants it. Revisit continuity/route explanations using [Information Architecture](INFORMATION-ARCHITECTURE.md) and [Functional Flows](FUNCTIONAL-FLOWS.md) in P-05; actual UI navigation validation belongs to later delivery. A delayed retrieval or varied scenario can investigate retention/transfer if access permits; timing and criteria must be agreed rather than invented from this first round.
+
+## Additional materials and current preparation
+
+[Assessment Rules](ASSESSMENT-RULES.md) adds bounded scams/trust and transaction-status check/mission samples. They can supplement the existing O-04.2 task review after qualified source/rubric review. Record exact task/version/outcome coverage and keep facilitator keys/feedback out of first-response learner extracts. The revised status mission includes independently confirmed provider credit with local payout still unconfirmed, so a universal “nothing is received” response is not sufficient.
+
+[Functional Review](FUNCTIONAL-REVIEW.md) records internal written analysis only; its two-hour visit/checkpoint/import package is an unapproved hypothesis for comprehension review. [Editorial Operating Plan](EDITORIAL-OPERATING-PLAN.md) sizes review work and owner-arranged access. Neither supplies recruited participants or consent. [Handoff Review Pack](HANDOFF-REVIEW-PACK.md) keeps those evidence gaps and owners visible.
 
 ## Owner/access decisions before sessions
 

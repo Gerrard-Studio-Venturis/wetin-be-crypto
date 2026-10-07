@@ -1,6 +1,6 @@
 # Wetin Be Crypto — Voice and Editorial Guide
 
-Version: 0.1
+Version: 0.2
 Date: 7 October 2026
 Status: Draft P-02 guide. Owner-approved voice/publishing direction; example wording, operational workflow, and capacity require review.
 
@@ -78,6 +78,10 @@ These are responsibilities, not selected WordPress roles or a verified approval 
 First size the proposed foundation using [Curriculum Coverage](CURRICULUM-COVERAGE.md). Review [Content Design Samples](CONTENT-DESIGN-SAMPLES.md) to estimate research, drafting, source review, voice review, assessment variants, and updates per material type. Estimates should expose those tasks rather than count writing alone.
 
 Prioritise explainers and hubs that support foundation decisions, alongside sourced reporting that can be maintained. Keep publication cadence open until reviewers, staffing, and backlog are known. An empty news period is preferable to an invented event or unsupported recap. Later specialist coverage and French publication need their own capacity decisions.
+
+## Concrete operating proposal
+
+[Editorial Operating Plan](EDITORIAL-OPERATING-PLAN.md) now proposes the 6/6/24 seed backlog, content/review preparation and recurring hours, reviewer/backup responsibilities and source/correction schedules. These remain capacity policies for owner review, with no confirmed staff, cadence or completed fluent review. [Launch Scope](LAUNCH-SCOPE.md) holds the seed manifest; [Assessment Rules](ASSESSMENT-RULES.md) and sample packs provide actual wording for review.
 
 ## Batch review checklist
 

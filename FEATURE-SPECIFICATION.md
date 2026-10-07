@@ -1,6 +1,6 @@
 # Crypto Learning Application — Feature Specification
 
-Version: 0.4
+Version: 0.5
 Date: 7 October 2026
 Status: Draft for review.
 Platform: WordPress.
@@ -356,7 +356,7 @@ Article-reading activity is not required for curriculum scoring. Saved article r
 | Area | Expected route | Later proof required |
 | --- | --- | --- |
 | Public posts, basic authoring, accounts | WordPress core. | Role configuration and reader/account journeys. |
-| Lessons, quizzes, course progress | Selected LMS configuration. | Public access, guest assessment, retry rules, reporting, and accessibility. |
+| Lessons, quizzes, course progress | Proposed project-owned education layer; LMS adapter alternative for quotation. | Authoring/delivery, public access, guest assessment, retry/version rules, reporting, and accessibility. |
 | Guest memory and account reconciliation | Integration or custom work. | Record validation, expiry, interrupted import, deduplication, and existing-account preservation. |
 | Versioned skills and selected practice prerequisites | Integration or custom work. | Version-specific grading, current applicability, challenge mappings, and guest behaviour. |
 | Shared asset/topic hubs and combined search | Taxonomy/metadata/search configuration or integration. | LMS associations, aliases, ambiguity, filters, relevance, and private-content exclusion. |
@@ -364,7 +364,7 @@ Article-reading activity is not required for curriculum scoring. Saved article r
 | Article bookmarks | Plugin or extension. | Account ownership, cross-device saving, duplicate protection, and withdrawn-content behaviour. |
 | French-ready content | Canonical identities now; future multilingual integration. | Translation versioning and progress continuity when switching languages. |
 
-No LMS, editorial, search, bookmark, or multilingual component is selected. Documentation supports evaluation rather than verified application behaviour.
+No LMS, editorial, search, bookmark, or multilingual component is selected. The [WordPress Build Plan](WORDPRESS-BUILD-PLAN.md) supplies a proposed full responsibility matrix and record/authority rules; [Future Implementation Verification](IMPLEMENTATION-VERIFICATION-PLAN.md) maps all 69 unchanged criteria. Documentation supports evaluation rather than verified application behaviour.
 
 Relevant evaluation references:
 
@@ -395,7 +395,7 @@ Visual design is outside this engagement. The handoff assigns later styling and 
 
 ## Planning handoff
 
-Next: settle launch scope/learning rules, review/refine the functional map/flows, validate content and written workflows, produce the WordPress plan, and reconcile the handoff. The [Research and Planning Process](RESEARCH-AND-DESIGN-PLAN.md) specifies the order, evidence, deliverables, and review checkpoints.
+Next: settle launch scope/learning rules, review/refine the functional map/flows, validate content and written workflows, review the proposed WordPress plan, and reconcile the handoff. The [Research and Planning Process](RESEARCH-AND-DESIGN-PLAN.md) specifies the order, evidence, deliverables, and review checkpoints.
 
 Handoff includes reviewed requirements, sitemap/page/flow/state specifications, representative content/rubrics, evidence/decisions, component recommendations, and a future application-verification plan with later styling/UI-validation ownership. Reviewers can start with [Reviewer Brief](REVIEW-BRIEF.md).
 

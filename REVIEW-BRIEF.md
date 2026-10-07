@@ -1,6 +1,6 @@
 # Wetin Be Crypto — Reviewer Brief
 
-Version: 0.3
+Version: 0.4
 Date: 7 October 2026
 Status: Planning proposal for independent review. Product direction is approved by the owner; detailed requirements and this process breakdown remain drafts.
 
@@ -23,14 +23,14 @@ Specialist tracks, more educational tools, and French publication follow later s
 
 ## Current checkpoint
 
-Prepared: [32 proposed lessons and a wider topic map](CURRICULUM-COVERAGE.md), [content/assessment samples](CONTENT-DESIGN-SAMPLES.md), voice/editorial guidance, a learner-review protocol, and [focused source findings](RESEARCH-FINDINGS.md). [Information Architecture](INFORMATION-ARCHITECTURE.md) now defines eighteen page families; [Functional Flows](FUNCTIONAL-FLOWS.md) defines ten flows and exceptions. These remain reviewable drafts. Qualified subject, language, and learner review is outstanding. **The package is not ready for development handoff.**
+Prepared: [32 proposed lessons and a wider topic map](CURRICULUM-COVERAGE.md), [content/assessment samples](CONTENT-DESIGN-SAMPLES.md), voice/editorial guidance, a learner-review protocol, and [focused source findings](RESEARCH-FINDINGS.md). [Information Architecture](INFORMATION-ARCHITECTURE.md) now defines eighteen page families; [Functional Flows](FUNCTIONAL-FLOWS.md) defines ten flows and exceptions. The [WordPress Build Plan](WORDPRESS-BUILD-PLAN.md) adds route/cost/ownership recommendations and [future checks for all 69 criteria](IMPLEMENTATION-VERIFICATION-PLAN.md). These remain reviewable drafts. Qualified subject, language, and learner review is outstanding. **The package is not ready for development handoff.**
 
 ## Remaining planning work
 
 1. Settle launch scope, country/asset coverage, lesson/assessment criteria, mission prerequisites, and editorial capacity using evidence and actual content.
 2. Review/refine the sitemap, page responsibilities, functional states, records, and return paths against the requirements.
 3. Review crypto accuracy, actual English/Pidgin wording, learner comprehension, and written workflows; record observed findings separately from hypotheses and unperformed tests.
-4. Compare WordPress/LMS and supporting components; recommend data ownership, integration needs, costs, maintenance, device budgets, and future verification.
+4. Review the prepared WordPress route/component recommendations, data authority, guest/import mechanisms, costs, maintenance and proposed device budgets; obtain a complete delivery quote.
 5. Reconcile and approve named versions of the handoff, priorities, estimates, acceptance criteria, unresolved conditions, and delivery responsibilities.
 
 The owner has removed visual design (D-15). Concepts, polished mockups, typography/colour systems, and a visual component library are excluded. Written specifications and simple flow diagrams remain. Later delivery owns styling and working UI/accessibility validation.
@@ -39,7 +39,9 @@ Each material change to product direction returns to the owner for review. Resea
 
 ## Feasibility and evidence limits
 
-WordPress is fixed. LMS, editorial, search, bookmark, and multilingual components are unselected. Guest prerequisites, progress import, versioned assessments, combined search, and approval of published updates may require integration or custom development by the eventual development team.
+WordPress is fixed. The preferred route for quotation is core publishing plus a project-owned education plugin, with Relevanssi Free and PublishPress Revisions Pro as candidates. Compare an LMS-based quote before selection. Guest prerequisites, progress import, versioned assessments, canonical search and editorial approvals need explicit integration rules. Components and budget remain unapproved.
+
+The dated illustrative hosting/editorial subtotal is USD479/year before development, content, domain/email, tax/FX and other operating costs. The low-confidence engineering estimate is 42–70 developer person-days, with assumptions/exclusions in the build plan; it is not a quote or elapsed schedule.
 
 Current evidence is public-source desk research and internal document review. Learner interviews, usability testing, and application/plugin tests have not been performed. Written specifications and vendor documentation cannot prove working behaviour or visual discoverability. Critical unknowns need an owner and a verification plan before the package can be called ready for development handoff.
 

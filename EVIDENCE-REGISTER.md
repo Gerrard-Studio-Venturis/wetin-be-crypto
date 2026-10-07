@@ -1,8 +1,8 @@
 # Wetin Be Crypto — Evidence Register
 
-Version: 0.3
+Version: 0.4
 Date: 7 October 2026
-Status: Desk-research baseline plus a dated focused-source pass; direct learner and application validation outstanding.
+Status: Desk-research baseline plus focused content and WordPress source passes; direct learner and application validation outstanding.
 
 ## How to read this register
 
@@ -18,7 +18,7 @@ Distinguish:
 
 Public documentation can support a capability claim within its stated scope. It does not prove the proposed end-to-end application. Initial competitor research did not test logged-in journeys.
 
-This checkpoint records approved D-15 and functional specifications derived from existing requirements. It conducts no new external-source inspection, learner session, or application test. Removing visual-design production changes deliverables, not the existing accessibility/voice requirements or source findings.
+This checkpoint adds actual 7 October 2026 inspections S-25–46. Detailed extraction methods, available source dates and limits are in the LMS, supporting-component and core reports below. Some URLs repeat baseline sources with a new explicit inspection record. No learner session or application test occurred. D-15 still excludes visual-design production while retaining accessibility and voice requirements.
 
 ## Source map
 
@@ -48,6 +48,28 @@ This checkpoint records approved D-15 and functional specifications derived from
 | S-22 | [Ethereum stablecoins](https://ethereum.org/stablecoins/) | Page inspected 7 October 2026; mechanism/context starting point. No adoption of quoted yields, rankings, or universal redemption claims. |
 | S-23 | [Coinbase assets on multiple networks](https://help.coinbase.com/en/coinbase/trading-and-funding/sending-or-receiving-cryptocurrency/assets-on-multiple-networks) | Excerpt and page inspected 7 October 2026; provider-specific network/support checks and multi-network address example. Legacy MATIC reference/partial banner limit current detail; no universal recovery rule. |
 | S-24 | [Circle USDC terms](https://www.circle.com/legal/usdc-terms) | Page inspected 7 October 2026; retrieved non-EEA terms distinguish issuer redemption, third-party prices, wrappers, restrictions, and Circle Mint insurance. Issuer statements require scope labels; not independent reserve assurance or local legal/access advice. |
+| S-25 | [product and pricing](https://www.liquidweb.com/software/learndash/) | Inspected 7 October 2026; exact method, observation, source dates and limitations in [WORDPRESS-COMPONENT-RESEARCH](WORDPRESS-COMPONENT-RESEARCH.md). No installation proof. |
+| S-26 | [Course Enrollment Mode Settings](https://docs.nexcess.com/software/learndash/course-enrollment-mode/) | Inspected 7 October 2026; exact method, observation, source dates and limitations in [WORDPRESS-COMPONENT-RESEARCH](WORDPRESS-COMPONENT-RESEARCH.md). No installation proof. |
+| S-27 | [Quiz Access & Progression](https://learndash.com/support/kb/core/uncategorized/quiz-access-progression/) | Inspected 7 October 2026; exact method, observation, source dates and limitations in [WORDPRESS-COMPONENT-RESEARCH](WORDPRESS-COMPONENT-RESEARCH.md). No installation proof. |
+| S-28 | [pricing](https://lifterlms.com/pricing/) | Inspected 7 October 2026; exact method, observation, source dates and limitations in [WORDPRESS-COMPONENT-RESEARCH](WORDPRESS-COMPONENT-RESEARCH.md). No installation proof. |
+| S-29 | [Quizzes Overview](https://lifterlms.com/docs/lifterlms-quizzes-overview/) | Inspected 7 October 2026; exact method, observation, source dates and limitations in [WORDPRESS-COMPONENT-RESEARCH](WORDPRESS-COMPONENT-RESEARCH.md). No installation proof. |
+| S-30 | [pricing](https://tutorlms.com/pricing/) | Inspected 7 October 2026; exact method, observation, source dates and limitations in [WORDPRESS-COMPONENT-RESEARCH](WORDPRESS-COMPONENT-RESEARCH.md). No installation proof. |
+| S-31 | [Course settings](https://tutorlms.com/docs/settings/course-settings/) | Inspected 7 October 2026; exact method, observation, source dates and limitations in [WORDPRESS-COMPONENT-RESEARCH](WORDPRESS-COMPONENT-RESEARCH.md). No installation proof. |
+| S-32 | [Course Import/Export](https://tutorlms.com/docs/tutorials/course-import-export-tutorial/) | Inspected 7 October 2026; exact method, observation, source dates and limitations in [WORDPRESS-COMPONENT-RESEARCH](WORDPRESS-COMPONENT-RESEARCH.md). No installation proof. |
+| S-33 | [Features and benefits](https://www.relevanssi.com/features/) | Inspected 7 October 2026; exact method, observation, source dates and limitations in [WORDPRESS-SUPPORTING-COMPONENTS](WORDPRESS-SUPPORTING-COMPONENTS.md). No installation proof. |
+| S-34 | [Buy Premium](https://www.relevanssi.com/buy-premium/) | Inspected 7 October 2026; exact method, observation, source dates and limitations in [WORDPRESS-SUPPORTING-COMPONENTS](WORDPRESS-SUPPORTING-COMPONENTS.md). No installation proof. |
+| S-35 | [How to Set Up Synonym Rules](https://searchwp.com/how-to-set-up-synonym-rules-for-wordpress-search/) | Inspected 7 October 2026; exact method, observation, source dates and limitations in [WORDPRESS-SUPPORTING-COMPONENTS](WORDPRESS-SUPPORTING-COMPONENTS.md). No installation proof. |
+| S-36 | [Plans](https://searchwp.com/buy/) | Inspected 7 October 2026; exact method, observation, source dates and limitations in [WORDPRESS-SUPPORTING-COMPONENTS](WORDPRESS-SUPPORTING-COMPONENTS.md). No installation proof. |
+| S-37 | [Revisions](https://publishpress.com/revisions/) | Inspected 7 October 2026; exact method, observation, source dates and limitations in [WORDPRESS-SUPPORTING-COMPONENTS](WORDPRESS-SUPPORTING-COMPONENTS.md). No installation proof. |
+| S-38 | [Understanding Permissions in Revisions](https://publishpress.com/knowledge-base/permissions-revisions/) | Inspected 7 October 2026; exact method, observation, source dates and limitations in [WORDPRESS-SUPPORTING-COMPONENTS](WORDPRESS-SUPPORTING-COMPONENTS.md). No installation proof. |
+| S-39 | [Pricing Options](https://publishpress.com/pricing/) | Inspected 7 October 2026; exact method, observation, source dates and limitations in [WORDPRESS-SUPPORTING-COMPONENTS](WORDPRESS-SUPPORTING-COMPONENTS.md). No installation proof. |
+| S-40 | [Custom Post Types](https://developer.wordpress.org/plugins/post-types/) | Inspected 7 October 2026; exact method, observation, source dates and limitations in [WORDPRESS-CORE-RESEARCH](WORDPRESS-CORE-RESEARCH.md). No installation proof. |
+| S-41 | [Roles and Capabilities](https://developer.wordpress.org/plugins/users/roles-and-capabilities/) | Inspected 7 October 2026; exact method, observation, source dates and limitations in [WORDPRESS-CORE-RESEARCH](WORDPRESS-CORE-RESEARCH.md). No installation proof. |
+| S-42 | [Nonces](https://developer.wordpress.org/apis/security/nonces/) | Inspected 7 October 2026; exact method, observation, source dates and limitations in [WORDPRESS-CORE-RESEARCH](WORDPRESS-CORE-RESEARCH.md). No installation proof. |
+| S-43 | [Creating Tables with Plugins](https://developer.wordpress.org/plugins/creating-tables-with-plugins/) | Inspected 7 October 2026; exact method, observation, source dates and limitations in [WORDPRESS-CORE-RESEARCH](WORDPRESS-CORE-RESEARCH.md). No installation proof. |
+| S-44 | [Requirements](https://wordpress.org/about/requirements/) | Inspected 7 October 2026; exact method, observation, source dates and limitations in [WORDPRESS-CORE-RESEARCH](WORDPRESS-CORE-RESEARCH.md). No installation proof. |
+| S-45 | [WordPress hosting pricing](https://kinsta.com/pricing/) | Inspected 7 October 2026; exact method, observation, source dates and limitations in [WORDPRESS-CORE-RESEARCH](WORDPRESS-CORE-RESEARCH.md). No installation proof. |
+| S-46 | [REST API Authentication](https://developer.wordpress.org/rest-api/using-the-rest-api/authentication/) | Inspected 7 October 2026; exact method, observation, source dates and limitations in [WORDPRESS-CORE-RESEARCH](WORDPRESS-CORE-RESEARCH.md). No installation proof. |
 
 Other products examined in the initial research included Binance Academy, Coinbase Learn, Khan Academy, Yellow Card Academy, and Decrypt. Treat that comparative coverage as exploratory; the next comparative pass should record exact inspected surfaces and findings rather than infer undocumented account behaviour.
 
@@ -72,6 +94,11 @@ Other products examined in the initial research included Binance Academy, Coinba
 | E-15 | Stablecoin target, market quote, eligible redemption, and local payout are different concepts. | S-22/24 and scoped synthesis. | Qualified standalone explainer and M-05 outcomes; FS-02/07, RF-02. | Issuer-specific terms are not universal stablecoin rules or independent assurance. |
 | E-16 | An old announcement can be useful archived coverage with clear dates. | S-02; editorial synthesis. | Label A-NEWS-01 as January archive; separate event/source/publication/verification dates; FS-07/11, RF-03. | Source announcement verified in this pass; current programme outcomes and reader comprehension unverified. |
 | E-17 | Visual design is excluded; functional structure/flows remain. | Explicit owner approval D-15, following the reduced-scope explanation. | P-04/PD-05 retired; written IA/flows, content/workflow review, WordPress planning, and handoff retained. | Approved scope policy, not a finding that visual styling or working UI validation is unnecessary in later delivery. |
+| E-18 | LMS documentation establishes partial course/quiz tools, not the full required guest/version/import semantics. | S-25–32; bounded source comparison. | Compare native education layer and LMS adapters; FS-01–06, PD-06/07. | Documentation gaps do not prove capabilities absent; interfaces and complete route need delivery proof. |
+| E-19 | Pending editorial revisions and default roles do not establish revision-bound dual approval. | S-37–39/41. | Restricted roles and explicit publication/approval guard; FS-11. | Proposed integration, uninstalled; default Author/Editor bypass must be addressed. |
+| E-20 | Synonyms/indexing are partial discovery tools; canonical phrase aliases and private exclusion need explicit rules. | S-33–36. | Retrieval candidate plus canonical resolver, labels and public-index boundaries; FS-08/09. | SearchWP phrase limitation and Relevanssi logging inconsistency require version-specific review. |
+| E-21 | WordPress nonces do not supply guest identity, ownership permissions or idempotency. | S-42/46. | Server-authoritative guest evidence with separate identity/expiry/action checks; FS-03–06/10. | Source distinction established; complete mechanism and visit policy proposed, untested. |
+| E-22 | Core supports structured content and storage choices; cost/compatibility require a bounded model. | S-40/43–45 and dated vendor prices. | Build-plan records, illustrative USD479 hosting/editorial subtotal and explicit exclusions. | No selected versions/host, total budget or runtime performance; effort range and device targets are planning judgements. |
 
 ## Assumptions and unresolved evidence
 
@@ -82,10 +109,10 @@ Other products examined in the initial research included Binance Academy, Coinba
 | A-03 | Readers can move naturally between news, hubs, and optional learning. | Review copy and described routes now; test actual UI discoverability in later delivery. | P-03/05 and future application validation. |
 | A-04 | Guest saving/import explanations are understandable on shared devices. | Review opt-in, expiry, new-account saving, and existing-account choice. | P-03/05. |
 | G-01 | No direct learner interviews or usability sessions have been conducted. | Prepare guides and obtain owner-arranged participant access; record absence if unavailable. | P-01/05. |
-| G-02 | No WordPress/LMS application behaviour has been tested. | Compare documentation; specify future development-team tests. | P-06/handoff. |
+| G-02 | No WordPress/LMS application behaviour has been tested. | Source comparison and future scenario plan prepared; later delivery must establish compatible interfaces and complete behaviour. | P-06/handoff. |
 | G-03 | Representative O-04.2 questions/rubric are drafted; full banks, approved gates/criteria, ordinary thresholds, and review timing remain open. | Qualified subject/learner review of [samples](CONTENT-DESIGN-SAMPLES.md); expand banks after review. | P-02. |
 | G-04 | Initial country/asset coverage, Francophone evidence, and publication capacity remain open. | Propose coverage/backlog with sources and workload assumptions. | P-01/02. |
-| G-05 | Devices, connectivity, measurable budgets, and recurring costs are unspecified. | Recommend baselines and dated cost assumptions for review. | P-06. |
+| G-05 | Proposed device/network budgets, dated component costs and low-confidence effort range are prepared; actual audience baseline and complete quote remain missing. | Review PD-06/08 and obtain full delivery/operating quotations; targets and costs are unapproved. | P-06. |
 | G-06 | Eighteen page families/ten flows are drafted; functional review and actual learner validation remain outstanding. | Review [IA](INFORMATION-ARCHITECTURE.md)/[flows](FUNCTIONAL-FLOWS.md), content/state cards, and open mechanisms. Visual artifacts are excluded; later delivery owns working UI checks. | P-03/05/06/07. |
 
 ## Record format for the next research passes

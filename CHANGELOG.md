@@ -2,6 +2,18 @@
 
 Dates use the owner's current date context. Versions describe planning documents; they are not application releases.
 
+## 7 October 2026 — WordPress recommendation checkpoint
+
+- Added WordPress Build Plan v0.1: preferred native education route for quotation, LMS alternatives, full 12-feature/69-criterion responsibility map, conceptual records, guest authority/expiry/import, versioned assessments, editorial/search/bookmark integration, ownership, maintenance, costs and low-confidence effort assumptions.
+- Added three dated source reports with S-25–46: LMS candidates, supporting search/editorial components, and core/hosting mechanisms. Official documentation supports bounded observations; no components or compatible installed versions selected.
+- Added Future Implementation Verification v0.1: twelve scenarios cover all 69 unchanged criteria; seven integration/failure scenarios specify later authority/expiry/import/version/editorial/export/device checks. All application tests remain not executed.
+- Reviewer Brief, process plan, Decision Log and Evidence Register move to v0.4; Product Brief to v0.7; Feature Specification to v0.5. README indexes the new artifacts. No new owner policy is inferred from continuation; PD-06/07/08 route/mechanism/budget targets remain open.
+- Dated illustrative hosting/editorial subtotal: USD479/year before stated exclusions. Proposed effort: 42–70 developer person-days, unquoted and conditional, with content/styling/scope exclusions. Neither is an approved total budget or delivery schedule.
+- Scope/rules, qualified subject/voice and learner review, functional refinement, quotes/mechanism review and named handoff owners remain outstanding. No visual-design artifacts, code, installation, configuration, deployment, purchase, external outreach or application tests occurred.
+
+- Internal read-only technical audit checked source boundaries, policy consistency and cost/effort arithmetic. Clarified that approved content/banks are a future quotation prerequisite, with preparation still outstanding; added explicit future checks for private keys/bank answers/reviewer notes. This is internal document review, not independent owner/subject approval or application proof.
+- Documentation checks: 22 Markdown files, 173 local links/anchors, 46 source records, 69 unchanged acceptance criteria and twelve future coverage ranges; whitespace and conflict/fence checks pass.
+
 ## 7 October 2026 — Reduced scope and functional-structure checkpoint
 
 ### Approved scope change

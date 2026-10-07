@@ -1,6 +1,6 @@
 # Wetin Be Crypto — Decision Log
 
-Version: 0.3
+Version: 0.4
 Date: 7 October 2026
 Status: Consolidated owner choices and pending review decisions.
 
@@ -43,19 +43,19 @@ PD identifiers denote pending decisions; P identifiers in the process plan denot
 | PD-03 | Publication cadence, backlog, review staffing, and operational capacity. | Workload and update-frequency proposal. | Owner; open. |
 | PD-04 | Page/relationship map, functional flows, and exceptions. | Eighteen page families and ten written flows prepared; content/state walkthroughs against FS/J IDs remain. | Owner with learner/functional-review input; open. |
 | PD-05 | Visual direction and refinements. | Removed from this engagement by D-15; retain this identifier for history. | Closed as out of scope; later delivery responsibility is recorded at handoff. |
-| PD-06 | WordPress/LMS/supporting components, integration route, costs, and maintenance. | Documentation-level requirement matrix and future verification plan. | Owner with technical reviewer input; open. |
-| PD-07 | Guest storage/validation, qualifying learning actions, visit boundary, and import recovery. | Technical mechanism proposal preserving D-11 and learning rules. | Owner with technical/curriculum input; open. |
-| PD-08 | Device/connectivity baselines and measurable performance targets. | Regional/device research and proposed budgets. | Owner with design/technical input; open. |
+| PD-06 | WordPress/LMS/supporting components, integration route, costs, and maintenance. | [Build Plan](WORDPRESS-BUILD-PLAN.md) and source comparisons prepared; native route vs LMS quote, licences, ownership, effort and maintenance need review. | Owner with technical reviewer input; open. |
+| PD-07 | Guest storage/validation, qualifying learning actions, visit boundary, and import recovery. | Server-authoritative guest/expiry/import proposal prepared; visit/checkpoint/import-cleanup definitions and retention/restore handling remain open. | Owner with technical/curriculum input; open. |
+| PD-08 | Device/connectivity baselines and measurable performance targets. | Proposed 1Mbps/150ms profile, mobile/assistive checks and text-reading budgets prepared; audience baselines/targets unapproved and unmeasured. | Owner with design/technical input; open. |
 | PD-09 | Independent reviewer identity, approval scope, and handoff conditions/owners. | Reviewer Brief and named-version records; assign later styling and working UI/accessibility validation. | Owner designates reviewers/delivery owners; open. |
 | PD-10 | Sustainable funding, future specialist/tool scope, and French rollout. | Later product/operating options; French identity prepared now. | Owner; later decision. |
 
-Feature Specification v0.4 is a draft, not an independent approval record. The approved product direction does not automatically sign off every detail in it.
+Feature Specification v0.5 is a draft, not an independent approval record. The approved product direction does not automatically sign off every detail in it.
 
 ## Current continuation record
 
-The owner's latest “proceed” adopts the reduced scope explained in the preceding reply. D-15 is now approved; the earlier hypothetical question alone did not change the repository. This checkpoint retires P-04/PD-05 and advances P-03 with [Information Architecture](INFORMATION-ARCHITECTURE.md) and [Functional Flows](FUNCTIONAL-FLOWS.md). Functional details remain drafts; no independent approval or implementation readiness is recorded.
+D-15 was approved in the preceding reduced-scope checkpoint. The owner's subsequent “proceed” authorises continuation of documentation research and publication. This checkpoint prepares P-06 WordPress recommendations, component/core research, cost/effort/ownership assumptions and future verification. It does not approve a route, budget, detailed guest mechanism, component purchase or application implementation.
 
-Remaining work covers launch scope/learning rules, functional-specification review/refinement, content/workflow validation, WordPress recommendations, and reviewed handoff. Styling and working UI/accessibility testing belong to later delivery with named ownership; producing visual artifacts is not a readiness gate for this engagement.
+Remaining work covers scope/learning-rule review, functional review/refinement, qualified content/voice and learner review, technical recommendation/budget decisions, named responsibilities and reviewed handoff. No independent approval or implementation readiness is recorded. Styling and working UI/accessibility testing belong to later delivery; visual artifacts remain excluded.
 
 The representative KC-04/PM-04 samples demonstrate O-04.2 only. The full inventory's proposed PM-04 gate includes additional outcomes; no sample pass silently satisfies them. Counts, scope placement, criteria/gates, source-dependent examples, and guide operations remain proposals for their named reviewers.
 

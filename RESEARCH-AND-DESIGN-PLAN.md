@@ -1,6 +1,6 @@
 # Wetin Be Crypto — Research and Functional Planning Process
 
-Version: 0.3
+Version: 0.4
 Date: 7 October 2026
 Status: Detailed process draft within the owner's approved planning-only research direction.
 Platform: WordPress.
@@ -25,8 +25,9 @@ Already prepared:
 - Draft feature behaviours and 69 future acceptance criteria.
 - A focused current-source pass, a 32-lesson inventory and 43-topic living map, representative lesson/check/mission/article content, a voice/editorial guide, and a learner-review protocol.
 - A draft sitemap, eighteen functional page families, content relationships, and ten written flows with exceptional states.
+- [WordPress Build Plan](WORDPRESS-BUILD-PLAN.md), three component/core source reports, cost/ownership/effort assumptions, and [future verification](IMPLEMENTATION-VERIFICATION-PLAN.md) across all 69 criteria.
 
-Still outstanding: direct learner evidence, qualified subject and language review, full assessment banks and approved rubrics/gates, reviewed first-release scope, functional IA/flow review and refinement, content/workflow validation, editorial capacity, detailed component/cost evaluation, and final handoff approval. The remaining work groups into five parts: settle launch scope/learning rules; review functional structure; validate content/workflows; complete the WordPress plan; approve the handoff.
+Still outstanding: direct learner evidence, qualified subject and language review, full assessment banks and approved rubrics/gates, reviewed first-release scope, functional IA/flow review and refinement, content/workflow validation, editorial capacity, technical route/budget/mechanism approval and itemised quotes, and final handoff approval. The remaining work groups into five parts: settle launch scope/learning rules; review functional structure; validate content/workflows; review the WordPress recommendation; approve the handoff.
 
 ## Progress at this checkpoint
 
@@ -40,7 +41,7 @@ This table records prepared artifacts and remaining work; it is not a phase appr
 | P-03 | [Information Architecture](INFORMATION-ARCHITECTURE.md) and [Functional Flows](FUNCTIONAL-FLOWS.md): eighteen page families and ten flows. | PD-04 review, requirement reconciliation, content/state walkthroughs, and refinements. |
 | P-04 | Retired by approved D-15. | No visual deliverable or selection gate in this engagement. |
 | P-05 | [Learner research guide](LEARNER-RESEARCH-GUIDE.md) with nine content/workflow task reviews. | Owner-arranged access, actual sessions, specification-level checks, findings, and revisions. |
-| P-06 | Documentation-level WordPress capability/gap baseline. | Current candidate comparison, recommendations, costs, ownership, and future verification matrix. |
+| P-06 | [Build recommendation](WORDPRESS-BUILD-PLAN.md), current source comparisons, conceptual records, costs/effort/ownership and [future verification matrix](IMPLEMENTATION-VERIFICATION-PLAN.md). | PD-06/07/08 review, compatible versions/interfaces and complete quotes; no installed proof. |
 | P-07 | Handoff criteria defined. | Reconciled and reviewed package, named owners, and approval/conditions. |
 
 ## Research questions and evidence plan

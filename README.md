@@ -24,13 +24,18 @@ This repository contains research, planning, and functional specifications for a
 | [Feature Specification](FEATURE-SPECIFICATION.md) | Twelve feature areas with 69 acceptance criteria. | Draft requirements; application tests not executed. |
 | [Information Architecture](INFORMATION-ARCHITECTURE.md) | Sitemap, navigation, eighteen page families, and content relationships. | P-03 functional draft; detailed behaviour pending review. |
 | [Functional Flows](FUNCTIONAL-FLOWS.md) | Ten learning/reading/saving/editorial flows with states, exceptions, and requirement mappings. | P-03 functional draft; no application/human validation claimed. |
+| [WordPress Build Plan](WORDPRESS-BUILD-PLAN.md) | Proposed routes, full requirement coverage, records/guest/import rules, costs, effort and maintenance. | Preferred route for quotation; decisions unapproved. |
+| [LMS Component Research](WORDPRESS-COMPONENT-RESEARCH.md) | LearnDash, LifterLMS and Tutor capabilities, gaps and licence observations. | Dated official-source research; no installations. |
+| [Supporting Component Research](WORDPRESS-SUPPORTING-COMPONENTS.md) | Search, editorial and bookmark responsibilities. | Candidates and integrations unverified. |
+| [Core and Hosting Research](WORDPRESS-CORE-RESEARCH.md) | WordPress content/authority/storage mechanisms and hosting benchmark. | Dated source observations and limits. |
+| [Future Implementation Verification](IMPLEMENTATION-VERIFICATION-PLAN.md) | All 69 criteria and seven critical integration/failure scenarios. | Proposed later-delivery checks; not executed. |
 | [Evidence Register](EVIDENCE-REGISTER.md) | Source-to-recommendation links, assumptions, confidence, and missing evidence. | Baseline plus dated focused-source pass. |
 | [Decision Log](DECISION-LOG.md) | Approved choices, proposed decisions, and review records. | User decisions recorded; independent approval pending. |
 | [Changelog](CHANGELOG.md) | Material planning revisions and publication checkpoints. | Maintained with documentation updates. |
 
 ## Current stage
 
-The product direction, selected access policies, and removal of visual design are approved. Research/content examples, a sitemap, eighteen page families, and ten functional flows are prepared. Remaining work covers launch scope/learning rules; functional-specification review/refinement; content/workflow validation; WordPress recommendations; and reviewed handoff. The package is **not ready for development handoff**. Learner interviews, usability sessions, qualified subject/voice approval, and WordPress application tests have not been conducted.
+The product direction, selected access policies, and removal of visual design are approved. Research/content examples, a sitemap, eighteen page families, and ten functional flows are prepared. WordPress route recommendations, cost/ownership assumptions and future verification are now drafted. Remaining work covers launch scope/learning rules; functional-specification review/refinement; content/workflow validation; technical recommendation/budget/mechanism review; and reviewed handoff. The package is **not ready for development handoff**. Learner interviews, usability sessions, qualified subject/voice approval, and WordPress application tests have not been conducted.
 
 An approval means approval of the named document version and stated scope. It does not silently approve every open decision or authorise implementation.
 

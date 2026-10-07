@@ -1,6 +1,6 @@
 # Crypto Learning Application — Product Brief
 
-Version: 0.6
+Version: 0.7
 Date: 7 October 2026
 Status: Consolidated approved product direction. Detailed feature behaviour remains a draft for review.
 Platform: WordPress
@@ -146,7 +146,11 @@ Relevant sources include:
 
 This is public-source desk research. Logged-in competitor experiences, learner interviews, LMS installations, and application behaviour have not been tested. Adoption data does not establish demand for this application. Francophone learner evidence remains limited.
 
-The current [Research Findings](RESEARCH-FINDINGS.md) records actual source inspections and qualifications. The [Learner Research Guide](LEARNER-RESEARCH-GUIDE.md) prepares content and later design reviews; no sessions have occurred.
+The current [Research Findings](RESEARCH-FINDINGS.md) records actual source inspections and qualifications. The [Learner Research Guide](LEARNER-RESEARCH-GUIDE.md) prepares content/written-workflow reviews and later working UI checks; no sessions have occurred.
+
+## Proposed WordPress route
+
+The [WordPress Build Plan](WORDPRESS-BUILD-PLAN.md) recommends quoting core publishing plus a project-owned education plugin, with search/editorial candidates and an LMS alternative comparison. It includes conceptual records, guest/import rules, dated component costs, a low-confidence effort estimate and later verification ownership. These are proposals under PD-06/07/08, not additional approved decisions. No application is installed or coded.
 
 ## Remaining decisions
 

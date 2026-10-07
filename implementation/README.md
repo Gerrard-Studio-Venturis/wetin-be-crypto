@@ -16,4 +16,10 @@ The connected production site is https://wetinbecrypto.online. Read-only observa
 
 Install the prepared plugin using the normal administrator Plugins → Add New → Upload Plugin flow, or an authorised hosting deployment. A media upload is not a plugin installation. Do not bypass the file-edit policy. Preserve the MCP/hosting plugins and existing content. Take a database/files backup before activation, run staging checks, then publish the public pages and homepage.
 
-Actual verification results and unfinished work are recorded in `BUILD-STATUS.md` when available. Local tests do not establish production compatibility, transactional-email delivery or independent content approval.
+Actual verification results and unfinished work are recorded in [Build Status](BUILD-STATUS.md). The first working package is version 0.1.0; it is not a completed production release. Local tests do not establish production compatibility, transactional-email delivery or independent content approval.
+
+## Package and install
+
+Run `python tools/package.py` from this directory to generate `dist/wetin-be-crypto-0.1.0.zip` and its SHA-256 manifest. The ZIP contains a single standard WordPress plugin folder and excludes tests and private JSON files. Upload it through the normal WordPress plugin installer, activate, and open **Tools → Wetin Be Crypto** for the explicit content import and optional homepage/registration settings. **Tools → Practice publishing** reviews and approves exact activity revisions. Back up first and verify staging before public operation.
+
+Frontend libraries are plain JavaScript/CSS. No npm dependency is shipped to visitors. Locked Playwright dependencies are confined to the test directory. [Test instructions](tests/README.md) explain the disposable Docker environment and the limits of the observed results.

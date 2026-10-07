@@ -1,0 +1,22 @@
+# Disposable local testing only. Fixed test credentials must never be used in production.
+services:
+  db:
+    image: mysql@sha256:7dcddc01f13bab2f15cde676d44d01f61fc9f99fe7785e86196dfc07d358ae2b
+    environment:
+      MYSQL_DATABASE: wordpress
+      MYSQL_USER: wordpress
+      MYSQL_PASSWORD: wbc-local-test
+      MYSQL_ROOT_PASSWORD: wbc-local-root
+  wordpress:
+    image: wordpress@sha256:2007075ffdfcdbf6cee457615658f2f02ed34722f0a599c2f80c43fbd0be31b3
+    ports:
+      - '127.0.0.1:8088:80'
+    environment:
+      WORDPRESS_DB_HOST: db
+      WORDPRESS_DB_USER: wordpress
+      WORDPRESS_DB_PASSWORD: wbc-local-test
+      WORDPRESS_DB_NAME: wordpress
+    volumes:
+      - ./wetin-be-crypto:/var/www/html/wp-content/plugins/wetin-be-crypto
+    depends_on:
+      - db

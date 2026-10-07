@@ -16,7 +16,7 @@ The specification package remains the product contract. Earlier no-code statemen
 | --- | --- | --- |
 | [Reviewer Brief](REVIEW-BRIEF.md) | Concise independent-review entry point. | Draft for review. |
 | [Research and Planning Process](RESEARCH-AND-DESIGN-PLAN.md) | Research questions, methods, phase outputs, review points, publication rhythm, and handoff. | Draft process detail within the approved research direction. |
-| [Product Brief](PRODUCT-BRIEF.md) | Product promise, audience and adopted launch baseline. | D-01–20 recorded; individual content and delivery conditions open. |
+| [Product Brief](PRODUCT-BRIEF.md) | Product promise, audience and adopted launch baseline. | D-01–21 recorded; individual content and delivery conditions open. |
 | [Curriculum and Journeys](CURRICULUM-AND-JOURNEYS.md) | Foundation outcomes, learning rules, wider topic map, and learner/reader journeys. | Draft architecture. |
 | [Curriculum Coverage](CURRICULUM-COVERAGE.md) | 32 proposed lessons/outcomes and a 43-topic living coverage map. | Draft inventory and assessment mappings. |
 | [Content Design Samples](CONTENT-DESIGN-SAMPLES.md) | Actual lesson, check, bounded mission, glossary, explainer, archive news summary, and hub introductions. | Representative copy/rubrics for review. |
@@ -50,7 +50,7 @@ The specification package remains the product contract. Earlier no-code statemen
 
 ## Current stage
 
-The baseline includes eight modules/32 lessons, sixteen check forms, sixteen mission forms, six articles, six hubs and 24 glossary concepts. [Implementation Contract](IMPLEMENTATION-CONTRACT.md) supplies concrete engineering defaults; [Content Release Review](CONTENT-RELEASE-REVIEW.md) records internal review and its evidence limits. Implementation is now authorised and underway. Tests and production status are reported separately from the historical planning checks.
+The baseline includes eight modules/32 lessons, sixteen check forms, sixteen mission forms, six articles, six hubs and 24 glossary concepts. [Build Status](implementation/BUILD-STATUS.md) reports actual delivery. [Implementation Contract](IMPLEMENTATION-CONTRACT.md) supplies concrete engineering defaults; [Content Release Review](CONTENT-RELEASE-REVIEW.md) records internal review and its evidence limits. The first owned WordPress build is implemented and tested locally; production deployment remains blocked. Tests and production status are reported separately from the historical planning checks.
 
 ## GitHub publication
 

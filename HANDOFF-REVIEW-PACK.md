@@ -1,5 +1,8 @@
 # Wetin Be Crypto — Handoff Review Pack
 
+> **Current implementation authority (D-21):** The owner explicitly instructed implementation. Earlier no-code/handoff-only statements below describe the preceding planning stage and are superseded for current work. See [Build Status](implementation/BUILD-STATUS.md) for actual code, tests, deployment blockers and remaining release work. Historical “not executed” application-test statements are not the current test report.
+
+
 Version: 0.3
 Date: 7 October 2026
 Status: Planning package prepared for owner/reviewer decisions; settled development handoff NOT approved.

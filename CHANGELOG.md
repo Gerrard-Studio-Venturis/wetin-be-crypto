@@ -126,3 +126,12 @@ Dates use the owner's current date context. Versions describe planning documents
 - Generated public content and server-private assessment definitions reproducibly; verified 32 lessons, six articles, six hubs, 24 terms, 32 forms and 234 paired keys.
 - Began the owned WordPress learning plugin and local PHP/WordPress verification environment.
 - Production content/plugin deployment remains unperformed: the connector currently discovers zero abilities; the earlier available catalog lacked plugin installation and the site forbids theme file edits.
+
+## 8 October 2026 — first working WordPress build
+
+- Implemented the owned plugin, public reader/search, private versioned grading/gates, guest/account journeys, reading positions, bookmarks, export and expiry cleanup.
+- Implemented selected-record imports with account binding, durable per-record receipts, confirmed-only cleanup, partial SQL-failure recovery and original guest expiry.
+- Added administrator exact-definition assessment approvals/audits and an idempotent public-content importer.
+- Fixed empty guest nonce headers and canonical-ID database coercion discovered during real tests.
+- Passed 88 WordPress integration assertions, five pure grading assertions, PHP syntax checks and both mocked and actual local browser journeys. The full 69-criterion release suite is incomplete.
+- Prepared a standard plugin ZIP and pinned disposable test environment. No production deployment verified; MCP lacks installation and live content operations return intermittent non-JSON errors.

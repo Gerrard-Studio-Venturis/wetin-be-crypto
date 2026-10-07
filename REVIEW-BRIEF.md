@@ -1,45 +1,41 @@
 # Wetin Be Crypto — Reviewer Brief
 
-Version: 0.8
-Date: 7 October 2026
-Status: Product baseline adopted; full first writing drafts prepared. Content approvals, named owners and delivery conditions remain outstanding.
+Version: 0.9
+Date: 8 October 2026
+Status: Product baseline adopted; first WordPress implementation tested locally. Production deployment and complete release acceptance remain outstanding.
 
 ## What we are building
 
-A WordPress application that helps a wider African audience, with a West African focus, understand crypto, practise useful decisions, track learning and read understandable news and stories. Practical understanding and safe everyday use anchor the foundation. English carries essential meaning; occasional varied contemporary Nigerian Pidgin adds familiarity. Prepare content identities for French later.
+Wetin Be Crypto teaches people to understand crypto and use that understanding safely in everyday life. It serves a wider African audience with a West African focus. Clear English carries the teaching; occasional varied Nigerian Pidgin adds familiarity without making essential information depend on slang. Humour fits the situation and avoids repetitive catchphrases.
 
-## Adopted first release
+The product combines a guided foundation, fictional practical missions, a saved learning journey and a public articles area. It follows the useful educational pattern of structured learning and approachable examples, with original crypto content rather than copying BabyPips. Understanding risks, checking evidence and choosing not to proceed are valid learning outcomes.
 
-- Eight foundation modules and 32 text-first lessons: basics; scams/trust; custody/recovery; assets/networks/recipients; stablecoins/conversion; transfer review; transaction verification; permissions/combined practice.
-- Criterion-based structured checks and fictional missions, with explanatory feedback. All required criteria must be met; essential mistakes cannot be offset. Public reading stays open, selected practice requires declared outcome evidence, and experienced entry never invents unread lesson completions.
-- My Journey separates reading, check passes, practice and current applicability. Optional accounts save across devices. Guests have a two-hour idle current visit and optional 30-day memory after their last qualifying learning activity. Imports require explicit intent, durable per-record confirmation and confirmed-only cleanup.
-- Public News, Explainers and Stories; six seed articles, six coin/topic hubs and 24 glossary concepts; unified discovery and simple account-only Saved Articles. Articles/bookmarks earn no learning credit and never silently import guest progress.
-- Nigeria/Ghana are example settings; BTC/ETH/USDC are the initial named asset hubs. They are not investment recommendations or verified operational country/provider coverage. The editorial target is one original evergreen article weekly and at most one qualifying sourced summary per fortnight, subject to actual capacity.
+## Approved first release
 
-D-16–20 in the [Decision Log](DECISION-LOG.md) record the owner's explicit baseline adoption and its limits. Specialist courses, real-wallet integrations, community, monetisation and French publication remain later decisions.
+- Eight modules and 32 lessons: basics, scams, custody, receiving compatibility, stablecoins/conversion, transaction review, receipts and permissions.
+- Sixteen knowledge-check forms and sixteen mission forms, including primary/retry situations. All required action-and-reason pairs must be correct; an essential error cannot be offset by another answer.
+- Core reading free without an account. An optional account saves the journey across devices; reading completion and demonstrated understanding are separate.
+- Recommended study order; prerequisite evidence required for selected missions. Experienced learners can demonstrate the named outcomes through the same full checks.
+- Opt-in browser memory lasting 30 days after accepted learning activity; otherwise a two-hour idle visit. Articles, bookmarks, searches and background requests do not extend remembered progress. Account import is explicit and confirms individual records before removing their guest copies.
+- Public original explainers/stories and source-linked editorial news summaries. Initial content: six articles, six topic/coin hubs and 24 glossary definitions. Account-only Save/Unsave and a private saved-articles list.
+- English first, with stable content identities that allow French later. Nigeria/Ghana examples are classroom anchors, not claims of current provider availability or legal permission.
 
-## What is written
+Examples use fictional routes and invalid destinations. The site requires no funds, wallet connection or signing secrets. It does not promise returns or recommend investments. The proposed publishing pilot is one original evergreen item weekly and at most one sourced summary fortnightly, subject to actual editorial capacity.
 
-[Content Review and Build Handoff](CONTENT-REVIEW-AND-BUILD-HANDOFF.md) indexes all 32 actual lesson drafts, sixteen full check forms, sixteen full mission forms, six articles, six hubs and 24 terms. Every activity has primary/retry wording and separate facilitator keys. The news draft attributes a 5 October Ethereum research development; it requires a source/status recheck near publication. Earlier small samples remain bounded examples.
+## How it is built
 
-The functional package covers eighteen page families, ten flows and 69 future acceptance criteria. Internal review corrected confirmation/success wording and an unclear story agreement; assessment option review addresses answer cues. These checks do not establish qualified accuracy, natural Pidgin, fair retry equivalence or learner effectiveness.
+WordPress owns public pages/posts and accounts. One owned plugin supplies learner authority, private versioned assessments, progress, guest expiry/imports and bookmarks. Paid LMS licences are unnecessary for this baseline. The existing production theme and hosting plugins are preserved pending compatibility checks.
 
-## How it will be built
+Spec-driven development connects product outcomes to documented feature behaviour, written states/flows, engineering contracts and meaningful verification. The repository retains the complete research, curriculum, sources, decisions, twelve feature groups and 69 acceptance criteria. A separate visual-design planning phase was removed under D-15; implementation still includes usable responsive styling and accessibility checks.
 
-The preferred quotation route is core WordPress publishing plus a project-owned education plugin for versioned activities/results, guest authority/imports and account bookmarks. Search/editorial components remain candidates. [WordPress Build Plan](WORDPRESS-BUILD-PLAN.md) specifies responsibilities, records, integrations and future verification. No components, compatible versions, host or complete budget have been selected.
+D-21 records the owner's explicit instruction to implement the website, superseding D-13's earlier planning-only boundary. The [implementation directory](implementation/README.md) contains the code and packaging; [Build Status](implementation/BUILD-STATUS.md) distinguishes tested behaviour from missing release evidence.
 
-The illustrative USD479 annual hosting/editorial subtotal excludes development, content review, domain/email, tax and other operation. Engineering is an unquoted 42–70 developer person-day estimate assuming reviewed inputs, with significant styling excluded. Actual staffing, quotations and elapsed dates remain unconfirmed; draft generation does not establish completed human-review hours.
+## What a reviewer should assess
 
-## What needs review before handoff
+Review the product scope, learner journeys, exact content/outcome mappings and assessment revisions. The internal review verifies inventory and key correspondence; it does not invent independent expert, fluent-Pidgin, learner or psychometric approval. The application binds activity approval to the exact definition and keeps draft assessment keys private.
 
-Designate actual accuracy/curriculum and English/Pidgin reviewers, publishing ownership, a builder and operations owner. Review source-dependent claims, every key/criterion/gate, outcome equivalence and available learner findings; record accepted versions and corrections. Obtain the complete technical quote, decide spending/components and device targets, and accept any conditional handoff explicitly. No subject/voice sign-off, learner sessions, installed tests or measured accessibility/performance are claimed.
+Local activation, content import, database/auth/expiry/grading tests and browser journeys have run. The entire 69-criterion suite, production-theme integration, email delivery, privacy/operational readiness and complete CMS editorial workflow have not been accepted as finished.
 
-Visual design is excluded under D-15; later delivery owns styling and working UI/accessibility checks. All application tests remain **not executed**. The planning assistant prepares documentation/content and handoff support; readiness does not trigger coding, software setup or deployment under D-13.
+The connected site is https://wetinbecrypto.online. Its MCP catalogue can activate installed plugins but does not expose a plugin installer, and it prohibits theme-file edits. Content operations also fail intermittently. A normal administrator plugin upload or authorised hosting deployment is needed; no production launch is claimed.
 
-## Full plan
-
-[Planning Process](RESEARCH-AND-DESIGN-PLAN.md), [Handoff Review Pack](HANDOFF-REVIEW-PACK.md) and [Evidence Register](EVIDENCE-REGISTER.md) provide the detail and remaining conditions.
-
-## Implementation authority and current status
-
-D-21 records the owner's explicit instruction to implement the website through the WordPress MCP connection. This supersedes earlier no-code boundaries for the current work. The native WordPress education layer is being implemented without requiring paid licences. The [implementation directory](implementation/README.md) contains source, packaging and actual deployment status. [Implementation Contract](IMPLEMENTATION-CONTRACT.md) defines records, grading, imports and authority; [Content Release Review](CONTENT-RELEASE-REVIEW.md) defines canonical content extraction and its review limits. No production launch or independent human content approval is implied by this update.
+For detail, read [Product Brief](PRODUCT-BRIEF.md), [Feature Specification](FEATURE-SPECIFICATION.md), [Implementation Contract](IMPLEMENTATION-CONTRACT.md), [Content Release Review](CONTENT-RELEASE-REVIEW.md) and [Decision Log](DECISION-LOG.md). Changes are published in [PR #1](https://github.com/Gerrard-Studio-Venturis/wetin-be-crypto/pull/1).

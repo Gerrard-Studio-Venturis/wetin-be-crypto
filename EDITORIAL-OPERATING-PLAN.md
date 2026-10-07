@@ -1,6 +1,6 @@
 # Wetin Be Crypto — Editorial Operating Plan
 
-Version: 0.2
+Version: 0.3
 Date: 7 October 2026
 Status: Seed scope and low-volume pilot target adopted under D-16/18. Actual staff, participants, expenditure and human content approval remain unconfirmed.
 
@@ -159,3 +159,7 @@ Concrete owner decisions needed for PD-01/02/03/09:
 4. Approve named artifact versions only after real reviews or record explicit outstanding conditions. A published document, agent review or elapsed timetable supplies no human sign-off.
 
 This plan makes the work and resource choices reviewable. It confirms no staffing, participant recruitment, cadence approval, learner result, publication or application readiness.
+
+## Draft production checkpoint
+
+The adopted baseline now has full first writing drafts in [Content Review and Build Handoff](CONTENT-REVIEW-AND-BUILD-HANDOFF.md), including the six-article seed across [Editorial Seed](EDITORIAL-SEED-CONTENT.md) and [News Seed](NEWS-SEED-ARTICLE.md). Source refresh, qualified accuracy/voice/scoring review and actual weekly operation remain unstaffed. The preparation-hours range above was a pre-draft judgement, not measured time; draft generation does not establish completed human-review hours or a remaining-work quote. Re-estimate review/revision/operations once actual reviewers and accepted batches are known.

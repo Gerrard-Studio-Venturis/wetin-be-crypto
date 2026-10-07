@@ -1,6 +1,6 @@
 # Wetin Be Crypto — Decision Log
 
-Version: 0.6
+Version: 0.7
 Date: 7 October 2026
 Status: Consolidated owner choices and pending review decisions.
 
@@ -63,6 +63,8 @@ The owner asked to lock the remaining decisions and launch content before buildi
 The accepted proposal snapshot is commit `42c65b0a565de32e93593da085d8475e1ac8bb34`: Launch Scope v0.1, Assessment Rules v0.1 model, Editorial Operating Plan v0.1 pilot target, Functional Review v0.1 preferred PD-07-V/C/I product contracts, and WordPress Build Plan v0.2 preferred quotation route. D-16–20 record only that authority. D-01–15 remain unchanged. Earlier selection cards are superseded to the extent this response explicitly resolves scope, assessment model and publishing target; they need no duplicate answer.
 
 No accuracy/voice review, specific rubric/gate sign-off, complete quote, component purchase, reviewer/build-team appointment, performance-target acceptance or settled handoff is inferred. The question requesting actual reviewers and the builder remains awaiting the owner's answer. D-13's planning-only boundary remains unchanged; the stated intention to build afterwards does not yet commission this assistant to code.
+
+The continuation produced the full first writing pack indexed in [Content Review and Build Handoff](CONTENT-REVIEW-AND-BUILD-HANDOFF.md). Draft completion and internal corrections are recorded separately from qualified reviewer acceptance. No full bank, specific gate/equivalence or publishing revision is marked approved from agent drafting.
 
 ## Earlier continuation record
 

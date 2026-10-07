@@ -1,6 +1,6 @@
 # Wetin Be Crypto — Curriculum Inventory and Living Coverage Map
 
-Version: 0.3
+Version: 0.4
 Date: 7 October 2026
 Status: Eight-module/32-lesson baseline adopted under D-16. Teaching wording, detailed assessment mappings/gates and publishing readiness still need review.
 Related documents: [Curriculum and Journeys](CURRICULUM-AND-JOURNEYS.md), [Product Brief](PRODUCT-BRIEF.md), [Feature Specification](FEATURE-SPECIFICATION.md), [Evidence Register](EVIDENCE-REGISTER.md), [Decision Log](DECISION-LOG.md), [Research and Planning Process](RESEARCH-AND-DESIGN-PLAN.md).
@@ -140,7 +140,7 @@ The eight missions correspond to the existing module-level missions. The gate pr
 | PM-01 — Choose the route | Component identification and a justified route/alternative decision: O-01.1 to O-01.4. | Proposed open practice with supporting explanations; no proof of real ownership/use. |
 | PM-02 — Inspect the inbox | Warning signs, independent verification, secret/permission recognition, and evidence limits: O-02.1 to O-02.4. | Proposed open practice. Revisit relevant mistakes without closing lessons. |
 | PM-03 — Plan for the lost phone | Control model, relevant recovery material, conditional recovery, and backup plan: O-03.1 to O-03.4. | Proposed open fictional practice; no real recovery input. |
-| PM-04 — Catch the incompatible transfer | Asset identity, receiving-route compatibility, destination requirements, and a justified pause/proceed decision: O-04.1 to O-04.4. | Candidate selected gate: applicable evidence for O-04.1/O-04.2/O-04.3 from KC-04 or an explicitly mapped challenge. The [representative sample](CONTENT-DESIGN-SAMPLES.md) demonstrates O-04.2 only; the full mission's gate and rubric remain to be developed/reviewed. |
+| PM-04 — Catch the incompatible transfer | Asset identity, receiving-route compatibility, destination requirements, and a justified pause/proceed decision: O-04.1 to O-04.4. | Candidate selected gate: applicable evidence for O-04.1/O-04.2/O-04.3 from KC-04 or an explicitly mapped challenge. The [representative sample](CONTENT-DESIGN-SAMPLES.md) demonstrates O-04.2 only; the full mission draft is in the new banks; its gate and rubric still need qualified review. |
 | PM-05 — Compare conversion offers | Mechanism/target, redemption/conversion distinction, route type, and local payout/cost comparison: O-05.1 to O-05.4. | Proposed open comparison exercise. No real trade, signup, or P2P contact. |
 | PM-06 — Complete the transfer review | Consistent send request, correct supplied-cost reasoning, uncertainty, and final decision: O-06.1 to O-06.4. | Candidate selected gate: applicable O-04.2/O-04.3 and O-06.1/O-06.2 evidence. Publish the accepting check/challenge versions explicitly. |
 | PM-07 — Reconcile the payment | Stage/status interpretation, acceptance conditions, explorer limits, and suitable records: O-07.1 to O-07.4. | Proposed open read-only exercise using mock records; no live personal address required. |
@@ -265,3 +265,7 @@ Remaining choices:
 3. **PD-03/PD-10 — Sustainable breadth:** agree the initial reference/article backlog and review capacity; sequence later tracks and French publication separately from foundation approval.
 
 No learner interviews, usability sessions, complete assessment banks, independent subject-review approval, or application acceptance tests have been conducted by this inventory. The Research and Design Plan records the next validation and handoff work.
+
+## Full first writing draft
+
+[Content Review and Build Handoff](CONTENT-REVIEW-AND-BUILD-HANDOFF.md) now indexes all 32 lesson drafts and primary/retry forms for all eight checks and missions. The outcome inventory above remains unchanged. Full wording does not establish approved keys, gates, equivalence or publication readiness.

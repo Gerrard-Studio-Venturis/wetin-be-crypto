@@ -18,6 +18,13 @@ This repository contains research, planning, and functional specifications for a
 | [Curriculum and Journeys](CURRICULUM-AND-JOURNEYS.md) | Foundation outcomes, learning rules, wider topic map, and learner/reader journeys. | Draft architecture. |
 | [Curriculum Coverage](CURRICULUM-COVERAGE.md) | 32 proposed lessons/outcomes and a 43-topic living coverage map. | Draft inventory and assessment mappings. |
 | [Content Design Samples](CONTENT-DESIGN-SAMPLES.md) | Actual lesson, check, bounded mission, glossary, explainer, archive news summary, and hub introductions. | Representative copy/rubrics for review. |
+| [Foundation Lessons 01–04](FOUNDATION-LESSONS-01-04.md) | Sixteen lesson drafts with worked situations, takeaways and reviewer/source notes. | Full first writing draft; qualified review pending. |
+| [Foundation Lessons 05–08](FOUNDATION-LESSONS-05-08.md) | Sixteen stablecoin, transfer, verification and permission lesson drafts. | Full first writing draft; qualified review pending. |
+| [Assessment Bank 01–04](ASSESSMENT-BANK-01-04.md) | Eight full check and eight full mission forms, primary/retry, with separate keys. | Actual forms drafted; keys/gates/equivalence need review. |
+| [Assessment Bank 05–08](ASSESSMENT-BANK-05-08.md) | Eight full check and eight full mission forms, primary/retry, with separate keys. | Actual forms drafted; keys/gates/equivalence need review. |
+| [Editorial Seed Content](EDITORIAL-SEED-CONTENT.md) | Four explainers, one fictional story, six hubs and twenty-four glossary definitions. | Original draft copy; source/voice/publishing review pending. |
+| [Current News Seed](NEWS-SEED-ARTICLE.md) | Original dated Ethereum research-development summary, the sixth draft article. | Actual source inspected; approval and near-launch refresh pending. |
+| [Content Review and Build Handoff](CONTENT-REVIEW-AND-BUILD-HANDOFF.md) | Canonical content inventory, review batches, owners and the transition to a later build. | Draft pack complete; actual reviewers/quote/build appointment remain. |
 | [Voice and Editorial Guide](VOICE-AND-EDITORIAL-GUIDE.md) | Contextual Pidgin, source/date treatment, corrections, and editorial responsibilities. | Proposed guide; human voice review outstanding. |
 | [Learner Research Guide](LEARNER-RESEARCH-GUIDE.md) | Interview prompts, nine task reviews, and neutral observation templates. | Protocol prepared; no sessions conducted. |
 | [Research Findings](RESEARCH-FINDINGS.md) | Focused source inspections, recommendations, traceability, and limits. | Current desk-research checkpoint. |
@@ -41,7 +48,7 @@ This repository contains research, planning, and functional specifications for a
 
 ## Current stage
 
-The owner adopted the full launch baseline, criterion-based assessment model, low-volume editorial target, preferred guest visit/checkpoint/import rules and native WordPress quotation route under D-16–20. A sitemap, eighteen page families, ten flows and all 69 future criteria are prepared. Full content drafting is underway. Remaining work covers actual content/keys/gates and human review, staffed capacity, complete quotes/technical contracts, device targets and named responsibilities. The package is **not approved as a settled development handoff**. Learner sessions, qualified subject/voice approval and WordPress application tests have not been conducted.
+The owner adopted the full launch baseline, criterion-based assessment model, low-volume editorial target, preferred guest visit/checkpoint/import rules and native WordPress quotation route under D-16–20. A sitemap, eighteen page families, ten flows and all 69 future criteria are prepared. The full first writing draft now covers 32 lessons, sixteen full check forms, sixteen full mission forms, six articles, six hubs and 24 glossary concepts. [Content Review and Build Handoff](CONTENT-REVIEW-AND-BUILD-HANDOFF.md) explains actual readiness. Remaining work covers qualified content/keys/gates/equivalence and voice review, available learner evidence, actual staffing, quotes/components/technical contracts, device targets and named responsibilities. The package is **not approved as a settled development handoff**. Application tests remain not executed; baseline approval does not trigger coding.
 
 An approval means approval of the named document version and stated scope. It does not silently approve every open decision or authorise implementation.
 

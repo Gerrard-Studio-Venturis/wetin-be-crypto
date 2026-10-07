@@ -1,6 +1,6 @@
 # Wetin Be Crypto — Proposed WordPress Build Plan
 
-Version: 0.3
+Version: 0.4
 Date: 7 October 2026
 Status: Native education route adopted as preferred for quotation under D-20; guest product contracts adopted under D-19. Components, budget and implementation mechanisms remain unapproved/unverified.
 
@@ -121,6 +121,8 @@ Delivery must verify WCAG 2.2 AA across theme, assessments, search, saving and f
 Propose a named maintenance owner for stable-version updates, staged regression, dependency advisories, exports/backups and restore exercises. High-risk corrections can interrupt the usual update cycle. Account/guest data retention, transactional-email reliability, monitoring and incident access require named owners and written procedures before launch. Vendor support covers its product, not the complete custom workflow.
 
 ## Separate content and operating work
+
+The owner has adopted the baseline and full first writing drafts are now indexed in [Content Review and Build Handoff](CONTENT-REVIEW-AND-BUILD-HANDOFF.md). Content accuracy/voice/key/gate approval, source refresh and actual review capacity remain outstanding. The existing effort assumptions below concern accepted inputs, not unreviewed draft existence. A later builder may quote parallel content review/development with explicit dependencies; no elapsed schedule is implied.
 
 [Launch Scope](LAUNCH-SCOPE.md) specifies the proposed production manifest; [Assessment Rules](ASSESSMENT-RULES.md) distinguishes actual samples from complete banks. [Editorial Operating Plan](EDITORIAL-OPERATING-PLAN.md) separately estimates content/source/human-review preparation and ongoing article/maintenance hours. Those tasks are excluded from the developer estimate below; no content staffing or cadence is confirmed.
 

@@ -1,6 +1,6 @@
 # Wetin Be Crypto — Handoff Review Pack
 
-Version: 0.2
+Version: 0.3
 Date: 7 October 2026
 Status: Planning package prepared for owner/reviewer decisions; settled development handoff NOT approved.
 
@@ -11,6 +11,8 @@ The owner explicitly adopted the full launch baseline, criterion-based structure
 Start with [Reviewer Brief](REVIEW-BRIEF.md). Detailed review proceeds through [Launch Scope](LAUNCH-SCOPE.md), [Assessment Rules](ASSESSMENT-RULES.md), [Editorial Operating Plan](EDITORIAL-OPERATING-PLAN.md), [Functional Review](FUNCTIONAL-REVIEW.md), and [WordPress Build Plan](WORDPRESS-BUILD-PLAN.md). [Decision Log](DECISION-LOG.md) preserves D-01–15, adds adopted D-16–20 and retains PD IDs for remaining conditions.
 
 ## Artifact readiness and limits
+
+The full first writing pack is now in [Content Review and Build Handoff](CONTENT-REVIEW-AND-BUILD-HANDOFF.md): 32 lessons, primary/retry forms for all eight checks and missions, six articles, six hubs and 24 glossary definitions. These are actual drafts, not qualified publishing/scoring approvals. The review sequence and owner conditions below now concern accepting/correcting that copy rather than writing it from titles.
 
 | Area | Prepared evidence/artifact | Remaining condition |
 | --- | --- | --- |
@@ -45,7 +47,7 @@ PD-05 remains retired under D-15. PD-10 future funding/specialist/French scope r
 | First | Owner has adopted baseline; resolve actual content and capacity conditions | D-16–20 record the explicit response; complete remaining content/ownership/quote decisions. |
 | First | Qualified source and voice review of the three representative assessment themes and seed editorial examples | Actual review records; fix material teaching/rubric errors before full-bank expansion. |
 | Next | Available learner reviews of lesson/rationale/article/date/progress/memory/import explanations | Owner-arranged access and agreed research operations; publish redacted findings, or explicitly record no direct evidence. |
-| Next | Expand approved patterns into the remaining lesson copy/banks/mission variants and source dependencies | Staffed content plan and reviewed publishing inputs. This work is distinct from engineering effort. |
+| Next | Review/correct the full lesson/bank/mission/editorial drafts and their source dependencies | Actual module-batch reviewer records and accepted publishing inputs. This work is distinct from engineering effort. |
 | Next | Resolve route quote/licence/interface, guest lifecycle, device budget and operations owners | Owner/technical review, dated quotations or documented conditions; application proofs remain later delivery. |
 | Last | Reconcile versions, records, sources, dependencies and conditions; record handoff approval | Accepted artifact list or commit, approval scope, open-item owner and resolution path. No automatic implementation. |
 

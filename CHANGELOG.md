@@ -2,6 +2,17 @@
 
 Dates use the owner's current date context. Versions describe planning documents; they are not application releases.
 
+## 7 October 2026 — Full first writing content and build-handoff checkpoint
+
+- Added 32 actual foundation lesson drafts across two files, all matching the unchanged outcome inventory, with explained concepts, fictional worked situations, takeaways and source/reviewer notes.
+- Added primary/retry wording for all eight checks and eight missions: sixteen KC forms with 122 paired items, sixteen PM forms with 112 paired decisions and 234 separate facilitator keys. All four module outcomes appear in each form. Keys, essential classification, exact gates, equivalence and fair difficulty still need qualified acceptance.
+- Added four evergreen explainers, one original fictional story, six hub introductions and exactly 24 glossary definitions. Expanded A-EX-01/H-USDC/H-STABLECOINS retain canonical identities. Added actual A-NEWS-02 copy from an inspected 5 October Ethereum research post; the January Ghana archive remains optional, outside the six-article baseline.
+- Inspected S-51–53 through live-request Firecrawl HTML retrieval on 7 October, HTTP 200: Foundation blog listing, full transaction-assertion research post and a rejected Ghana freshness candidate. The news attributes proposed research without claiming deployed protection; linked technical/incident sources are uninspected. Refresh the source/status near actual publication.
+- Internal cross-review fixed confirmation-versus-success wording, made a fictional goods-release condition explicit, removed a duplicated Pidgin aside, clarified net-fee and pending-credit rationale, and revised obvious assessment option-length/absolute-word cues. This is documented internal checking, not human accuracy/voice sign-off or proven learning equivalence.
+- Added Content Review and Build Handoff: canonical inventory, experienced-entry reuse proposal, module review batches, remaining owners/quotes/device decisions and eight quotation/delivery slices. Qualified content approvals and a commissioned builder remain outstanding. Conditional handoff may support public-reading/authoring development while review continues; unapproved banks cannot be treated as ready for public scored use.
+- Reviewer Brief v0.7 stays concise at 622 words. Reconciled current statuses/versions and preserved all 69 acceptance-criterion texts and prior D-01–15; explicit D-16–20 adoption remains separately recorded. No application code, install/configuration, visual design, purchase, outreach, deployment or application test occurred.
+- Documentation checks cover 35 Markdown files, 350 local links/anchors, 53 ordered source records, all 32 unchanged lesson outcomes, 32 full activity forms and 234 item/key pairs. Each form maps all four module outcomes; all 69 acceptance-criterion texts and prior D-01–15 are unchanged. Application verification remains not executed.
+
 ## 7 October 2026 — Explicit baseline adoption
 
 - Owner selected “Adopt the recommended baseline” after a question that named the full eight-module/32-lesson release, criterion-based structured checks, low-volume editorial pilot, preferred guest rules and native WordPress education route for quotation. Added D-16–20; preserved D-01–15 unchanged.

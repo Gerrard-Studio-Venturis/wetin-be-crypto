@@ -1,6 +1,6 @@
 # Wetin Be Crypto — Representative Content and Assessment Samples
 
-Version: 0.2
+Version: 0.3
 Date: 7 October 2026
 Status: Draft P-02 review materials. Source-informed; independent subject/voice review and learner validation outstanding.
 
@@ -267,3 +267,7 @@ Project/issuer identity: Circle USDC. This hub groups project context; network d
 6. What editorial/subject-review work is sustainable before expanding to the 32 proposed lessons and more hubs/articles?
 
 These questions inform PD-01/02/03/04. Approval of examples does not select application components, establish learner effectiveness, approve every proposed mission gate, or authorise product coding.
+
+## Full draft expansion
+
+The full first writing pack is indexed in [Content Review and Build Handoff](CONTENT-REVIEW-AND-BUILD-HANDOFF.md). Existing samples keep their bounded scope and canonical IDs; they do not add extra lessons, scored forms or article identities. Expanded lesson/article/hub revisions need version selection and qualified review before delivery.

@@ -1,6 +1,6 @@
 # Wetin Be Crypto — Research and Functional Planning Process
 
-Version: 0.6
+Version: 0.7
 Date: 7 October 2026
 Status: Planning-only process with adopted launch/assessment/editorial/guest/native-route baseline under D-16–20; human review and delivery conditions outstanding.
 Platform: WordPress.
@@ -28,7 +28,7 @@ Already prepared:
 - [WordPress Build Plan](WORDPRESS-BUILD-PLAN.md), three component/core source reports, cost/ownership/effort assumptions, and [future verification](IMPLEMENTATION-VERIFICATION-PLAN.md) across all 69 criteria.
 - Concrete [Launch Scope](LAUNCH-SCOPE.md), [Assessment Rules](ASSESSMENT-RULES.md), [Editorial Operating Plan](EDITORIAL-OPERATING-PLAN.md), internal [Functional Review](FUNCTIONAL-REVIEW.md), [regional source pass](REGIONAL-SCOPE-RESEARCH.md) and [Handoff Review Pack](HANDOFF-REVIEW-PACK.md).
 
-The owner explicitly adopted the launch scope, criterion-based structured model, low-volume editorial target, preferred guest product contracts and native route for quotation under D-16–20. Still outstanding: full draft content/banks and actual accuracy/voice review, specific rubrics/gates/equivalence, available learner evidence, functional refinement, actual editorial staffing/capacity, complete quotes/components/technical mechanisms, device targets and named handoff owners. Product baseline acceptance does not invent human review or application proof.
+The owner explicitly adopted the launch scope, criterion-based structured model, low-volume editorial target, preferred guest product contracts and native route for quotation under D-16–20. The full first writing content pack now exists in [Content Review and Build Handoff](CONTENT-REVIEW-AND-BUILD-HANDOFF.md). Still outstanding: actual accuracy/voice review and source refresh, specific rubrics/gates/equivalence, available learner evidence, functional refinement, actual staffing/capacity, complete quotes/components/technical mechanisms, device targets and named owners. Product baseline acceptance and draft completion do not invent human review or application proof.
 
 ## Progress at this checkpoint
 
@@ -44,6 +44,8 @@ This table records prepared artifacts and remaining work; it is not a phase appr
 | P-05 | [Learner research guide](LEARNER-RESEARCH-GUIDE.md) with nine content/workflow task reviews. | Owner-arranged access, actual sessions, specification-level checks, findings, and revisions. |
 | P-06 | [Build recommendation](WORDPRESS-BUILD-PLAN.md), current source comparisons, conceptual records, costs/effort/ownership and [future verification matrix](IMPLEMENTATION-VERIFICATION-PLAN.md). | PD-06/07/08 review, compatible versions/interfaces and complete quotes; no installed proof. |
 | P-07 | [Handoff Review Pack](HANDOFF-REVIEW-PACK.md) indexes artifacts, pending decisions, conditions and ownership. | Named-version decisions, actual reviewers/owners, full reviewed inputs, complete quotes and settled approval/conditions. |
+
+The table preserves the earlier prepared-artifact checkpoint. The current continuation has adopted the product baseline and completed the full first writing pack; see [Content Review and Build Handoff](CONTENT-REVIEW-AND-BUILD-HANDOFF.md) for current status. References to missing scope/model/guest selections in the original phase table are superseded by D-16–20. Content approval, actual reviewers, available learner evidence, complete quotes/mechanisms and named responsibility remain outstanding.
 
 ## Research questions and evidence plan
 

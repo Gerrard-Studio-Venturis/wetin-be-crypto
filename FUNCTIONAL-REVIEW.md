@@ -1,12 +1,14 @@
 # Wetin Be Crypto — Internal Functional Review
 
-Version: 0.2
+Version: 0.3
 
 Date: 7 October 2026
 
 Status: Internal written walkthrough completed; preferred PD-07-V/C/I product rules adopted under D-19. Mechanisms and other findings remain for delivery/review. No human or application validation claimed.
 
 ## Reviewed scope and method
+
+The walkthrough/finding classifications retain their original v0.1 inspection context. D-19 subsequently adopts the preferred PD-07-V/C/I **product rules** below; their authority/storage/fallback mechanisms remain unverified, and other rubric/functional findings retain their stated review responsibilities. An “open” label in the historical finding table must not be read as requiring another owner selection between the adopted preferred guest options and their alternatives.
 
 This review supports P-03/PD-04 and the PD-07 guest-rule work. It reads the eighteen page families in [Information Architecture](INFORMATION-ARCHITECTURE.md), ten [Functional Flows v0.1](FUNCTIONAL-FLOWS.md), twelve feature groups/69 criteria in [Feature Specification v0.5](FEATURE-SPECIFICATION.md), and [WordPress Build Plan v0.1](WORDPRESS-BUILD-PLAN.md), against [Decision Log v0.4](DECISION-LOG.md). The starting repository reference was `fa790af99bc0` on 7 October 2026. IA v0.1 was reviewed initially; the root's v0.2 access clarification was subsequently checked. The correction/gate sections of the companion [Assessment Rules v0.1](ASSESSMENT-RULES.md) were checked for alignment; this is not a full subject review of that proposal.
 

@@ -1,6 +1,6 @@
 # Wetin Be Crypto — Adopted First-Release Scope
 
-Version: 0.2
+Version: 0.3
 Date: 7 October 2026
 Status: First-release baseline adopted under D-16. Actual publishing inputs, specific assessment gates and human reviews remain outstanding.
 
@@ -14,13 +14,13 @@ This is documentation-only. No code, component installation/configuration, purch
 
 ## First-release feature boundary
 
-| Proposed launch capability | Included behaviour / success definition | Related specifications |
+| Adopted launch capability | Included behaviour / success definition | Related specifications |
 | --- | --- | --- |
 | Guided foundation | Eight reviewed modules, 32 text-first lessons, stated outcomes, worked examples, glossary and explicit reading completion. Suggested order; direct later-lesson reading stays open. | M-01–08; FS-01/02; FL-01. |
 | Checks and experienced entry | Eight module check designs with approved outcome-mapped banks. Experienced learners can attempt declared checks without reading first; a pass establishes only mapped outcomes, not lesson completion. No separate broad placement score is promised. | FS-01/03; FL-02; Assessment Rules. |
 | Practical missions | Eight bounded fictional mission designs; selected prerequisites based on approved outcome evidence. Essential mistakes cannot be offset by unrelated points. No real assets, secrets or wallet connection. | FS-04; FL-03. |
 | My Journey | Reading, passed checks, demonstrated practice, historical/current applicability and review recommendations stay distinct. Saving status is confirmed/pending/failed; added requirements preserve history. | FS-05; FL-04. |
-| Guest and account saving | Current-visit continuity, optional browser memory for 30 days after the last learning activity, clear/expiry, cross-device account history, explicit reconciled import and recoverable failures. Detailed visit/checkpoint/cleanup rules remain proposals. | D-06/11; FS-06; FL-05/06/07; Functional Review. |
+| Guest and account saving | Current-visit continuity, optional browser memory for 30 days after the last learning activity, clear/expiry, cross-device account history, explicit reconciled import and recoverable failures. Preferred visit/checkpoint/import product rules adopted under D-19; implementation mechanisms remain unverified. | D-06/11/19; FS-06; FL-05/06/07; Functional Review. |
 | Public News & Articles | Full original explainers/stories and editorially written sourced summaries, format filters, meaningful dates, sources and corrections. Editorial coverage can extend beyond the example-asset shortlist. | D-08/09; FS-07; FL-08/10. |
 | Coin/topic hubs and glossary | Reviewed canonical introductions, maintained aliases, related public coverage/learning and useful no-news states. Exact asset/network/representation identities stay distinct. | FS-08; PG-06/13. |
 | Unified discovery | Published lessons/articles/glossary/hubs/practice with content labels, filters, alias disambiguation and useful prerequisite routes. No private/draft data or generated answer system. | FS-09; PG-14; FL-08. |
@@ -29,7 +29,9 @@ This is documentation-only. No code, component installation/configuration, purch
 
 All twelve feature groups and 69 criteria remain represented. This proposal does not downgrade approved guest access to suit an LMS. [WordPress Build Plan](WORDPRESS-BUILD-PLAN.md) compares the owned education layer and LMS-adapter routes; components and budget need separate approval.
 
-## Proposed seed content manifest
+## Adopted seed content manifest
+
+The full first writing pack now exists in [Content Review and Build Handoff](CONTENT-REVIEW-AND-BUILD-HANDOFF.md): all 32 lessons, primary/retry forms for eight KC/PM activities, six articles, six hubs and 24 glossary concepts. The original preparation column below describes the proposal snapshot; no item has acquired qualified publishing/scoring approval from drafting alone.
 
 Counts are production targets, not existing publishable inventory. A lesson or assessment listed in planning is not reviewed site content. Published scored activities require their own approved versions and complete rubric; no sample pass unlocks unrelated outcomes.
 

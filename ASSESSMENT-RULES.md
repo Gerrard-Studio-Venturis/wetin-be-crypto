@@ -1,6 +1,6 @@
 # Wetin Be Crypto — Proposed Assessment and Mission Rules
 
-Version: 0.2
+Version: 0.3
 Date: 7 October 2026
 Status: Criterion-based structured model adopted under D-17. Specific banks, criteria, gates and equivalence remain for qualified review; no approved full bank or application proof.
 
@@ -245,7 +245,7 @@ A meaningful retry could change the supplied provider rule, show credited-and-pa
 
 ## Bank-production inventory and review status
 
-Counts below are document inventory, not approved-bank capacity or application results.
+The table below is the **historical representative-sample inventory at commit `42c65b0`**, before full draft expansion. It preserves the limited evidence of that proposal pass; it is not the current draft count. The new [Bank 01–04](ASSESSMENT-BANK-01-04.md) and [Bank 05–08](ASSESSMENT-BANK-05-08.md) contain sixteen full draft KC and sixteen full draft PM forms, primary/retry across every module. Actual paired-item counts are in their manifests. Qualified approved banks and reviewed interchangeable forms remain zero; application results remain untested.
 
 | Material | Drafted now | Required before current scored use |
 | --- | --- | --- |
@@ -258,6 +258,8 @@ Counts below are document inventory, not approved-bank capacity or application r
 
 Propose two independently reviewed forms for each full KC and PM before calling the bank ready: a primary form and at least one meaningful retry form. For checks this means **16 forms covering 64 outcome-form bundles** (32 outcomes twice), not a claim of 64 sufficient single questions. For missions it means **16 full scenario forms**, with case/decision counts set by the actual rubric. Question counts and further variants follow the content: broad outcomes may require several decisions. These production targets are proposals, not researched optimal bank sizes.
 
+Full primary/retry wording is now drafted to that production target, with four mapped module outcomes per form. Specific criteria, key correctness, essential classification, form difficulty and equivalence are unapproved. [Content Review and Build Handoff](CONTENT-REVIEW-AND-BUILD-HANDOFF.md) specifies module-batch review and the experienced-entry reuse proposal; no new pass or eligibility is produced by writing these files.
+
 Experienced entry may reuse approved equivalent forms under a distinct published challenge purpose; it need not double the bank. Item/form lineage must identify prior exposure, correction dependencies, and accepted outcome equivalence. Never publish a container as a full module pass when only its sample outcome is reviewed.
 
 ## Evidence, approvals, and remaining decisions
@@ -266,4 +268,4 @@ This pass uses existing planning evidence only. No new source inspection, learne
 
 Before approval, assign a qualified crypto/curriculum reviewer, publishing/source editor, fluent Nigerian voice reviewer, and owner-arranged learner review. Verify factual claims and intended model, independent reasoning demand, ambiguous alternatives, misleading answer cues, outcome coverage, gate proportionality, and comprehension across Nigeria and other West African contexts. Record actual reviewer/date/version and changes; an internal document review is not this approval.
 
-PD-02 review should settle: criterion-based versus activity-specific ordinary thresholds; structured versus staffed human rationale review; the named full/small evidence activities; essential criteria and candidate gates; production-form coverage; correction/re-evaluation rules; and review prompts/timing. Related PD-01 settles foundation scope; PD-07 settles available guest evidence and retention mechanisms; PD-09 assigns accountable reviewers and later delivery verification. No approval of this proposal authorises the planning assistant to write the product.
+The owner adopted the criterion-based structured model under D-17. Remaining PD-02 review concerns the named full/small evidence activities, precise essential criteria/gates, actual form coverage/keys/equivalence, correction/re-evaluation and review prompts/timing. Staffed human grading or percentage thresholds would change the adopted model and need a new decision. D-16 settles the launch baseline and D-19 the preferred guest product contracts; actual mechanisms and accountable reviewers remain delivery conditions. No approval authorises the planning assistant to write the product.

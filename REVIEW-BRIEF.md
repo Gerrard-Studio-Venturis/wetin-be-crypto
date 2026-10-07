@@ -1,45 +1,41 @@
 # Wetin Be Crypto — Reviewer Brief
 
-Version: 0.6
+Version: 0.7
 Date: 7 October 2026
-Status: Launch baseline, assessment model, publishing target, guest product rules and preferred quotation route adopted. Content approval and delivery conditions remain outstanding.
+Status: Product baseline adopted; full first writing drafts prepared. Content approvals, named owners and delivery conditions remain outstanding.
 
-## What we intend to build
+## What we are building
 
-A WordPress application that helps people understand crypto at different levels, practise useful decisions, follow their journey and read understandable coverage. It serves a wider African audience with a West African focus, starting with practical understanding and safe everyday use.
-
-Teaching uses clear English, worked examples and explanatory feedback. Occasional contemporary Nigerian Pidgin adds familiarity and humour, with varied wording, purpose and placement. Essential meaning remains in English; removing an aside must remove no required instruction. Prepare identities for French later.
+A WordPress application that helps a wider African audience, with a West African focus, understand crypto, practise useful decisions, track learning and read understandable news and stories. Practical understanding and safe everyday use anchor the foundation. English carries essential meaning; occasional varied contemporary Nigerian Pidgin adds familiarity. Prepare content identities for French later.
 
 ## Adopted first release
 
 - Eight foundation modules and 32 text-first lessons: basics; scams/trust; custody/recovery; assets/networks/recipients; stablecoins/conversion; transfer review; transaction verification; permissions/combined practice.
-- Eight knowledge-check and eight fictional mission designs, with equivalent experienced-entry routes. Reading stays open; selected practice requires declared outcome evidence. Essential mistakes cannot be offset by unrelated answers.
-- My Journey distinguishes explicit reading completion, passed checks, demonstrated practice and review/current applicability. Optional accounts save across devices. Guests can opt into 30-day browser memory after their last learning activity.
-- Public News, Explainers and Stories, source-linked original summaries, glossary, coin/topic hubs, unified discovery and simple account-only bookmarks. Article reading/saving earns no learning credit and never silently imports guest learning.
-- An adopted seed set of six articles, six hubs and 24 glossary concepts. BTC/ETH/USDC and Nigeria/Ghana are initial named examples/settings, not investment recommendations or verified operational coverage. Wider editorial coverage remains possible.
+- Criterion-based structured checks and fictional missions, with explanatory feedback. All required criteria must be met; essential mistakes cannot be offset. Public reading stays open, selected practice requires declared outcome evidence, and experienced entry never invents unread lesson completions.
+- My Journey separates reading, check passes, practice and current applicability. Optional accounts save across devices. Guests have a two-hour idle current visit and optional 30-day memory after their last qualifying learning activity. Imports require explicit intent, durable per-record confirmation and confirmed-only cleanup.
+- Public News, Explainers and Stories; six seed articles, six coin/topic hubs and 24 glossary concepts; unified discovery and simple account-only Saved Articles. Articles/bookmarks earn no learning credit and never silently import guest progress.
+- Nigeria/Ghana are example settings; BTC/ETH/USDC are the initial named asset hubs. They are not investment recommendations or verified operational country/provider coverage. The editorial target is one original evergreen article weekly and at most one qualifying sourced summary per fortnight, subject to actual capacity.
 
-The baseline counts/settings/assets are adopted; individual copy, keys, rubrics, gates and equivalence still require content review. Specialist courses, additional tools, community/reward systems, monetisation and French publication are later decisions. Fictional inputs do not establish real country/provider availability or rules.
+D-16–20 in the [Decision Log](DECISION-LOG.md) record the owner's explicit baseline adoption and its limits. Specialist courses, real-wallet integrations, community, monetisation and French publication remain later decisions.
 
-## Prepared for review
+## What is written
 
-[Launch Scope](LAUNCH-SCOPE.md) defines the boundary and seed subjects. [Assessment Rules](ASSESSMENT-RULES.md) maps all 32 outcomes and eight mission policies, with added bounded scam/status samples. [Editorial Operating Plan](EDITORIAL-OPERATING-PLAN.md) sizes writing, review, upkeep and staffing. [Functional Review](FUNCTIONAL-REVIEW.md) walks the ten flows against 69 criteria; eighteen page families remain in the sitemap. [Handoff Review Pack](HANDOFF-REVIEW-PACK.md) collates decisions, conditions and owners.
+[Content Review and Build Handoff](CONTENT-REVIEW-AND-BUILD-HANDOFF.md) indexes all 32 actual lesson drafts, sixteen full check forms, sixteen full mission forms, six articles, six hubs and 24 terms. Every activity has primary/retry wording and separate facilitator keys. The news draft attributes a 5 October Ethereum research development; it requires a source/status recheck near publication. Earlier small samples remain bounded examples.
 
-The adopted preferred quotation route is core WordPress publishing plus a project-owned education plugin. Search/editorial components remain candidates. The owner adopted the preferred two-hour idle visit, meaningful learning checkpoints and confirmed per-record import/cleanup product contracts. Their technical authority/support, canonical discovery and revision approvals need implementation proof. Components, versions and budget are unselected.
+The functional package covers eighteen page families, ten flows and 69 future acceptance criteria. Internal review corrected confirmation/success wording and an unclear story agreement; assessment option review addresses answer cues. These checks do not establish qualified accuracy, natural Pidgin, fair retry equivalence or learner effectiveness.
 
-## Resources and evidence limits
+## How it will be built
 
-The dated illustrative hosting/editorial subtotal is USD479/year before development, content, domain/email, tax/FX and other operation. Engineering is a low-confidence 42–70 developer person-day estimate assuming reviewed inputs. Content/review preparation is separately estimated at 580–1,055 person-hours including a judgement reserve. The proposed later editorial pilot uses 14–24 team person-hours weekly. None is a quote, confirmed staffing or elapsed schedule.
+The preferred quotation route is core WordPress publishing plus a project-owned education plugin for versioned activities/results, guest authority/imports and account bookmarks. Search/editorial components remain candidates. [WordPress Build Plan](WORDPRESS-BUILD-PLAN.md) specifies responsibilities, records, integrations and future verification. No components, compatible versions, host or complete budget have been selected.
 
-Evidence includes public-source research and internal written review. No learner sessions, qualified subject/voice sign-off, installed component tests, measured performance or WCAG conformance are claimed. Full reviewed question banks and lesson copy remain outstanding. Regional sources have explicit age/partial-access limits; current country/legal/provider guidance is unverified.
+The illustrative USD479 annual hosting/editorial subtotal excludes development, content review, domain/email, tax and other operation. Engineering is an unquoted 42–70 developer person-day estimate assuming reviewed inputs, with significant styling excluded. Actual staffing, quotations and elapsed dates remain unconfirmed; draft generation does not establish completed human-review hours.
 
-## Decisions and handoff
+## What needs review before handoff
 
-The owner explicitly selected “Adopt the recommended baseline”; D-16–20 in the [Decision Log](DECISION-LOG.md) record that scope. Review actual content/keys/gates, staffing/capacity, complete technical quotes, device targets and named owners. The target is one original evergreen article weekly and at most one qualifying news summary per fortnight, subject to actual review capacity. Prepare full draft content, then record actual accuracy/voice review and available learner findings.
+Designate actual accuracy/curriculum and English/Pidgin reviewers, publishing ownership, a builder and operations owner. Review source-dependent claims, every key/criterion/gate, outcome equivalence and available learner findings; record accepted versions and corrections. Obtain the complete technical quote, decide spending/components and device targets, and accept any conditional handoff explicitly. No subject/voice sign-off, learner sessions, installed tests or measured accessibility/performance are claimed.
 
-The package is prepared for review and **not approved as a settled development handoff**. Visual design is excluded under D-15: no polished mockups, typography/colour system or visual component library. Written maps/flows remain. Later delivery owns styling and working UI/accessibility validation.
+Visual design is excluded under D-15; later delivery owns styling and working UI/accessibility checks. All application tests remain **not executed**. The planning assistant prepares documentation/content and handoff support; readiness does not trigger coding, software setup or deployment under D-13.
 
-At accepted handoff, the owner receives reviewed specifications, content/rubrics, evidence/decisions, functional states, technical recommendations, estimates, unresolved conditions and future validation responsibilities. The owner can commission later delivery separately. **The planning assistant will not start product coding when the plan is ready or approved.**
+## Full plan
 
-## Full process
-
-[Research and Planning Process](RESEARCH-AND-DESIGN-PLAN.md) explains methods and review gates; [Evidence Register](EVIDENCE-REGISTER.md) links observations, hypotheses and remaining gaps.
+[Planning Process](RESEARCH-AND-DESIGN-PLAN.md), [Handoff Review Pack](HANDOFF-REVIEW-PACK.md) and [Evidence Register](EVIDENCE-REGISTER.md) provide the detail and remaining conditions.

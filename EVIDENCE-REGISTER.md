@@ -1,6 +1,6 @@
 # Wetin Be Crypto — Evidence Register
 
-Version: 0.6
+Version: 0.7
 Date: 7 October 2026
 Status: Desk research, bounded regional/WordPress source passes and internal written review; direct learner and application validation outstanding.
 
@@ -74,6 +74,9 @@ The preceding checkpoint recorded actual 7 October 2026 inspections S-25–46. T
 | S-48 | [BoG Education Manual 1 listing](https://www.bog.gov.gh/virtual-assets-posts/national-virtual-assets-education-manual-1/) | Full listing inspected 7 October 2026; dated 16 April 2026, PDF link established. No complete manual content/effectiveness inferred. |
 | S-49 | [BoG VASP Act FAQs](https://www.bog.gov.gh/wp-content/uploads/2026/03/VASP-Act-FAQs.pdf) | Five-page PDF inspected 7 October 2026; dated February 2026. Consumer-risk/regulation distinctions and Q14 wage/invoice restriction inform content hold; current legal/transition/authorisation status unverified. |
 | S-50 | [BoG Education Manual 1 PDF](https://www.bog.gov.gh/wp-content/uploads/2026/04/National-Virtual-Assets-Education-Manual-1.pdf) | First six of 159 pages inspected 7 October 2026; Advanced Professional front matter, first edition March 2026. No body-curriculum/method/assessment/effectiveness review claimed. |
+| S-51 | [Ethereum Foundation blog listing](https://blog.ethereum.org/) | Live-request Firecrawl HTML text inspected 7 October 2026, HTTP 200. Identifies 5 October transaction-assertion research item; listing is not complete technical evidence. |
+| S-52 | [Ethereum native transaction-assertion research post](https://blog.ethereum.org/2026/10/05/transaction-assertions) | Full-text HTML inspected 7 October 2026, live-request Firecrawl, HTTP 200; displayed Access Cluster author and 5 October date. Supports an attributed research-development summary, not deployed wallet/network protection. Linked EIPs/status/incident sources not independently inspected; subject/editorial approval pending. |
+| S-53 | [BoG market-update listing, rejected freshness candidate](https://www.bog.gov.gh/news/press-release-market-update-on-virtual-assets-regulatory-developments/) | Live-request Firecrawl HTML text inspected 7 October 2026, HTTP 200. Linked document path indicates a 2025 release; recent sidebar items do not date the announcement. PDF body not retrieved; no current regulatory claim derived. |
 
 Other products examined in the initial research included Binance Academy, Coinbase Learn, Khan Academy, Yellow Card Academy, and Decrypt. Treat that comparative coverage as exploratory; the next comparative pass should record exact inspected surfaces and findings rather than infer undocumented account behaviour.
 
@@ -106,7 +109,9 @@ Other products examined in the initial research included Binance Academy, Coinba
 | E-23 | Retrieval today does not make an official statement current; national guidance can materially affect examples. | S-47/49, dated official material and scoped interpretation. | Record age/applicability; hold unsupported Ghana wage/invoice instructions pending current review; PD-01/03, FS-02/07/08/11. | Source observations, not our legal determination or verified operational-country coverage. |
 | E-24 | A manual listing/front matter does not establish its full level/content/effectiveness. | S-48/50; only six PDF pages inspected. | Record advanced-level label and partial access; preserve original beginner foundation. | No full comparative curriculum/learning-outcome review. |
 | E-25 | Concrete release/evidence/capacity proposals made baseline choices reviewable. | Existing coverage, source categories and planning judgement; explicit owner baseline response. | 32-lesson + 6/6/24 scope, criterion model and editorial target adopted under D-16–18. | Policy acceptance is not measured evidence. Specific banks/gates, human review, actual capacity and hours remain unverified. |
-| E-26 | Internal written walkthrough identifies guest authority and lifecycle contracts. | Functional Review against existing 10 flows/69 criteria. | Clarify guest/account own-record access; propose visit/checkpoint/import/race rules; PD-04/07. | Document analysis only; no observed learner behaviour or installed proof. |
+| E-26 | Internal written walkthrough identifies guest authority and lifecycle contracts. | Functional Review against existing 10 flows/69 criteria; preferred product rules adopted under D-19. | Guest/account own-record access and visit/checkpoint/import/race contracts; PD-04/07. | Product-policy acceptance and document analysis only; no observed learner behaviour or installed proof. |
+| E-27 | Full first writing drafts now exist beyond the representative samples. | Actual lesson, bank, editorial/reference and news files; internal document review. | 32 lessons; sixteen checks and sixteen missions; six articles/six hubs/24 terms; content handoff. | Draft existence and internal coverage/arithmetic checks are not qualified accuracy/voice review, fair equivalence or approved scoring/publication. |
+| E-28 | News requires the correct event/source context, not a recent sidebar date. | Actual S-51–53 live-request source pass on 7 October 2026. | A-NEWS-02 attributes 5 October Ethereum research, preserves proposal status and requires near-launch refresh. | Single interested-project account; linked technical/incident sources not independently inspected. Old Ghana candidate rejected for freshness. |
 
 ## Assumptions and unresolved evidence
 
@@ -118,8 +123,8 @@ Other products examined in the initial research included Binance Academy, Coinba
 | A-04 | Guest saving/import explanations are understandable on shared devices. | Review opt-in, expiry, new-account saving, and existing-account choice. | P-03/05. |
 | G-01 | No direct learner interviews or usability sessions have been conducted. | Prepare guides and obtain owner-arranged participant access; record absence if unavailable. | P-01/05. |
 | G-02 | No WordPress/LMS application behaviour has been tested. | Source comparison and future scenario plan prepared; later delivery must establish compatible interfaces and complete behaviour. | P-06/handoff. |
-| G-03 | Representative O-04.2 questions/rubric are drafted; full banks, approved gates/criteria, ordinary thresholds, and review timing remain open. | Qualified review of [samples](CONTENT-DESIGN-SAMPLES.md)/[rules and added samples](ASSESSMENT-RULES.md); expand full/retry banks after approval. | P-02. |
-| G-04 | Initial country/asset coverage, Francophone evidence, and publication capacity remain open. | [Scope](LAUNCH-SCOPE.md) and [operating proposal](EDITORIAL-OPERATING-PLAN.md) prepared; owner coverage/capacity choices and current-applicability evidence outstanding. | P-01/02. |
+| G-03 | Full lesson and primary/retry activity drafts exist; specific gates/criteria/keys/equivalence and review timing remain unapproved. | Qualified module-batch review through [Content Review and Build Handoff](CONTENT-REVIEW-AND-BUILD-HANDOFF.md); fix dependencies and record accepted versions. | P-02. |
+| G-04 | Initial example settings/assets and publishing target adopted; current country/provider applicability, Francophone evidence and actual capacity still missing. | Review source-dependent claims and staff the adopted [Operating Plan](EDITORIAL-OPERATING-PLAN.md); fictional examples are not a supported-country list. | P-01/02. |
 | G-05 | Proposed device/network budgets, dated component costs and low-confidence effort range are prepared; actual audience baseline and complete quote remain missing. | Review PD-06/08 and obtain full delivery/operating quotations; targets and costs are unapproved. | P-06. |
 | G-06 | Eighteen page families/ten flows are drafted; functional review and actual learner validation remain outstanding. | [Internal walkthrough](FUNCTIONAL-REVIEW.md) prepared; owner/learner review of IA/flows, state cards and proposed mechanisms remains. Visual artifacts are excluded; later delivery owns working UI checks. | P-03/05/06/07. |
 

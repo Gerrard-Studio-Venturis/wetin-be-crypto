@@ -118,3 +118,11 @@ Dates use the owner's current date context. Versions describe planning documents
 - Curriculum and Journeys v0.3 captured eight foundation modules and eight learner/reader journeys.
 - Feature Specification v0.1 captured twelve feature areas and 69 acceptance criteria, including guest-memory and bookmark choices.
 - Work was saved as local planning Markdown before the owner supplied the GitHub destination. This repository package carries the current consolidated versions; the earlier drafts were not previously GitHub releases.
+
+## 8 October 2026 — implementation authorised
+
+- Recorded D-21 and superseded the previous no-code boundary for current work.
+- Added concrete implementation and content-release contracts.
+- Generated public content and server-private assessment definitions reproducibly; verified 32 lessons, six articles, six hubs, 24 terms, 32 forms and 234 paired keys.
+- Began the owned WordPress learning plugin and local PHP/WordPress verification environment.
+- Production content/plugin deployment remains unperformed: the connector currently discovers zero abilities; the earlier available catalog lacked plugin installation and the site forbids theme file edits.

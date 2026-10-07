@@ -2,6 +2,12 @@
 
 ## Engagement
 
+### Current scope — explicitly changed 7 October 2026
+
+The owner's latest instruction is: “I have full access through MCP Server For WordPress implement the website.” This authorises application implementation now and supersedes the earlier planning-only/no-code boundary below for this task. Record D-21 in the Decision Log. Build the accepted WordPress product, verify it and publish through the authorised connection where its actual capabilities permit. Preserve existing content/settings and never pretend connector access proves plugin installation or server-file access. Do not bypass DISALLOW_FILE_EDIT or misuse media uploads to execute code. Missing deployment capability is an actual blocker to identify after preparing concrete reviewable implementation artifacts. Paid purchases and unrelated destructive changes remain unauthorised. D-15 still excludes a separate visual-design planning phase; implemented styling and working accessibility are part of delivery.
+
+The paragraphs below describe the previous planning engagement and remain as history. They no longer prohibit code explicitly requested by the owner under D-21.
+
 This is the research, planning, and functional-specification repository for a WordPress crypto education application. Read README.md, REVIEW-BRIEF.md, RESEARCH-AND-DESIGN-PLAN.md, and DECISION-LOG.md before continuing the work.
 
 The owner explicitly does not want the planning assistant to write application code when the plan becomes ready. Produce evidence, specifications, content examples, functional maps/flows, technical recommendations, and a development-team handoff. Approval of documents or handoff readiness does not trigger implementation.

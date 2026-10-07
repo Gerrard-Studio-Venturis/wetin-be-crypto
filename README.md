@@ -1,12 +1,14 @@
-# Wetin Be Crypto — Research and Functional Planning
+# Wetin Be Crypto — WordPress Product and Implementation
 
 A WordPress crypto education application for a wider African audience, with a West African focus: clear learning, practical missions, saved progress, and useful public articles. English carries the teaching; occasional varied Nigerian Pidgin adds familiarity.
 
 **Start here: [Reviewer Brief](REVIEW-BRIEF.md).** It explains what we intend to build, how we will research and specify it, what needs approval, and where to find the details.
 
-## Engagement boundary
+## Current authority and delivery
 
-This repository contains research, planning, and functional specifications for a development-team handoff. Approved D-15 removes visual design: no visual concepts, polished wireframes/mockups, typography/colour system, or visual component library. Sitemap, written page/state specifications, simple flow diagrams, content/workflow review, and WordPress recommendations remain. Later delivery owns styling and working UI/accessibility validation. Completing or approving the plan does not trigger coding, application installation/configuration, a coded prototype, or deployment by the planning assistant.
+The owner explicitly instructed “implement the website” using the connected WordPress MCP application. Approved D-21 supersedes the earlier planning-only restriction. Implementation sources and deployment status are in [the implementation directory](implementation/README.md). The separate visual-design planning phase remains excluded; delivery includes usable styling and accessibility checks.
+
+The specification package remains the product contract. Earlier no-code statements describe the planning engagement, not the current instruction. Independent human reviews are not invented. Live publication depends on the connection's actual capabilities; access to content does not prove access to install the learning plugin.
 
 ## Document map
 
@@ -48,9 +50,7 @@ This repository contains research, planning, and functional specifications for a
 
 ## Current stage
 
-The owner adopted the full launch baseline, criterion-based assessment model, low-volume editorial target, preferred guest visit/checkpoint/import rules and native WordPress quotation route under D-16–20. A sitemap, eighteen page families, ten flows and all 69 future criteria are prepared. The full first writing draft now covers 32 lessons, sixteen full check forms, sixteen full mission forms, six articles, six hubs and 24 glossary concepts. [Content Review and Build Handoff](CONTENT-REVIEW-AND-BUILD-HANDOFF.md) explains actual readiness. Remaining work covers qualified content/keys/gates/equivalence and voice review, available learner evidence, actual staffing, quotes/components/technical contracts, device targets and named responsibilities. The package is **not approved as a settled development handoff**. Application tests remain not executed; baseline approval does not trigger coding.
-
-An approval means approval of the named document version and stated scope. It does not silently approve every open decision or authorise implementation.
+The baseline includes eight modules/32 lessons, sixteen check forms, sixteen mission forms, six articles, six hubs and 24 glossary concepts. [Implementation Contract](IMPLEMENTATION-CONTRACT.md) supplies concrete engineering defaults; [Content Release Review](CONTENT-RELEASE-REVIEW.md) records internal review and its evidence limits. Implementation is now authorised and underway. Tests and production status are reported separately from the historical planning checks.
 
 ## GitHub publication
 

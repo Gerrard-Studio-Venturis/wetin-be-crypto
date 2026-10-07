@@ -1,6 +1,6 @@
 # Wetin Be Crypto — Reviewer Brief
 
-Version: 0.7
+Version: 0.8
 Date: 7 October 2026
 Status: Product baseline adopted; full first writing drafts prepared. Content approvals, named owners and delivery conditions remain outstanding.
 
@@ -39,3 +39,7 @@ Visual design is excluded under D-15; later delivery owns styling and working UI
 ## Full plan
 
 [Planning Process](RESEARCH-AND-DESIGN-PLAN.md), [Handoff Review Pack](HANDOFF-REVIEW-PACK.md) and [Evidence Register](EVIDENCE-REGISTER.md) provide the detail and remaining conditions.
+
+## Implementation authority and current status
+
+D-21 records the owner's explicit instruction to implement the website through the WordPress MCP connection. This supersedes earlier no-code boundaries for the current work. The native WordPress education layer is being implemented without requiring paid licences. The [implementation directory](implementation/README.md) contains source, packaging and actual deployment status. [Implementation Contract](IMPLEMENTATION-CONTRACT.md) defines records, grading, imports and authority; [Content Release Review](CONTENT-RELEASE-REVIEW.md) defines canonical content extraction and its review limits. No production launch or independent human content approval is implied by this update.

@@ -1,6 +1,6 @@
 # Wetin Be Crypto — Decision Log
 
-Version: 0.7
+Version: 0.8
 Date: 7 October 2026
 Status: Consolidated owner choices and pending review decisions.
 
@@ -34,6 +34,9 @@ The [Product Brief](PRODUCT-BRIEF.md) carries the current approved decision text
 | D-18 | Adopt the low-volume publishing pilot as the planning target: one original evergreen article weekly and at most one qualifying sourced summary per fortnight. | Same explicit baseline response; actual staff, funding, capacity and publication dates are not confirmed. |
 | D-19 | Adopt the preferred guest visit/checkpoint/import product rules in Functional Review v0.1. | Same explicit baseline response: two-hour idle visit, genuine changed-state learning checkpoints, rolling 30-day opt-in memory, per-record confirmed import and confirmed-only cleanup. Implementation/storage support remains unverified. |
 | D-20 | Use the WordPress-owned education layer as the preferred route for quotation. | Same explicit baseline response; no host/component/version purchase, budget or developer appointment approved. |
+| D-21 | Implement the website now using the connected WordPress site; prepare and verify the owned learning application and publish through available authorised capabilities. | Owner's explicit “I have full access through MCP Server For WordPress implement the website” response supersedes D-13's former planning-only boundary. Actual server/install capability must be established; no paid purchases or bypass of site restrictions inferred. |
+
+D-13 remains a historical decision and is superseded for this task by D-21. The earlier statement that readiness alone does not trigger coding remains true; the new explicit implementation instruction supplies authority.
 
 The approved GitHub destination is [Gerrard-Studio-Venturis/wetin-be-crypto](https://github.com/Gerrard-Studio-Venturis/wetin-be-crypto). Use the Studio Venturis account connection matching that owner.
 

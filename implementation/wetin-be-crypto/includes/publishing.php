@@ -40,6 +40,14 @@ final class WBC_Publishing {
     public static function publish($homepage=false) {
         $data=json_decode(file_get_contents(dirname(__DIR__).'/data/public-content.json'),true);
         if (!is_array($data) || count($data['lessons']??[])!==32) { return new WP_Error('manifest','Content manifest is missing or invalid.'); }
+        // Refuse reserved-route collisions before writing any content. Never replace
+        // another owner's page or silently link to a different Learn page.
+        foreach (['learn','practice','journey','articles','saved','topics','glossary','welcome'] as $slug) {
+            $existing=get_page_by_path($slug,OBJECT,'page');
+            if ($existing && get_post_meta($existing->ID,'_wbc_content_id',true)!=='site-'.$slug) {
+                return new WP_Error('route_collision','An existing page occupies /'.$slug.'/. No content was imported. Reconcile that page in WordPress before setup; do not delete unrelated content.');
+            }
+        }
         $map=[];
         foreach (['lessons','articles','hubs','glossary'] as $kind) {
             foreach ($data[$kind] as $item) {

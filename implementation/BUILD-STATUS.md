@@ -1,6 +1,6 @@
 # Implementation and release status
 
-Date: 8 October 2026. Version: 0.1.0. Status: first working implementation; production release blocked and full acceptance suite incomplete.
+Date: 8 October 2026. Version: 0.1.1. Status: first working implementation; production release blocked and full acceptance suite incomplete.
 
 ## What exists
 
@@ -52,3 +52,9 @@ Final local regression passed on 8 October 2026:
 | Direct private-file HTTP request | 404, no body |
 
 The PHP suites total **88 WordPress assertions**, separately from five pure grading assertions and the browser checks. Commands are documented in [Test README](tests/README.md). No production check is included in these totals.
+
+## Chrome deployment follow-up — 8 October 2026
+
+The owner authorised deployment through the verified local Windows Chrome administrator session. The local chat reports that Upload Plugin is available and that the owner enabled the file editors. Those are local-host observations; this durable workspace has no Chrome/CUA control tool. The previous file-edit prohibition describes the earlier observation, not the newly reported setting. No security configuration was changed here.
+
+[Chrome Deployment Handoff](DEPLOYMENT-HANDOFF.md) provides the exact version 0.1.1 ZIP, checksum, Windows download/upload steps, content-preserving setup, rollback and live verification. Version 0.1.1 adds a reserved-route collision preflight: three additional WordPress assertions passed, and repeat import still produced 77 owned entries. Total locally verified WordPress assertions are now **91**, plus five pure grading assertions and browser checks. No production upload, activation, publication or live-site verification is claimed by this remote chat.

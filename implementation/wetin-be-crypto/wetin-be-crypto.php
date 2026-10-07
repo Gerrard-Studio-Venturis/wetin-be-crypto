@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Wetin Be Crypto
  * Description: Public crypto learning with private versioned practice and progress.
- * Version: 0.1.0
+ * Version: 0.1.1
  * Requires PHP: 8.0
  */
 if (!defined('ABSPATH')) { exit; }

@@ -23,3 +23,7 @@ Actual verification results and unfinished work are recorded in [Build Status](B
 Run `python tools/package.py` from this directory to generate `dist/wetin-be-crypto-0.1.0.zip` and its SHA-256 manifest. The ZIP contains a single standard WordPress plugin folder and excludes tests and private JSON files. Upload it through the normal WordPress plugin installer, activate, and open **Tools → Wetin Be Crypto** for the explicit content import and optional homepage/registration settings. **Tools → Practice publishing** reviews and approves exact activity revisions. Back up first and verify staging before public operation.
 
 Frontend libraries are plain JavaScript/CSS. No npm dependency is shipped to visitors. Locked Playwright dependencies are confined to the test directory. [Test instructions](tests/README.md) explain the disposable Docker environment and the limits of the observed results.
+
+## Current deployment candidate
+
+Use **0.1.1** from `dist/wetin-be-crypto-0.1.1.zip`. The earlier 0.1.0 archive is historical. See [Chrome Deployment Handoff](DEPLOYMENT-HANDOFF.md): the verified administrator browser is on the local Windows host, while this implementation workspace is durable. The new importer checks reserved-route collisions before any content writes. Existing content and assessment holds are preserved.

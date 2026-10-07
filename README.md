@@ -50,7 +50,7 @@ The specification package remains the product contract. Earlier no-code statemen
 
 ## Current stage
 
-The baseline includes eight modules/32 lessons, sixteen check forms, sixteen mission forms, six articles, six hubs and 24 glossary concepts. [Build Status](implementation/BUILD-STATUS.md) reports actual delivery. [Implementation Contract](IMPLEMENTATION-CONTRACT.md) supplies concrete engineering defaults; [Content Release Review](CONTENT-RELEASE-REVIEW.md) records internal review and its evidence limits. The first owned WordPress build is implemented and tested locally; production deployment remains blocked. Tests and production status are reported separately from the historical planning checks.
+The baseline includes eight modules/32 lessons, sixteen check forms, sixteen mission forms, six articles, six hubs and 24 glossary concepts. [Build Status](implementation/BUILD-STATUS.md) reports actual delivery. [Implementation Contract](IMPLEMENTATION-CONTRACT.md) supplies concrete engineering defaults; [Content Release Review](CONTENT-RELEASE-REVIEW.md) records internal review and its evidence limits. The first owned WordPress build is implemented and tested locally. The authorised Chrome deployment route exists on the local Windows host; this durable workspace supplies the [deployment handoff](implementation/DEPLOYMENT-HANDOFF.md) and verified ZIP. Tests and production status are reported separately from the historical planning checks.
 
 ## GitHub publication
 

@@ -135,3 +135,10 @@ Dates use the owner's current date context. Versions describe planning documents
 - Fixed empty guest nonce headers and canonical-ID database coercion discovered during real tests.
 - Passed 88 WordPress integration assertions, five pure grading assertions, PHP syntax checks and both mocked and actual local browser journeys. The full 69-criterion release suite is incomplete.
 - Prepared a standard plugin ZIP and pinned disposable test environment. No production deployment verified; MCP lacks installation and live content operations return intermittent non-JSON errors.
+
+## 8 October 2026 — Chrome deployment handoff, version 0.1.1
+
+- Owner authorised the verified local Chrome upload method. Confirmed the source chat is on the Windows local host; this durable chat exposes no Chrome/CUA control tools. No session cookies, credentials, security settings or external messages used.
+- Added a reserved-route preflight to prevent silent collisions with unrelated pages. Three new collision assertions and repeat 77-entry import passed.
+- Built and verified version 0.1.1 ZIP with exact SHA-256 manifest. Added detailed local-host download/upload, setup, rollback and production verification handoff.
+- Production deployment remains unperformed here; full editorial/privacy/acceptance work and review gates remain explicitly outstanding.

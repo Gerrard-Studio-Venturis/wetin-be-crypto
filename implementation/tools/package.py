@@ -1,10 +1,11 @@
 """Create a standard WordPress plugin archive from reviewed source files."""
 from pathlib import Path
-import zipfile,hashlib,json
+import zipfile,hashlib,json,re
 root=Path(__file__).resolve().parents[1]
 plugin=root/'wetin-be-crypto'
 out=root/'dist';out.mkdir(exist_ok=True)
-archive=out/'wetin-be-crypto-0.1.0.zip'
+version=re.search(r'Version:\s*([0-9.]+)',(plugin/'wetin-be-crypto.php').read_text())[1]
+archive=out/f'wetin-be-crypto-{version}.zip'
 with zipfile.ZipFile(archive,'w',zipfile.ZIP_DEFLATED) as z:
     for p in sorted(plugin.rglob('*')):
         if not p.is_file() or 'tests' in p.relative_to(plugin).parts:continue

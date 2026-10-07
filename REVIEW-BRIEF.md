@@ -36,6 +36,6 @@ Review the product scope, learner journeys, exact content/outcome mappings and a
 
 Local activation, content import, database/auth/expiry/grading tests and browser journeys have run. The entire 69-criterion suite, production-theme integration, email delivery, privacy/operational readiness and complete CMS editorial workflow have not been accepted as finished.
 
-The connected site is https://wetinbecrypto.online. Its MCP catalogue can activate installed plugins but does not expose a plugin installer, and it prohibits theme-file edits. Content operations also fail intermittently. A normal administrator plugin upload or authorised hosting deployment is needed; no production launch is claimed.
+The connected site is https://wetinbecrypto.online. The MCP connection is unreliable. The local Windows chat has verified Chrome administrator access and the plugin uploader; this durable chat cannot control that browser. The owner authorised that deployment route. [Chrome Deployment Handoff](implementation/DEPLOYMENT-HANDOFF.md) supplies the installable 0.1.1 ZIP, checksum and live checks. No production launch is claimed here.
 
 For detail, read [Product Brief](PRODUCT-BRIEF.md), [Feature Specification](FEATURE-SPECIFICATION.md), [Implementation Contract](IMPLEMENTATION-CONTRACT.md), [Content Release Review](CONTENT-RELEASE-REVIEW.md) and [Decision Log](DECISION-LOG.md). Changes are published in [PR #1](https://github.com/Gerrard-Studio-Venturis/wetin-be-crypto/pull/1).

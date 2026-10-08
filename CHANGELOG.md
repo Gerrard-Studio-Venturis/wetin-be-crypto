@@ -142,3 +142,7 @@ Dates use the owner's current date context. Versions describe planning documents
 - Added a reserved-route preflight to prevent silent collisions with unrelated pages. Three new collision assertions and repeat 77-entry import passed.
 - Built and verified version 0.1.1 ZIP with exact SHA-256 manifest. Added detailed local-host download/upload, setup, rollback and production verification handoff.
 - Production deployment remains unperformed here; full editorial/privacy/acceptance work and review gates remain explicitly outstanding.
+
+## 0.2.0 — Editorial field guide
+
+Implemented owner-selected concept 3: illustrated homepage, serif typography, cobalt/mustard palette, responsive navigation, learning sidebar, editorial article cards and progress states. Templates apply only to imported owned content. Assets and font are local; teaching and assessment approval gates are preserved. Passed 91 WordPress assertions, five grading checks, both browser suites and mobile navigation/overflow checks. Packaged upgrade; no production deployment claimed.

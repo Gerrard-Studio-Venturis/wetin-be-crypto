@@ -1,14 +1,24 @@
 {
-  "file": "wetin-be-crypto-0.1.1.zip",
-  "sha256": "f393418e42c82d70f45bfcb89a43b06a981abd2e79630d6a48fe096014c7d89b",
+  "file": "wetin-be-crypto-0.2.0.zip",
+  "sha256": "0ffadeb018f15c2106bfcba45d38ed52863bdf5baaa470820146e6f250ed16c3",
   "files": [
     "wetin-be-crypto/assets/app.css",
     "wetin-be-crypto/assets/app.js",
+    "wetin-be-crypto/assets/fonts/OFL.txt",
+    "wetin-be-crypto/assets/fonts/dm-serif-display.ttf",
+    "wetin-be-crypto/assets/images/assetreport.md",
+    "wetin-be-crypto/assets/images/fictional-story.webp",
+    "wetin-be-crypto/assets/images/field-guide-book.webp",
+    "wetin-be-crypto/assets/images/learner-portrait.webp",
+    "wetin-be-crypto/assets/site.css",
+    "wetin-be-crypto/assets/site.js",
     "wetin-be-crypto/data/private-activities.php",
     "wetin-be-crypto/data/public-content.json",
     "wetin-be-crypto/includes/backend.php",
     "wetin-be-crypto/includes/publishing.php",
     "wetin-be-crypto/includes/review.php",
+    "wetin-be-crypto/includes/site.php",
+    "wetin-be-crypto/templates/field-guide.php",
     "wetin-be-crypto/wetin-be-crypto.php"
   ]
 }

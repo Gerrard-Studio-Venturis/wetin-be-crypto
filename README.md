@@ -6,7 +6,7 @@ A WordPress crypto education application for a wider African audience, with a We
 
 ## Current authority and delivery
 
-The owner explicitly instructed “implement the website” using the connected WordPress MCP application. Approved D-21 supersedes the earlier planning-only restriction. Implementation sources and deployment status are in [the implementation directory](implementation/README.md). The separate visual-design planning phase remains excluded; delivery includes usable styling and accessibility checks.
+The owner explicitly instructed “implement the website” using the connected WordPress MCP application. Approved D-21 supersedes the earlier planning-only restriction. Implementation sources and deployment status are in [the implementation directory](implementation/README.md). The owner subsequently requested the missing visual design and selected option 3: an editorial field guide. Version 0.2.0 implements that direction. See [Design and verification](DESIGN-IMPLEMENTATION.md) and [visual QA](design-qa.md).
 
 The specification package remains the product contract. Earlier no-code statements describe the planning engagement, not the current instruction. Independent human reviews are not invented. Live publication depends on the connection's actual capabilities; access to content does not prove access to install the learning plugin.
 

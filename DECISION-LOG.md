@@ -107,3 +107,7 @@ No independent review has yet been recorded. Approval or merging of documentatio
 | D-15 | Functional IA/flows retained; visual design excluded. | P-03/05/06/07; P-04 retired. |
 
 Expand this mapping to actual design states, content examples, selected component candidates, and future verification scenarios as they are produced.
+
+## D-22 — Editorial design implementation
+
+Approved: the owner requested completion of the visual design, then selected option 3 (the third displayed concept). This supersedes D-15 for the current implementation. Use the editorial field-guide direction across owned WordPress pages, retain canonical teaching content, and preserve unrelated content and existing review gates.

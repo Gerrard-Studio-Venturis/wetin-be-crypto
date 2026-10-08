@@ -27,3 +27,7 @@ Frontend libraries are plain JavaScript/CSS. No npm dependency is shipped to vis
 ## Current deployment candidate
 
 Use **0.1.1** from `dist/wetin-be-crypto-0.1.1.zip`. The earlier 0.1.0 archive is historical. See [Chrome Deployment Handoff](DEPLOYMENT-HANDOFF.md): the verified administrator browser is on the local Windows host, while this implementation workspace is durable. The new importer checks reserved-route collisions before any content writes. Existing content and assessment holds are preserved.
+
+## Editorial design update — 8 October 2026
+
+Owner-selected option 3 is implemented in candidate **0.2.0**. See [design implementation](https://github.com/Gerrard-Studio-Venturis/wetin-be-crypto/blob/docs/research-design-plan/DESIGN-IMPLEMENTATION.md). Local checks pass; production deployment, exact X-T9 compatibility, email delivery and independent assessment/content approvals remain outstanding. Earlier visual-design exclusions are superseded by D-22.

@@ -58,3 +58,7 @@ The PHP suites total **88 WordPress assertions**, separately from five pure grad
 The owner authorised deployment through the verified local Windows Chrome administrator session. The local chat reports that Upload Plugin is available and that the owner enabled the file editors. Those are local-host observations; this durable workspace has no Chrome/CUA control tool. The previous file-edit prohibition describes the earlier observation, not the newly reported setting. No security configuration was changed here.
 
 [Chrome Deployment Handoff](DEPLOYMENT-HANDOFF.md) provides the exact version 0.1.1 ZIP, checksum, Windows download/upload steps, content-preserving setup, rollback and live verification. Version 0.1.1 adds a reserved-route collision preflight: three additional WordPress assertions passed, and repeat import still produced 77 owned entries. Total locally verified WordPress assertions are now **91**, plus five pure grading assertions and browser checks. No production upload, activation, publication or live-site verification is claimed by this remote chat.
+
+## Editorial design update — 8 October 2026
+
+Owner-selected option 3 is implemented in candidate **0.2.0**. See [design implementation](https://github.com/Gerrard-Studio-Venturis/wetin-be-crypto/blob/docs/research-design-plan/DESIGN-IMPLEMENTATION.md). Local checks pass; production deployment, exact X-T9 compatibility, email delivery and independent assessment/content approvals remain outstanding. Earlier visual-design exclusions are superseded by D-22.

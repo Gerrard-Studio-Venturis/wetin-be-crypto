@@ -500,9 +500,9 @@ final class WBC_Backend {
         $views=['learn','journey','articles','practice','saved','glossary','home'];
         $view=in_array($a['view'],$views,true)?$a['view']:'learn';
         $base=plugins_url('assets/',dirname(__DIR__).'/wetin-be-crypto.php');
-        if(file_exists(dirname(__DIR__).'/assets/app.css')) { wp_enqueue_style('wbc-app',$base.'app.css',[],self::VERSION); }
+        if(file_exists(dirname(__DIR__).'/assets/app.css')) { wp_enqueue_style('wbc-app',$base.'app.css',[], '0.2.0'); }
         if(file_exists(dirname(__DIR__).'/assets/app.js')) {
-            wp_enqueue_script('wbc-app',$base.'app.js',[],self::VERSION,true);
+            wp_enqueue_script('wbc-app',$base.'app.js',[], '0.2.0',true);
             wp_localize_script('wbc-app','WBC',['rest'=>esc_url_raw(rest_url('wbc/v1/')),'nonce'=>is_user_logged_in()?wp_create_nonce('wp_rest'):'','token'=>self::csrf(),'loggedIn'=>is_user_logged_in(),'accountId'=>get_current_user_id(),'registrationEnabled'=>(bool)get_option('users_can_register'),'login'=>wp_login_url(get_permalink()),'register'=>wp_registration_url()]);
         }
         return '<div class="wbc-app" data-view="'.esc_attr($view).'" aria-live="polite"><p>Loading your learning space…</p></div><noscript><p>Interactive learning needs JavaScript. Public lesson text remains available through the learning pages.</p></noscript>';

@@ -1,6 +1,6 @@
 # Chrome deployment handoff — Wetin Be Crypto
 
-Date: 8 October 2026. Target: https://wetinbecrypto.online. Current candidate: **0.1.1**. This is a deployable first build, not evidence that every release requirement is complete.
+Date: 8 October 2026. Target: https://wetinbecrypto.online. Current candidate: **0.2.0**. This is a deployable first build, not evidence that every release requirement is complete.
 
 ## Host boundary and authority
 
@@ -12,18 +12,22 @@ The local chat reported that the owner changed the file-edit setting and the edi
 
 ## Obtain and validate the exact ZIP
 
-Download [wetin-be-crypto-0.1.1.zip](https://github.com/Gerrard-Studio-Venturis/wetin-be-crypto/blob/docs/research-design-plan/implementation/dist/wetin-be-crypto-0.1.1.zip) using the repository's **Download raw file** action. The Windows browser/installer needs a Windows-local file; `/workspace/...` is a remote path and cannot be supplied to its file picker.
+Download [wetin-be-crypto-0.2.0.zip](https://github.com/Gerrard-Studio-Venturis/wetin-be-crypto/blob/docs/research-design-plan/implementation/dist/wetin-be-crypto-0.2.0.zip) using the repository's **Download raw file** action. The Windows browser/installer needs a Windows-local file; `/workspace/...` is a remote path and cannot be supplied to its file picker.
 
-Expected SHA-256: **f393418e42c82d70f45bfcb89a43b06a981abd2e79630d6a48fe096014c7d89b**.
+Expected SHA-256: **0ffadeb018f15c2106bfcba45d38ed52863bdf5baaa470820146e6f250ed16c3**.
 
-Use PowerShell `Get-FileHash -Algorithm SHA256 -LiteralPath 'ACTUAL-DOWNLOADED-PATH'` and compare. Do not upload the whole repository ZIP. This archive contains one `wetin-be-crypto/` directory, eight runtime files, no tests, and no public private-activity JSON. Its guarded PHP data file contains server-only keys. Version 0.1.0 remains historical; use 0.1.1, which adds reserved-route collision protection.
+Use PowerShell `Get-FileHash -Algorithm SHA256 -LiteralPath 'ACTUAL-DOWNLOADED-PATH'` and compare. Do not upload the whole repository ZIP. This archive contains one `wetin-be-crypto/` directory, 18 packaged files, no tests, and no public private-activity JSON. Its guarded PHP data file contains server-only keys. Versions 0.1.0 and 0.1.1 remain historical. Version 0.2.0 adds the selected editorial design and locally hosted assets.
 
 Current sources are on `docs/research-design-plan` in [PR #1](https://github.com/Gerrard-Studio-Venturis/wetin-be-crypto/pull/1). See [Build Status](BUILD-STATUS.md) for actual local tests and remaining requirements. Do not merge the PR as part of deployment without an instruction to merge.
+
+## Updating an existing installation
+
+In WordPress: **Plugins → Add Plugin → Upload Plugin → Choose File → wetin-be-crypto-0.2.0.zip → Install Now → Replace current with uploaded**. Activate only if inactive. Open `/welcome/` and `/learn/` in a logged-out window. The new design applies to imported owned content automatically. Do not rerun the importer merely to update styling; it can overwrite subsequent edits to owned content. Clear the existing host/plugin page cache if old styling persists; do not change security settings. Preserve backups and existing homepage settings until preview succeeds.
 
 ## Deploy through the observed administrator interface
 
 1. Inspect Installed Plugins and confirm whether Wetin Be Crypto is absent or which version already exists. Record current homepage/posts-page settings and public navigation. Preserve the X-T9 theme, hosting/MCP plugins, existing content, user records and configuration. Use an existing hosting backup facility if available; if no rollback backup is available, install/activate for inspection but do not change the public homepage or publish content until a restore path is established.
-2. In Plugins → Add Plugin → Upload Plugin, choose the verified Windows-local ZIP. Inspect the installer result. If an existing plugin is found, compare the reported version and use only the normal replacement flow for this owned plugin; do not replace an unrelated plugin. Activate and verify that the plugin list reports **0.1.1** without a fatal error.
+2. In Plugins → Add Plugin → Upload Plugin, choose the verified Windows-local ZIP. Inspect the installer result. If an existing plugin is found, compare the reported version and use only the normal replacement flow for this owned plugin; do not replace an unrelated plugin. Activate and verify that the plugin list reports **0.2.0** without a fatal error.
 3. Open **Tools → Wetin Be Crypto** (`/wp-admin/tools.php?page=wbc-setup`). Inspect existing reserved pages `/learn/`, `/practice/`, `/journey/`, `/articles/`, `/saved/`, `/topics/`, `/glossary/`, `/welcome/`. The importer now refuses a collision with any non-owned page before making content changes. A prior MCP attempt to create “Learn crypto — guided foundation” returned a non-JSON error; its outcome is unknown. Reconcile it by inspecting the Pages UI. Do not delete or rewrite unrelated content. If an unambiguously identified empty draft from our earlier attempt blocks the route, reconcile that owned draft and record the action.
 4. Review the importer disclosure. It publishes supplied teaching drafts; independent expert/learner approval is unrecorded and the news article is dated 7 October 2026. Refresh its source/status before describing it as current news. Initially leave **Set the new Welcome page as the homepage** unchecked. Leave registration unchecked until account/privacy/email readiness has been checked. Publish the education content using the authorised owner instruction and verify the result. Expected owned inventory: **77 entries** (32 lessons, six articles, six hubs, 24 glossary pages, nine site pages). Repeated imports update owned canonical IDs; they do not overwrite unrelated content.
 5. Inspect the new Welcome page at `/welcome/` and the actual public routes below, first as administrator and then in a separate logged-out browser context. If those checks pass and a rollback path exists, use the standard Reading settings/UI to select the new Wetin Be Crypto page as the homepage, preserving the old Home page. Adjust Site Editor navigation to link the published learning routes without deleting existing useful links or branding. Do not blindly republish the importer after editors change content; it can refresh owned content from its source manifest.

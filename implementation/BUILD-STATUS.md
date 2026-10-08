@@ -1,6 +1,6 @@
 # Implementation and release status
 
-Date: 8 October 2026. Version: 0.1.1. Status: first working implementation; production release blocked and full acceptance suite incomplete.
+Date: 8 October 2026. Candidate: 0.3.0. Live installed version observed: 0.2.0. Homepage corrected; completion-package installation and remaining release checks outstanding.
 
 ## What exists
 
@@ -62,3 +62,13 @@ The owner authorised deployment through the verified local Windows Chrome admini
 ## Editorial design update — 8 October 2026
 
 Owner-selected option 3 is implemented in candidate **0.2.0**. See [design implementation](https://github.com/Gerrard-Studio-Venturis/wetin-be-crypto/blob/docs/research-design-plan/DESIGN-IMPLEMENTATION.md). Local checks pass; production deployment, exact X-T9 compatibility, email delivery and independent assessment/content approvals remain outstanding. Earlier visual-design exclusions are superseded by D-22.
+
+## Current completion verification
+
+- 99 WordPress assertions (91 existing plus eight CMS/presentation checks), five grading checks, existing mocked/actual guest browser suites, actual account browser journey and presentation browser checks passed.
+- Account browser journey verified subscriber registration, password setup, login, explicit guest import, bookmark/save list/unsave, recovery email generation and logout. All outbound test email was suppressed in the disposable environment; inbox delivery is not verified.
+- Desktop/mobile captures include loaded images, seven routes, previous/next lessons, empty search, guest sign-in prompts, Menu/Escape/focus, no overflow at 375px, and branded 404/login. Local visual QA passed.
+- Live: MCP observed active 0.2.0, changed front page 32 → 133, confirmed old Home is a draft and flushed object cache. Fresh Firecrawl fetches returned the illustrated homepage HTML and seven core routes with status 200; app routes reported ready. See LIVE-VERIFICATION.json.
+- 0.3.0 installation is pending: no custom-plugin upload capability is exposed here. Production account delivery, full accessibility/acceptance and independent content/assessment reviews remain unverified. Practice approval holds remain in place.
+
+Live browser verification additionally proved all three homepage images decoded successfully and guest opt-in, reading position and completion persisted across reload. Test progress was cleared and no page errors were reported. The production homepage screenshot is saved in design-evidence/live-home.jpg.

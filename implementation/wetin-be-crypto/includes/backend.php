@@ -164,6 +164,20 @@ final class WBC_Backend {
         if (is_array($map)) {
             foreach (['lessons','articles','hubs','glossary'] as $kind) {
                 $data[$kind]=array_values(array_filter($data[$kind] ?? [],function($item) use ($map) { return isset($map[$item['id']]) && get_post_status($map[$item['id']])==='publish'; }));
+                foreach ($data[$kind] as &$item) {
+                    $post=get_post($map[$item['id']]);
+                    // The CMS remains the public editorial source after import.
+                    $content=preg_replace('/<nav aria-label="Learning navigation"[^>]*>.*?<\/nav>/s','',$post->post_content,1);
+                    $item['title']=$post->post_title;
+                    $item['body_html']=wp_kses_post(do_blocks($content));
+                    $item['url']=get_permalink($post);
+                }
+                unset($item);
+            }
+        }
+        if (class_exists('WBC_Site')) {
+            foreach (['articles','hubs'] as $kind) {
+                foreach ($data[$kind] ?? [] as $index=>$item) { $data[$kind][$index]['image']=WBC_Site::illustration($item['id']); }
             }
         }
         return $data;
@@ -461,7 +475,7 @@ final class WBC_Backend {
     public static function bookmarks($request) {
         global $wpdb;$p=self::principal(true);if(is_wp_error($p)) { return $p; }
         $rows=$wpdb->get_results($wpdb->prepare('SELECT article_id,saved,revision,created FROM '.self::table('bookmarks').' WHERE principal=%s ORDER BY created DESC',$p['id']),ARRAY_A);
-        foreach($rows as &$row) { $row['saved']=(bool)$row['saved']; $row['available']=self::content_exists('articles',$row['article_id']); }
+        foreach($rows as &$row) { $row['saved']=(bool)$row['saved']; $row['revision']=(int)$row['revision']; $row['created']=(int)$row['created']; $row['available']=self::content_exists('articles',$row['article_id']); }
         return self::response(['bookmarks'=>$rows]);
     }
     public static function bookmark($request) {
@@ -497,14 +511,14 @@ final class WBC_Backend {
     }
     public static function shortcode($atts) {
         $a=shortcode_atts(['view'=>'learn'],$atts);
-        $views=['learn','journey','articles','practice','saved','glossary','home'];
+        $views=['learn','journey','articles','practice','saved','glossary','topics','hubs','home'];
         $view=in_array($a['view'],$views,true)?$a['view']:'learn';
         $base=plugins_url('assets/',dirname(__DIR__).'/wetin-be-crypto.php');
-        if(file_exists(dirname(__DIR__).'/assets/app.css')) { wp_enqueue_style('wbc-app',$base.'app.css',[], '0.2.0'); }
+        if(file_exists(dirname(__DIR__).'/assets/app.css')) { wp_enqueue_style('wbc-app',$base.'app.css',[], '0.3.0'); }
         if(file_exists(dirname(__DIR__).'/assets/app.js')) {
-            wp_enqueue_script('wbc-app',$base.'app.js',[], '0.2.0',true);
-            wp_localize_script('wbc-app','WBC',['rest'=>esc_url_raw(rest_url('wbc/v1/')),'nonce'=>is_user_logged_in()?wp_create_nonce('wp_rest'):'','token'=>self::csrf(),'loggedIn'=>is_user_logged_in(),'accountId'=>get_current_user_id(),'registrationEnabled'=>(bool)get_option('users_can_register'),'login'=>wp_login_url(get_permalink()),'register'=>wp_registration_url()]);
+            wp_enqueue_script('wbc-app',$base.'app.js',[], '0.3.0',true);
+            wp_localize_script('wbc-app','WBC',['rest'=>esc_url_raw(rest_url('wbc/v1/')),'nonce'=>is_user_logged_in()?wp_create_nonce('wp_rest'):'','token'=>self::csrf(),'loggedIn'=>is_user_logged_in(),'accountId'=>get_current_user_id(),'registrationEnabled'=>(bool)get_option('users_can_register'),'login'=>wp_login_url(get_permalink()),'register'=>wp_registration_url(),'topics'=>home_url('/topics/'),'learn'=>home_url('/learn/')]);
         }
-        return '<div class="wbc-app" data-view="'.esc_attr($view).'" aria-live="polite"><p>Loading your learning space…</p></div><noscript><p>Interactive learning needs JavaScript. Public lesson text remains available through the learning pages.</p></noscript>';
+        return '<div class="wbc-app" data-view="'.esc_attr($view).'"><p>Loading your learning space…</p></div><noscript><p>Interactive learning needs JavaScript. Public lesson text remains available through the learning pages.</p></noscript>';
     }
 }

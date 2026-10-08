@@ -2,7 +2,7 @@
 
 Version: 0.9
 Date: 8 October 2026
-Status: Product baseline adopted; first WordPress implementation tested locally. Production deployment and complete release acceptance remain outstanding.
+Status: Editorial homepage corrected on production; completion upgrade tested and packaged. ZIP installation and remaining acceptance/review checks are outstanding.
 
 ## What we are building
 
@@ -36,10 +36,14 @@ Review the product scope, learner journeys, exact content/outcome mappings and a
 
 Local activation, content import, database/auth/expiry/grading tests and browser journeys have run. The entire 69-criterion suite, production-theme integration, email delivery, privacy/operational readiness and complete CMS editorial workflow have not been accepted as finished.
 
-The connected site is https://wetinbecrypto.online. The MCP connection is unreliable. The local Windows chat has verified Chrome administrator access and the plugin uploader; this durable chat cannot control that browser. The owner authorised that deployment route. [Chrome Deployment Handoff](implementation/DEPLOYMENT-HANDOFF.md) supplies the installable 0.2.0 ZIP, checksum and live checks. No production launch is claimed here.
+The connected site is https://wetinbecrypto.online. The MCP connection is unreliable. The local Windows chat has verified Chrome administrator access and the plugin uploader; this durable chat cannot control that browser. The owner authorised that deployment route. [Chrome Deployment Handoff](implementation/DEPLOYMENT-HANDOFF.md) supplies the installable 0.3.0 ZIP, checksum and live checks. The live homepage setting has been corrected; 0.3.0 code deployment and complete launch acceptance are not claimed.
 
 For detail, read [Product Brief](PRODUCT-BRIEF.md), [Feature Specification](FEATURE-SPECIFICATION.md), [Implementation Contract](IMPLEMENTATION-CONTRACT.md), [Content Release Review](CONTENT-RELEASE-REVIEW.md) and [Decision Log](DECISION-LOG.md). Changes are published in [PR #1](https://github.com/Gerrard-Studio-Venturis/wetin-be-crypto/pull/1).
 
 ## Editorial design update — 8 October 2026
 
 Owner-selected option 3 is implemented in candidate **0.2.0**. See [design implementation](https://github.com/Gerrard-Studio-Venturis/wetin-be-crypto/blob/docs/research-design-plan/DESIGN-IMPLEMENTATION.md). Local checks pass; production deployment, exact X-T9 compatibility, email delivery and independent assessment/content approvals remain outstanding. Earlier visual-design exclusions are superseded by D-22.
+
+## Completion result
+
+The live site reports plugin 0.2.0 active; its homepage now points to page 133 and the old Home is a draft. Seven public routes returned 200 on fresh fetches. The tested 0.3.0 update adds topic/article imagery, clearer learning controls, CMS-aware reading, branded login/404 and a Save/Unsave revision fix. Local account and presentation journeys pass. Production email delivery and independent assessment reviews remain outstanding; all test email was suppressed locally.

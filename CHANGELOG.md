@@ -150,3 +150,7 @@ Implemented owner-selected concept 3: illustrated homepage, serif typography, co
 ## Completion-plan clarification
 
 The owner clarified that “version 1.1” describes the expected polish, not a requested version number. Replaced the numbered release plan with five practical completion steps. Use existing WordPress settings and the existing plugin; a new custom setup screen and additional research phase are unnecessary. Production access and actual review status remain explicit.
+
+## 0.3.0 — Website completion update
+
+Added original optimised illustrations, article/topic imagery, compact progress options, lesson navigation and journey resume, branded WordPress authentication/404 and sign-out. Catalogue reading now reflects CMS edits. Fixed bookmark revisions being returned as text and preventing Unsave. Preserved data schema and exact-revision review gates. Passed 99 WordPress assertions, five grading checks and four browser suites; local test email suppressed. Corrected live homepage 32 → 133, confirmed old Home as draft, flushed object cache and observed seven public routes. Current live plugin remains 0.2.0; 0.3.0 ZIP installation is still required.

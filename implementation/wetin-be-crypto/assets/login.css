@@ -1,0 +1,13 @@
+@font-face{font-family:'WBC Editorial';src:url('fonts/dm-serif-display.ttf') format('truetype');font-weight:400;font-style:normal;font-display:swap}
+body.login{background:#fffdf7;color:#101313;font-family:Arial,Helvetica,sans-serif}
+.login #login{width:min(360px,calc(100% - 40px));padding-top:8vh}
+.login h1 a{background:none;text-indent:0;width:auto;height:auto;font:400 40px/1.15 'WBC Editorial',Georgia,serif;color:#101313;letter-spacing:-.04em;margin-bottom:30px}
+.login form{border:1px solid #dbdcd7;box-shadow:none;border-radius:6px;padding:28px;background:#fff}
+.login .button-primary{background:#114bc9;border-color:#114bc9;box-shadow:none;text-shadow:none;min-height:44px;padding:4px 18px}
+.login .button-primary:hover{background:#083795;border-color:#083795}
+.login a{color:#114bc9}
+.login a:focus-visible,.login button:focus-visible,.login input:focus-visible{outline:3px solid #996e00;outline-offset:3px;box-shadow:none}
+.login input[type=text],.login input[type=password]{min-height:44px;border-color:#949aa6;border-radius:4px}
+.login label{font-size:14px;line-height:1.5}
+.login #nav,.login #backtoblog{line-height:1.8}
+@media(max-width:480px){.login h1 a{font-size:34px}.login #login{padding-top:5vh}}

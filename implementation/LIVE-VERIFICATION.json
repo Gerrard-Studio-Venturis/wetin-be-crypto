@@ -1,0 +1,149 @@
+{
+  "target": "https://wetinbecrypto.online",
+  "installedPluginObserved": "0.2.0",
+  "homepageChange": {
+    "previous": {
+      "shows": "static_page",
+      "front_page": {
+        "id": 32,
+        "title": "Home",
+        "url": "https://wetinbecrypto.online/",
+        "status": "publish"
+      },
+      "posts_page": {
+        "id": 0,
+        "title": "",
+        "url": "",
+        "status": ""
+      }
+    },
+    "current": {
+      "shows": "static_page",
+      "front_page": {
+        "id": 133,
+        "title": "Wetin Be Crypto",
+        "url": "https://wetinbecrypto.online/",
+        "status": "publish"
+      },
+      "posts_page": {
+        "id": 0,
+        "title": "",
+        "url": "",
+        "status": ""
+      }
+    },
+    "changed": true,
+    "notes": [
+      "No blog page is set, so the site currently has nowhere listing its posts. Set one with mosmcp/site-set-posts-page if the site has a blog."
+    ]
+  },
+  "oldPage": {
+    "id": 32,
+    "status": "draft",
+    "evidence": "Only published pages can be unpublished. This page has status \"draft\"."
+  },
+  "cache": {
+    "object_cache_flushed": true,
+    "persistent_object_cache": true,
+    "engines": [],
+    "notes": [
+      "No page-caching plugin was detected. If visitors still see stale content, the cache is likely at the host or a CDN rather than in WordPress."
+    ]
+  },
+  "publicRoutes": [
+    {
+      "slug": "learn",
+      "isError": false,
+      "status": 200,
+      "title": "Learn - Wetin be crypto",
+      "h1": "Your crypto field guide",
+      "ready": true,
+      "error": "Your learning space is ready.",
+      "mainImages": 0
+    },
+    {
+      "slug": "articles",
+      "isError": false,
+      "status": 200,
+      "title": "Articles and stories - Wetin be crypto",
+      "h1": "Ideas, explained.",
+      "ready": true,
+      "error": "Your learning space is ready.",
+      "mainImages": 0
+    },
+    {
+      "slug": "topics",
+      "isError": false,
+      "status": 200,
+      "title": "Topics - Wetin be crypto",
+      "h1": "Topics",
+      "ready": false,
+      "mainImages": 0
+    },
+    {
+      "slug": "glossary",
+      "isError": false,
+      "status": 200,
+      "title": "Glossary - Wetin be crypto",
+      "h1": "Glossary",
+      "ready": false,
+      "mainImages": 0
+    },
+    {
+      "slug": "journey",
+      "isError": false,
+      "status": 200,
+      "title": "My journey - Wetin be crypto",
+      "h1": "Your learning journey",
+      "ready": true,
+      "error": "Your learning space is ready.",
+      "mainImages": 0
+    },
+    {
+      "slug": "saved",
+      "isError": false,
+      "status": 200,
+      "title": "Saved articles - Wetin be crypto",
+      "h1": "Your reading list",
+      "ready": true,
+      "error": "Your learning space is ready.",
+      "mainImages": 0
+    },
+    {
+      "slug": "practice",
+      "isError": false,
+      "status": 200,
+      "title": "Practice - Wetin be crypto",
+      "h1": "Put it into practice",
+      "ready": true,
+      "error": "Your learning space is ready.",
+      "mainImages": 0
+    }
+  ],
+  "limits": [
+    "Current 0.3.0 package is not installed through this remote workspace.",
+    "Production account email delivery and independent content/assessment approvals remain unverified."
+  ],
+  "liveHomepageImages": [
+    {
+      "filename": "field-guide-book.webp",
+      "decoded": true
+    },
+    {
+      "filename": "fictional-story.webp",
+      "decoded": true
+    },
+    {
+      "filename": "learner-portrait.webp",
+      "decoded": true
+    }
+  ],
+  "liveGuestJourney": {
+    "rememberedAcrossReload": true,
+    "completionAcrossReload": true,
+    "readingPositionSaved": true,
+    "testProgressCleared": true,
+    "pageErrors": []
+  },
+  "homepageCapture": "design-evidence/live-home.jpg"
+}

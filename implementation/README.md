@@ -16,18 +16,22 @@ The connected production site is https://wetinbecrypto.online. Read-only observa
 
 Install the prepared plugin using the normal administrator Plugins → Add New → Upload Plugin flow, or an authorised hosting deployment. A media upload is not a plugin installation. Do not bypass the file-edit policy. Preserve the MCP/hosting plugins and existing content. Take a database/files backup before activation, run staging checks, then publish the public pages and homepage.
 
-Actual verification results and unfinished work are recorded in [Build Status](BUILD-STATUS.md). The first working package is version 0.1.0; it is not a completed production release. Local tests do not establish production compatibility, transactional-email delivery or independent content approval.
+Actual verification results and unfinished work are recorded in [Build Status](BUILD-STATUS.md). The current completion package is version 0.3.0; its production installation is still pending. Local tests do not establish production compatibility, transactional-email delivery or independent content approval.
 
 ## Package and install
 
-Run `python tools/package.py` from this directory to generate `dist/wetin-be-crypto-0.1.0.zip` and its SHA-256 manifest. The ZIP contains a single standard WordPress plugin folder and excludes tests and private JSON files. Upload it through the normal WordPress plugin installer, activate, and open **Tools → Wetin Be Crypto** for the explicit content import and optional homepage/registration settings. **Tools → Practice publishing** reviews and approves exact activity revisions. Back up first and verify staging before public operation.
+Run `python tools/package.py` from this directory to generate `dist/wetin-be-crypto-0.3.0.zip` and its SHA-256 manifest. The ZIP contains a single standard WordPress plugin folder and excludes tests and private JSON files. Upload it through the normal WordPress plugin installer, activate, and open **Tools → Wetin Be Crypto** for the explicit content import and optional homepage/registration settings. **Tools → Practice publishing** reviews and approves exact activity revisions. Back up first and verify staging before public operation.
 
 Frontend libraries are plain JavaScript/CSS. No npm dependency is shipped to visitors. Locked Playwright dependencies are confined to the test directory. [Test instructions](tests/README.md) explain the disposable Docker environment and the limits of the observed results.
 
 ## Current deployment candidate
 
-Use **0.1.1** from `dist/wetin-be-crypto-0.1.1.zip`. The earlier 0.1.0 archive is historical. See [Chrome Deployment Handoff](DEPLOYMENT-HANDOFF.md): the verified administrator browser is on the local Windows host, while this implementation workspace is durable. The new importer checks reserved-route collisions before any content writes. Existing content and assessment holds are preserved.
+Use **0.3.0** from `dist/wetin-be-crypto-0.3.0.zip`. Earlier archives are historical. See [Chrome Deployment Handoff](DEPLOYMENT-HANDOFF.md): the verified administrator browser is on the local Windows host, while this implementation workspace is durable. The new importer checks reserved-route collisions before any content writes. Existing content and assessment holds are preserved.
 
 ## Editorial design update — 8 October 2026
 
 Owner-selected option 3 is implemented in candidate **0.2.0**. See [design implementation](https://github.com/Gerrard-Studio-Venturis/wetin-be-crypto/blob/docs/research-design-plan/DESIGN-IMPLEMENTATION.md). Local checks pass; production deployment, exact X-T9 compatibility, email delivery and independent assessment/content approvals remain outstanding. Earlier visual-design exclusions are superseded by D-22.
+
+## Completion checkpoint
+
+The live site reports 0.2.0 active. Its front page was changed from Home (32) to Wetin Be Crypto (133); the old page is a draft. Fresh public fetches returned 200 for all seven core routes. The new 0.3.0 package adds illustrated articles/topics, compact learning controls, lesson navigation, CMS-aware reading, branded authentication/404 pages and a bookmark revision fix. Install the ZIP to apply these code changes; do not re-import existing content. See [live evidence](LIVE-VERIFICATION.json) and [upgrade steps](DEPLOYMENT-HANDOFF.md).

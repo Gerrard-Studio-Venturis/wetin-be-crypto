@@ -4,7 +4,11 @@
   "version": "0.1.0",
   "scripts": {
     "test": "node client.cjs",
-    "test:local": "node live-local-client.cjs"
+    "test:local": "node live-local-client.cjs",
+    "test:design": "node presentation-local.cjs",
+    "test:accounts": "node account-local.cjs"
   },
-  "devDependencies": {"playwright": "1.62.1"}
+  "devDependencies": {
+    "playwright": "1.62.1"
+  }
 }

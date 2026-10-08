@@ -13,3 +13,9 @@ See [visual QA](design-qa.md), [desktop](implementation/design-evidence/home-des
 Local WordPress checks: 91 assertions, five grading checks, both client browser suites; loaded home images, mobile Menu and Escape state, and 375px no horizontal overflow. This does not establish production X-T9 compatibility, complete accessibility, mail delivery or editorial approval. Practice retains exact-revision approval gates. No production changes are claimed.
 
 Upgrade using the versioned plugin ZIP, then preview the imported Welcome page before changing Reading settings. Existing accounts and progress remain in the existing database schema.
+
+## Completion update
+
+Version 0.3.0 adds original stablecoin/custody/network illustrations to editorial cards, topic hubs and article reading. It compacts optional-memory controls, adds previous/next lessons and journey resume, styles native WordPress authentication and the site's 404, supplies sign-out and fixes bookmark revision types. Public catalogue reading reflects CMS edits after import.
+
+The live homepage was switched to canonical page 133, replacing Home 32; the old page is a draft. Live browser checks proved the three existing homepage images load and guest progress survives reload; test progress was cleared. The additional 0.3.0 code/images require the ordinary plugin ZIP upgrade. See current deployment handoff and LIVE-VERIFICATION.json.

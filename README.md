@@ -4,7 +4,7 @@ A WordPress crypto education application for a wider African audience, with a We
 
 **Start here: [Reviewer Brief](REVIEW-BRIEF.md).** It explains what we intend to build, how we will research and specify it, what needs approval, and where to find the details.
 
-**Finish the website:** [Completion plan](PROJECT-COMPLETION-PLAN.md) covers the public homepage, images, essential user journeys and verified deployment using the existing WordPress setup.
+**Completion checkpoint:** [Completion plan](PROJECT-COMPLETION-PLAN.md) covers the public homepage, images, essential user journeys and verified deployment using the existing WordPress setup.
 
 ## Current authority and delivery
 
@@ -59,3 +59,7 @@ The baseline includes eight modules/32 lessons, sixteen check forms, sixteen mis
 Repository: [Gerrard-Studio-Venturis/wetin-be-crypto](https://github.com/Gerrard-Studio-Venturis/wetin-be-crypto).
 
 Publish coherent documentation updates during active work: research synthesis, material specifications, content/workflow findings, and handoff revisions. Keep the reviewer brief, decision log, and changelog aligned. The package is proposed on `docs/research-design-plan` in [draft PR #1](https://github.com/Gerrard-Studio-Venturis/wetin-be-crypto/pull/1); later changes follow the repository's current branch and review policy. See the [publication procedure](RESEARCH-AND-DESIGN-PLAN.md#github-publication-procedure).
+
+## Current delivery result
+
+The live homepage now points to Wetin Be Crypto; the former starter page is a draft. Active plugin 0.2.0 and seven working public routes were observed. The tested 0.3.0 upgrade adds the remaining design and account-flow fixes. It still needs the standard WordPress ZIP upload. See [installation and live status](implementation/DEPLOYMENT-HANDOFF.md).

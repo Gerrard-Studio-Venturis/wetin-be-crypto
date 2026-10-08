@@ -111,3 +111,5 @@ Expand this mapping to actual design states, content examples, selected componen
 ## D-22 — Editorial design implementation
 
 Approved: the owner requested completion of the visual design, then selected option 3 (the third displayed concept). This supersedes D-15 for the current implementation. Use the editorial field-guide direction across owned WordPress pages, retain canonical teaching content, and preserve unrelated content and existing review gates.
+
+Completion clarification: the owner's later reference to “version 1.1” describes expected quality, not release numbering. Keep delivery simple and finish the existing WordPress site using the [completion plan](PROJECT-COMPLETION-PLAN.md); no new custom setup interface is required.

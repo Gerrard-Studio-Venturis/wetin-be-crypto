@@ -26,7 +26,7 @@ Examples use fictional routes and invalid destinations. The site requires no fun
 
 WordPress owns public pages/posts and accounts. One owned plugin supplies learner authority, private versioned assessments, progress, guest expiry/imports and bookmarks. Paid LMS licences are unnecessary for this baseline. The existing production theme and hosting plugins are preserved pending compatibility checks.
 
-Spec-driven development connects product outcomes to documented feature behaviour, written states/flows, engineering contracts and meaningful verification. The repository retains the complete research, curriculum, sources, decisions, twelve feature groups and 69 acceptance criteria. A separate visual-design planning phase was removed under D-15; implementation still includes usable responsive styling and accessibility checks.
+Spec-driven development connects product outcomes to documented feature behaviour, written states/flows, engineering contracts and meaningful verification. The repository retains the complete research, curriculum, sources, decisions, twelve feature groups and 69 acceptance criteria. The owner subsequently requested visual design and selected the editorial field-guide direction under D-22. The [completion plan](PROJECT-COMPLETION-PLAN.md) now focuses on finishing and deploying the existing implementation using ordinary WordPress settings.
 
 D-21 records the owner's explicit instruction to implement the website, superseding D-13's earlier planning-only boundary. The [implementation directory](implementation/README.md) contains the code and packaging; [Build Status](implementation/BUILD-STATUS.md) distinguishes tested behaviour from missing release evidence.
 
@@ -36,7 +36,7 @@ Review the product scope, learner journeys, exact content/outcome mappings and a
 
 Local activation, content import, database/auth/expiry/grading tests and browser journeys have run. The entire 69-criterion suite, production-theme integration, email delivery, privacy/operational readiness and complete CMS editorial workflow have not been accepted as finished.
 
-The connected site is https://wetinbecrypto.online. The MCP connection is unreliable. The local Windows chat has verified Chrome administrator access and the plugin uploader; this durable chat cannot control that browser. The owner authorised that deployment route. [Chrome Deployment Handoff](implementation/DEPLOYMENT-HANDOFF.md) supplies the installable 0.1.1 ZIP, checksum and live checks. No production launch is claimed here.
+The connected site is https://wetinbecrypto.online. The MCP connection is unreliable. The local Windows chat has verified Chrome administrator access and the plugin uploader; this durable chat cannot control that browser. The owner authorised that deployment route. [Chrome Deployment Handoff](implementation/DEPLOYMENT-HANDOFF.md) supplies the installable 0.2.0 ZIP, checksum and live checks. No production launch is claimed here.
 
 For detail, read [Product Brief](PRODUCT-BRIEF.md), [Feature Specification](FEATURE-SPECIFICATION.md), [Implementation Contract](IMPLEMENTATION-CONTRACT.md), [Content Release Review](CONTENT-RELEASE-REVIEW.md) and [Decision Log](DECISION-LOG.md). Changes are published in [PR #1](https://github.com/Gerrard-Studio-Venturis/wetin-be-crypto/pull/1).
 

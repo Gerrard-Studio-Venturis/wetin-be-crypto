@@ -146,3 +146,7 @@ Dates use the owner's current date context. Versions describe planning documents
 ## 0.2.0 — Editorial field guide
 
 Implemented owner-selected concept 3: illustrated homepage, serif typography, cobalt/mustard palette, responsive navigation, learning sidebar, editorial article cards and progress states. Templates apply only to imported owned content. Assets and font are local; teaching and assessment approval gates are preserved. Passed 91 WordPress assertions, five grading checks, both browser suites and mobile navigation/overflow checks. Packaged upgrade; no production deployment claimed.
+
+## Completion-plan clarification
+
+The owner clarified that “version 1.1” describes the expected polish, not a requested version number. Replaced the numbered release plan with five practical completion steps. Use existing WordPress settings and the existing plugin; a new custom setup screen and additional research phase are unnecessary. Production access and actual review status remain explicit.

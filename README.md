@@ -4,7 +4,7 @@ A WordPress crypto education application for a wider African audience, with a We
 
 **Start here: [Reviewer Brief](REVIEW-BRIEF.md).** It explains what we intend to build, how we will research and specify it, what needs approval, and where to find the details.
 
-**Next release:** [1.1 completion plan](RELEASE-1.1-PLAN.md) addresses the old public homepage, production adoption, images and complete learner journeys.
+**Finish the website:** [Completion plan](PROJECT-COMPLETION-PLAN.md) covers the public homepage, images, essential user journeys and verified deployment using the existing WordPress setup.
 
 ## Current authority and delivery
 

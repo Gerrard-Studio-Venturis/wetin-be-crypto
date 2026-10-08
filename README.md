@@ -4,6 +4,8 @@ A WordPress crypto education application for a wider African audience, with a We
 
 **Start here: [Reviewer Brief](REVIEW-BRIEF.md).** It explains what we intend to build, how we will research and specify it, what needs approval, and where to find the details.
 
+**Next release:** [1.1 completion plan](RELEASE-1.1-PLAN.md) addresses the old public homepage, production adoption, images and complete learner journeys.
+
 ## Current authority and delivery
 
 The owner explicitly instructed “implement the website” using the connected WordPress MCP application. Approved D-21 supersedes the earlier planning-only restriction. Implementation sources and deployment status are in [the implementation directory](implementation/README.md). The owner subsequently requested the missing visual design and selected option 3: an editorial field guide. Version 0.2.0 implements that direction. See [Design and verification](DESIGN-IMPLEMENTATION.md) and [visual QA](design-qa.md).
